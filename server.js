@@ -1,7 +1,6 @@
 
 const http=require('node:http'),fs=require('node:fs'),path=require('node:path');
 const {handler:tiktokHandler}=require('./tiktok-server');
-const {handler:kickHandler}=require('./kick-server');
 
 const root=__dirname,port=Number(process.env.PORT||3000),clients=new Set();
 let snapshot=null;
@@ -18,7 +17,6 @@ http.createServer((req,res)=>{
  if(url.pathname==='/health')return send(res,200,'ok');
 
  if(tiktokHandler(req,res,url,send))return;
- if(kickHandler(req,res,url,send))return;
 
  if(url.pathname==='/api/events'){
   res.writeHead(200,{'Content-Type':'text/event-stream','Cache-Control':'no-cache','Connection':'keep-alive'});
