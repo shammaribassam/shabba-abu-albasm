@@ -3,8 +3,7 @@ let socket=null,timer=null;
 const qs=window.BSM_QUESTIONS||[];
 function log(name,msg){state.chat.push([name,msg]);state.chat=state.chat.slice(-100);publish()}
 function receive(name,msg,platform="twitch"){name=String(name||'').trim();msg=String(msg||'').trim();if(!name)return;log(name,msg);const id=platform+':'+name.toLowerCase(); if(!state.platforms)state.platforms={}; state.platforms[id]=platform;
-if(platform==='tiktok'&&msg.replace(/[\u064B-\u065F\u0670\u0640]/g,'').trim()==='دخول'){if(!Object.hasOwn(state.joined,id)){state.joined[id]=name;state.scores[id]=0;publish();}log('النظام',name+' انضم للمسابقة');return;}if(state.phase!=='playing'||!state.question||!Object.hasOwn(state.joined,id)||(state.excluded||[]).includes(id))return;
-if(!/^[1-4١٢٣٤]$/.test(msg))return;
+const joinMsg=msg.replace(/[\u064B-\u065F\u0670\u0640]/g,'').trim();if((platform==='tiktok'?(joinMsg==='دخول'||joinMsg==='انضم'):(joinMsg==='!انضم'))){if(!Object.hasOwn(state.joined,id)){state.joined[id]=name;state.scores[id]=0;publish();}log('النظام',name+' انضم للمسابقة');return;}if(state.phase!=='playing'||!state.question||!Object.hasOwn(state.joined,id)||(state.excluded||[]).includes(id))return;if(!/^[1-4١٢٣٤]$/.test(msg))return;
 const n='١٢٣٤'.includes(msg)?'١٢٣٤'.indexOf(msg):Number(msg)-1;
 if(!Array.isArray(state.attempts))state.attempts=[];
 if(state.attempts.includes(id))return;
