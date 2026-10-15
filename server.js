@@ -1,15 +1,15 @@
-
-const http=require('node:http'),fs=require('node:fs'),path=require('node:path'),crypto=require('node:crypto');
-const root=__dirname,port=Number(process.env.PORT||3000);
-const clients=new Set();
+const http=require('node:http'),fs=require('node:fs'),path=require('node:path');
+const {handler:tiktokHandler}=require('./tiktok-server');
+const root=__dirname,port=Number(process.env.PORT||3000),clients=new Set();
 let snapshot=null;
 const types={'.html':'text/html; charset=utf-8','.js':'application/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.webp':'image/webp','.png':'image/png','.txt':'text/plain; charset=utf-8'};
 function send(res,status,body,type='text/plain; charset=utf-8'){res.writeHead(status,{'Content-Type':type,'Cache-Control':'no-store'});res.end(body)}
 http.createServer((req,res)=>{
  const url=new URL(req.url,'http://localhost');
  if(url.pathname==='/health')return send(res,200,'ok');
+ if(tiktokHandler(req,res,url,send))return;
  if(url.pathname==='/api/events'){
-  res.writeHead(200,{'Content-Type':'text/event-stream','Cache-Control':'no-cache','Connection':'keep-alive','Access-Control-Allow-Origin':'*'});
+  res.writeHead(200,{'Content-Type':'text/event-stream','Cache-Control':'no-cache','Connection':'keep-alive'});
   clients.add(res);res.write(': connected\n\n');
   if(snapshot)res.write('data: '+JSON.stringify(snapshot)+'\n\n');
   req.on('close',()=>clients.delete(res));return;
@@ -29,7 +29,8 @@ http.createServer((req,res)=>{
   return;
  }
  if(req.method!=='GET')return send(res,405,'Method not allowed');
- let rel=decodeURIComponent(url.pathname);if(rel==='/')rel='/index.html';
+ let rel;try{rel=decodeURIComponent(url.pathname)}catch{return send(res,400,'Bad path')}
+ if(rel==='/')rel='/index.html';
  if(!/^\/[\w.\/-]+$/.test(rel)||rel.includes('..'))return send(res,403,'Forbidden');
  const file=path.join(root,rel);
  if(!file.startsWith(root+path.sep))return send(res,403,'Forbidden');
