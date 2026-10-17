@@ -1,5 +1,9 @@
 'use strict';
 let socket=null,timer=null;
+let sessionStarted=sessionStorage.getItem('bsm_session_started')==='1';
+function setSessionStarted(value){sessionStarted=!!value;sessionStorage.setItem('bsm_session_started',sessionStarted?'1':'0')}
+function shuffledQuestion(q){const entries=q.options.map((option,i)=>({option,correct:i===q.correct}));for(let i=entries.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[entries[i],entries[j]]=[entries[j],entries[i]]}return {...q,options:entries.map(x=>x.option),correct:entries.findIndex(x=>x.correct)};}
+function launchQuestion(){if(timer){clearInterval(timer);timer=null}state.phase='playing';state.seconds=30;state.winners=[];state.attempts=[];state.excluded=[];publish();updateButtons();timer=setInterval(()=>{if(state.phase!=='playing'){clearInterval(timer);timer=null;return}state.seconds=Math.max(0,state.seconds-1);if(!state.seconds)endRound();else publish()},1000)}
 const qs=window.BSM_QUESTIONS||[];
 function log(name,msg){state.chat.push([name,msg]);state.chat=state.chat.slice(-100);publish()}
 function receive(name,msg,platform='twitch'){
@@ -18,10 +22,10 @@ function receive(name,msg,platform='twitch'){
  if(state.winners.length===3)endRound();
 }
 function endRound(){if(timer){clearInterval(timer);timer=null}if(state.question&&state.phase==='playing'){state.phase='ended';publish()}updateButtons()}
-function updateButtons(){if($('start'))$('start').disabled=state.phase==='playing'}
-function chooseCategory(cat){if(!labels[cat])return;endRound();state.category=cat;state.question=null;state.phase='idle';state.seconds=30;state.winners=[];state.attempts=[];state.excluded=[];publish();updateButtons()}
-function nextQuestion(){endRound();const pool=qs.filter(q=>q.category===state.category);let seen=state.seen[state.category]||[];let available=pool.filter(q=>!seen.includes(q.question));if(!available.length){seen=[];available=pool}const q=available[Math.floor(Math.random()*available.length)];if(!q)return;state.seen[state.category]=[...seen,q.question];state.question=q;state.round++;state.phase='ready';state.seconds=30;state.winners=[];state.attempts=[];state.excluded=[];publish();updateButtons()}
-function startRound(){if(state.phase==='playing')return;if(!state.question||state.phase==='ended')nextQuestion();state.phase='playing';state.seconds=30;state.winners=[];state.attempts=[];state.excluded=[];publish();updateButtons();timer=setInterval(()=>{if(state.phase!=='playing'){clearInterval(timer);timer=null;return}state.seconds=Math.max(0,state.seconds-1);if(!state.seconds)endRound();else publish()},1000)}
+function updateButtons(){if($('start'))$('start').disabled=state.phase==='playing'||sessionStarted}
+function chooseCategory(cat){if(!labels[cat])return;endRound();setSessionStarted(false);state.category=cat;state.question=null;state.phase='idle';state.seconds=30;state.winners=[];state.attempts=[];state.excluded=[];publish();updateButtons()}
+function nextQuestion(){endRound();const pool=qs.filter(q=>q.category===state.category);let seen=state.seen[state.category]||[];let available=pool.filter(q=>!seen.includes(q.question));if(!available.length){seen=[];available=pool}const q=available[Math.floor(Math.random()*available.length)];if(!q)return;state.seen[state.category]=[...seen,q.question];state.question=shuffledQuestion(q);state.round++;state.phase='ready';state.seconds=30;state.winners=[];state.attempts=[];state.excluded=[];publish();updateButtons();if(sessionStarted)launchQuestion()}
+function startRound(){if(state.phase==='playing')return;setSessionStarted(true);if(!state.question||state.phase==='ended'){nextQuestion();return}launchQuestion()}
 function disconnect(){if(socket){socket.onclose=null;socket.close();socket=null}$('connection').textContent='غير متصل'}
 function connect(){disconnect();const ch=$('channel').value.trim().replace(/^@/,'').toLowerCase();if(!/^[a-z0-9_]{3,25}$/.test(ch)){$('connection').textContent='اسم قناة غير صالح';return}$('connection').textContent='جارٍ الاتصال بـ Twitch...';
  try{const s=new WebSocket('wss://irc-ws.chat.twitch.tv:443');socket=s;
