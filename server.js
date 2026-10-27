@@ -1,6 +1,7 @@
 'use strict';
 const http=require('node:http'),fs=require('node:fs'),path=require('node:path'),crypto=require('node:crypto');
 const {handler:tiktokHandler,stopRoom}=require('./tiktok-server');
+const {handler:kickHandler,stopRoom:stopKickRoom}=require('./kick-server');
 const root=__dirname,port=Number(process.env.PORT||3000),rooms=new Map();
 const types={'.html':'text/html; charset=utf-8','.js':'application/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.webp':'image/webp','.png':'image/png','.txt':'text/plain; charset=utf-8'};
 const roomPattern=/^[a-f0-9-]{36}$/i;
@@ -10,7 +11,7 @@ function readJSON(req,max=1000000){return new Promise((resolve,reject)=>{let par
 function getRoom(url){const id=url.searchParams.get('room')||'';return roomPattern.test(id)?rooms.get(id):null}
 function authorized(req,room){const a=req.headers['x-room-token'];return !!room&&typeof a==='string'&&a.length===room.token.length&&crypto.timingSafeEqual(Buffer.from(a),Buffer.from(room.token))}
 function emit(room,event){for(const client of room.clients){try{client.write('data: '+JSON.stringify(event)+'\n\n')}catch{room.clients.delete(client)}}}
-setInterval(()=>{const now=Date.now();for(const [id,room] of rooms){if(now-room.touched>24*3600e3){for(const c of room.clients)c.end();stopRoom(id);rooms.delete(id)}}},3600e3).unref();
+setInterval(()=>{const now=Date.now();for(const [id,room] of rooms){if(now-room.touched>24*3600e3){for(const c of room.clients)c.end();stopRoom(id);stopKickRoom(id,true);rooms.delete(id)}}},3600e3).unref();
 http.createServer(async(req,res)=>{
  const url=new URL(req.url,'http://localhost');
  if(url.pathname==='/health')return send(res,200,'ok');
@@ -35,6 +36,7 @@ http.createServer(async(req,res)=>{
   }catch(e){return json(res,400,{error:e.message})}
  }
  if(tiktokHandler(req,res,url,{getRoom,authorized,send,json,readJSON}))return;
+ if(kickHandler(req,res,url,{getRoom,authorized,json,readJSON}))return;
  if(req.method!=='GET')return send(res,405,'Method not allowed');
  let rel;try{rel=decodeURIComponent(url.pathname)}catch{return send(res,400,'Bad path')}
  if(rel==='/')rel='/index.html';if(!/^\/[\w.\/-]+$/.test(rel)||rel.includes('..'))return send(res,403,'Forbidden');
