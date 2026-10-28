@@ -10,7 +10,7 @@
   state.seen = state.seen || {};
   state.seen.wrestling = state.seen.wrestling || [];
   const style = document.createElement('style');
-  style.textContent = "body[data-theme=wrestling]{--accent:#ff7897;--accent2:#8f2b70;--glow:#d4418e64;--bg:#170c24;--card:#2a1634ed;--soft:#ffd6e4;--emoji:'🤼'}";
+  style.textContent = "body[data-theme=wrestling]{--accent:#f04444;--accent2:#d0a44c;--glow:#a51c2f59;--bg:#09090d;--card:#171317f0;--soft:#f5dfbd;--emoji:'🤼'}\nbody[data-theme=wrestling] .panel{border-top-color:#d0a44c;background:linear-gradient(145deg,#231719f0,#111116f2 68%)}\nbody[data-theme=wrestling] .category.selected{border-color:#d7ae58;background:linear-gradient(135deg,#7f182b8a,#c19c4b33)}\nbody[data-theme=wrestling] .logo,body[data-theme=wrestling] .pill{border-color:#d0a44c;color:#f6d27e}\nbody[data-theme=wrestling] .qcard{border-color:#be9347}\nbody[data-theme=wrestling] .portrait{border-color:#d0a44c;box-shadow:0 0 28px #d0a44c44}\nbody[data-theme=wrestling] .rank strong{color:#f6d27e}\nbody[data-theme=wrestling] button:not(.secondary):not(.category){background:#d93535;color:#fff;border-color:#f04444}\n";
   document.head.appendChild(style);
   if (document.getElementById('categories') && !document.querySelector('[data-cat="wrestling"]')) {
     const button = document.createElement('button');
