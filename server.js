@@ -31,7 +31,7 @@ http.createServer(async(req,res)=>{
  }
  if(url.pathname==='/api/state'&&req.method==='POST'){
   const room=getRoom(url);if(!authorized(req,room))return json(res,403,{error:'Room access denied'});
-  try{const data=await readJSON(req);if(!data||!['gaming','anime','series','football','countries'].includes(data.category))return json(res,400,{error:'Invalid state'});
+  try{const data=await readJSON(req);if(!data||!['gaming','anime','series','football','countries','wrestling'].includes(data.category))return json(res,400,{error:'Invalid state'});
    room.snapshot=data;room.touched=Date.now();emit(room,data);return json(res,200,{ok:true});
   }catch(e){return json(res,400,{error:e.message})}
  }
