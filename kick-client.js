@@ -8,7 +8,10 @@
   events.onmessage=e=>{try{const x=JSON.parse(e.data);if(x.type==='status')status.textContent=x.status;if(x.type==='chat'&&typeof receive==='function')receive(x.name,x.msg,'kick')}catch(err){console.warn(err)}};
   events.onerror=()=>{status.textContent='انقطع اتصال تحديثات Kick بالخادم'};
  }).catch(()=>{status.textContent='تعذر بدء جلسة المسابقة'});
- const channel=document.getElementById('kickChannel');try{channel.value=localStorage.getItem('bsm_kick_channel')||''}catch{}
- document.getElementById('kickConnect').onclick=async()=>{const username=channel.value.trim().replace(/^@/,'');status.textContent='جارٍ الاتصال بـ Kick...';try{localStorage.setItem('bsm_kick_channel',username)}catch{}try{await call('connect',{username})}catch(e){status.textContent=e.message}};
+const channel=document.getElementById('kickChannel');
+try {
+  localStorage.removeItem('bsm_kick_channel');
+} catch {}
+channel.value = ''; document.getElementById('kickConnect').onclick=async()=>{const username=channel.value.trim().replace(/^@/,'');status.textContent='جارٍ الاتصال بـ Kick...';try{localStorage.setItem('bsm_kick_channel',username)}catch{}try{await call('connect',{username})}catch(e){status.textContent=e.message}};
  document.getElementById('kickDisconnect').onclick=async()=>{try{await call('disconnect')}catch(e){status.textContent=e.message}};
 })();
