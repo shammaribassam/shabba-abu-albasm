@@ -8,7 +8,8 @@ window.BSM_QUESTIONS = [
       "Redmane Castle",
       "Stormveil Castle"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "medium"
   },
   {
     "category": "gaming",
@@ -19,7 +20,8 @@ window.BSM_QUESTIONS = [
       "مهرجان مورغوت",
       "مهرجان رادان"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "medium"
   },
   {
     "category": "gaming",
@@ -30,7 +32,8 @@ window.BSM_QUESTIONS = [
       "إلهة العفن",
       "إلهة القمر"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "gaming",
@@ -41,7 +44,8 @@ window.BSM_QUESTIONS = [
       "روتش",
       "أغرو"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "easy"
   },
   {
     "category": "gaming",
@@ -52,7 +56,8 @@ window.BSM_QUESTIONS = [
       "منزل البركان",
       "أكاديمية رايا لوكاريا"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "medium"
   },
   {
     "category": "gaming",
@@ -63,7 +68,8 @@ window.BSM_QUESTIONS = [
       "لوردان",
       "درانغليك"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "easy"
   },
   {
     "category": "gaming",
@@ -74,7 +80,8 @@ window.BSM_QUESTIONS = [
       "حلم الصياد",
       "مائدة النعمة"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "easy"
   },
   {
     "category": "gaming",
@@ -85,7 +92,8 @@ window.BSM_QUESTIONS = [
       "قلعة شيمورا",
       "قلعة أوساكا"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "medium"
   },
   {
     "category": "gaming",
@@ -96,7 +104,8 @@ window.BSM_QUESTIONS = [
       "الشعارات الروحية",
       "الأصداء الدموية"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "hard"
   },
   {
     "category": "gaming",
@@ -107,7 +116,8 @@ window.BSM_QUESTIONS = [
       "غرغولا الجرس",
       "فرسان الفضة"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "hard"
   },
   {
     "category": "gaming",
@@ -118,7 +128,8 @@ window.BSM_QUESTIONS = [
       "إيريثيل",
       "نيو لوندو"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "medium"
   },
   {
     "category": "gaming",
@@ -129,7 +140,8 @@ window.BSM_QUESTIONS = [
       "مائدة النعمة",
       "عرش الرغبة"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "medium"
   },
   {
     "category": "gaming",
@@ -140,7 +152,8 @@ window.BSM_QUESTIONS = [
       "فالنتاين",
       "بلاك ووتر"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "gaming",
@@ -151,7 +164,8 @@ window.BSM_QUESTIONS = [
       "كولم أودريسكول",
       "ليفيتيكوس كورنوال"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "hard"
   },
   {
     "category": "gaming",
@@ -162,7 +176,8 @@ window.BSM_QUESTIONS = [
       "غريت بلينز",
       "سيزيكا"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "medium"
   },
   {
     "category": "gaming",
@@ -173,7 +188,8 @@ window.BSM_QUESTIONS = [
       "كليمينز بوينت",
       "هورسشو أوفرلوك"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "hard"
   },
   {
     "category": "gaming",
@@ -184,7 +200,8 @@ window.BSM_QUESTIONS = [
       "ليني سامرز",
       "كيران دافي"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "easy"
   },
   {
     "category": "gaming",
@@ -195,7 +212,8 @@ window.BSM_QUESTIONS = [
       "إيمير",
       "ياسكير"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "medium"
   },
   {
     "category": "gaming",
@@ -206,7 +224,8 @@ window.BSM_QUESTIONS = [
       "كيرا ميتز",
       "تريس ميريغولد"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "hard"
   },
   {
     "category": "gaming",
@@ -217,7 +236,8 @@ window.BSM_QUESTIONS = [
       "توسان",
       "سكيليغه"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "medium"
   },
   {
     "category": "gaming",
@@ -228,7 +248,8 @@ window.BSM_QUESTIONS = [
       "رينفري",
       "آنا هنرييتا"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "hard"
   },
   {
     "category": "gaming",
@@ -239,7 +260,8 @@ window.BSM_QUESTIONS = [
       "قسم شرطة دولفي",
       "قسم شرطة راكون سيتي"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "medium"
   },
   {
     "category": "gaming",
@@ -250,7 +272,8 @@ window.BSM_QUESTIONS = [
       "شيري بيركين",
       "آدا وونغ"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "easy"
   },
   {
     "category": "gaming",
@@ -261,7 +284,8 @@ window.BSM_QUESTIONS = [
       "عائلة بيكر",
       "عائلة ريدفيلد"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "gaming",
@@ -272,7 +296,8 @@ window.BSM_QUESTIONS = [
       "روبرت كيندو",
       "المرتزق"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "medium"
   },
   {
     "category": "gaming",
@@ -283,7 +308,8 @@ window.BSM_QUESTIONS = [
       "ماغني ومودي",
       "سكول وهاتي"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "easy"
   },
   {
     "category": "gaming",
@@ -294,7 +320,8 @@ window.BSM_QUESTIONS = [
       "بالدور",
       "هايمدال"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "easy"
   },
   {
     "category": "gaming",
@@ -305,7 +332,8 @@ window.BSM_QUESTIONS = [
       "غرايدونغر",
       "سكول"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "gaming",
@@ -316,7 +344,8 @@ window.BSM_QUESTIONS = [
       "اللورد شيمورا",
       "اللورد ناغاو"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "medium"
   },
   {
     "category": "gaming",
@@ -327,7 +356,8 @@ window.BSM_QUESTIONS = [
       "تاكا",
       "ريوزو"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "hard"
   },
   {
     "category": "gaming",
@@ -338,7 +368,8 @@ window.BSM_QUESTIONS = [
       "قبعات القش",
       "نسور الشمال"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "hard"
   },
   {
     "category": "gaming",
@@ -349,7 +380,8 @@ window.BSM_QUESTIONS = [
       "السيرافيت",
       "الراتلرز"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "easy"
   },
   {
     "category": "gaming",
@@ -360,7 +392,8 @@ window.BSM_QUESTIONS = [
       "الفيدرا",
       "جبهة تحرير واشنطن"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "medium"
   },
   {
     "category": "gaming",
@@ -371,7 +404,8 @@ window.BSM_QUESTIONS = [
       "تيس",
       "مارلين"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "easy"
   },
   {
     "category": "gaming",
@@ -382,7 +416,8 @@ window.BSM_QUESTIONS = [
       "هنري مورغان",
       "إدوارد تيتش"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "medium"
   },
   {
     "category": "gaming",
@@ -393,7 +428,8 @@ window.BSM_QUESTIONS = [
       "إلدورادو",
       "شامبالا"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "medium"
   },
   {
     "category": "gaming",
@@ -404,7 +440,8 @@ window.BSM_QUESTIONS = [
       "ريفن هولم",
       "رابتشر"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "easy"
   },
   {
     "category": "gaming",
@@ -415,7 +452,8 @@ window.BSM_QUESTIONS = [
       "نايت سيتي",
       "أركاديا"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "easy"
   },
   {
     "category": "gaming",
@@ -426,7 +464,8 @@ window.BSM_QUESTIONS = [
       "أبرتشَر ساينس",
       "بلاك ميسا"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "gaming",
@@ -437,7 +476,8 @@ window.BSM_QUESTIONS = [
       "غلاDOS",
       "أطلس"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "medium"
   },
   {
     "category": "gaming",
@@ -448,7 +488,8 @@ window.BSM_QUESTIONS = [
       "ذا توبس",
       "ألترا لوكس"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "gaming",
@@ -459,7 +500,8 @@ window.BSM_QUESTIONS = [
       "قمة أبوقريفا",
       "جبل دراغونستون"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "gaming",
@@ -470,7 +512,8 @@ window.BSM_QUESTIONS = [
       "الرفاق",
       "اللِّحى الرمادية"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "medium"
   },
   {
     "category": "gaming",
@@ -481,7 +524,8 @@ window.BSM_QUESTIONS = [
       "ماكيافيلي",
       "بارتولوميو"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "gaming",
@@ -492,7 +536,8 @@ window.BSM_QUESTIONS = [
       "صوفيا",
       "كاساندرا"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "medium"
   },
   {
     "category": "gaming",
@@ -503,7 +548,8 @@ window.BSM_QUESTIONS = [
       "ذا إند",
       "ذا باين"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "medium"
   },
   {
     "category": "gaming",
@@ -514,7 +560,8 @@ window.BSM_QUESTIONS = [
       "شادو موزِس",
       "مازر بيس"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "hard"
   },
   {
     "category": "gaming",
@@ -525,7 +572,8 @@ window.BSM_QUESTIONS = [
       "الكوارتز",
       "الديوريت"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "easy"
   },
   {
     "category": "gaming",
@@ -536,7 +584,8 @@ window.BSM_QUESTIONS = [
       "لوردان",
       "هولميغارد"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "medium"
   },
   {
     "category": "gaming",
@@ -547,7 +596,8 @@ window.BSM_QUESTIONS = [
       "بوسيدون",
       "هيرميس"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "easy"
   },
   {
     "category": "football",
@@ -558,7 +608,8 @@ window.BSM_QUESTIONS = [
       "لوكا توني",
       "أندريا بيرلو"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "medium"
   },
   {
     "category": "football",
@@ -569,7 +620,8 @@ window.BSM_QUESTIONS = [
       "ريفالدو",
       "روبرتو كارلوس"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "easy"
   },
   {
     "category": "football",
@@ -580,7 +632,8 @@ window.BSM_QUESTIONS = [
       "بول برايتنر",
       "أولي هونيس"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "football",
@@ -591,7 +644,8 @@ window.BSM_QUESTIONS = [
       "يوري جوركاييف",
       "تييري هنري"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "hard"
   },
   {
     "category": "football",
@@ -602,7 +656,8 @@ window.BSM_QUESTIONS = [
       "رودي فولر",
       "يورغن كلينسمان"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "football",
@@ -613,7 +668,8 @@ window.BSM_QUESTIONS = [
       "المجر",
       "السويد"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "medium"
   },
   {
     "category": "football",
@@ -624,7 +680,8 @@ window.BSM_QUESTIONS = [
       "المجر",
       "تشيكوسلوفاكيا"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "hard"
   },
   {
     "category": "football",
@@ -635,7 +692,8 @@ window.BSM_QUESTIONS = [
       "توماس مولر",
       "ماريو غوتزه"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "easy"
   },
   {
     "category": "football",
@@ -646,7 +704,8 @@ window.BSM_QUESTIONS = [
       "لوكا مودريتش وإيفان راكيتيتش",
       "إيفان بيريشيتش وأنتي ريبيتش"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "hard"
   },
   {
     "category": "football",
@@ -657,7 +716,8 @@ window.BSM_QUESTIONS = [
       "هولندا",
       "الأرجنتين"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "easy"
   },
   {
     "category": "football",
@@ -668,7 +728,8 @@ window.BSM_QUESTIONS = [
       "فهد المولد",
       "صالح الشهري"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "easy"
   },
   {
     "category": "football",
@@ -679,7 +740,8 @@ window.BSM_QUESTIONS = [
       "هولندا",
       "بلجيكا"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "medium"
   },
   {
     "category": "football",
@@ -690,7 +752,8 @@ window.BSM_QUESTIONS = [
       "السويد",
       "هولندا"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "easy"
   },
   {
     "category": "football",
@@ -701,7 +764,8 @@ window.BSM_QUESTIONS = [
       "الإمارات",
       "كوريا الجنوبية"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "football",
@@ -712,7 +776,8 @@ window.BSM_QUESTIONS = [
       "اليابان",
       "كوريا الجنوبية"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "football",
@@ -723,7 +788,8 @@ window.BSM_QUESTIONS = [
       "الإمارات",
       "كوريا الجنوبية"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "hard"
   },
   {
     "category": "football",
@@ -734,7 +800,8 @@ window.BSM_QUESTIONS = [
       "كوريا الجنوبية",
       "العراق"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "easy"
   },
   {
     "category": "football",
@@ -745,7 +812,8 @@ window.BSM_QUESTIONS = [
       "نشأت أكرم",
       "هوار ملا محمد"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "medium"
   },
   {
     "category": "football",
@@ -756,7 +824,8 @@ window.BSM_QUESTIONS = [
       "شينجي كاغاوا",
       "تاداناري لي"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "hard"
   },
   {
     "category": "football",
@@ -767,7 +836,8 @@ window.BSM_QUESTIONS = [
       "قطر",
       "كوريا الجنوبية"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "easy"
   },
   {
     "category": "football",
@@ -778,7 +848,8 @@ window.BSM_QUESTIONS = [
       "أولي غونار سولشاير",
       "ديفيد بيكهام"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "football",
@@ -789,7 +860,8 @@ window.BSM_QUESTIONS = [
       "تيدي شيرنغهام",
       "أولي غونار سولشاير"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "medium"
   },
   {
     "category": "football",
@@ -800,7 +872,8 @@ window.BSM_QUESTIONS = [
       "فرناندو موريينتس",
       "بريدراج مياتوفيتش"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "hard"
   },
   {
     "category": "football",
@@ -811,7 +884,8 @@ window.BSM_QUESTIONS = [
       "زين الدين زيدان",
       "فرناندو هييرو"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "easy"
   },
   {
     "category": "football",
@@ -822,7 +896,8 @@ window.BSM_QUESTIONS = [
       "كريستيانو رونالدو",
       "غاريث بيل"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "easy"
   },
   {
     "category": "football",
@@ -833,7 +908,8 @@ window.BSM_QUESTIONS = [
       "أنطوان غريزمان",
       "غابي"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "hard"
   },
   {
     "category": "football",
@@ -844,7 +920,8 @@ window.BSM_QUESTIONS = [
       "كريستيانو رونالدو",
       "كريم بنزيما"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "easy"
   },
   {
     "category": "football",
@@ -855,7 +932,8 @@ window.BSM_QUESTIONS = [
       "كريم بنزيما",
       "لوكا مودريتش"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "football",
@@ -866,7 +944,8 @@ window.BSM_QUESTIONS = [
       "إيسكو",
       "لوكاس فاسكيز"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "easy"
   },
   {
     "category": "football",
@@ -877,7 +956,8 @@ window.BSM_QUESTIONS = [
       "رودريغو",
       "فيديريكو فالفيردي"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "easy"
   },
   {
     "category": "football",
@@ -888,7 +968,8 @@ window.BSM_QUESTIONS = [
       "هرنان كريسبو",
       "أندريه شيفتشينكو"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "hard"
   },
   {
     "category": "football",
@@ -899,7 +980,8 @@ window.BSM_QUESTIONS = [
       "تشابي ألونسو",
       "لويس غارسيا"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "football",
@@ -910,7 +992,8 @@ window.BSM_QUESTIONS = [
       "أندريه شيفتشينكو",
       "هيرنان كريسبو"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "medium"
   },
   {
     "category": "football",
@@ -921,7 +1004,8 @@ window.BSM_QUESTIONS = [
       "دييغو ميليتو",
       "ماريو بالوتيلي"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "football",
@@ -932,7 +1016,8 @@ window.BSM_QUESTIONS = [
       "ديدييه دروغبا",
       "خوان ماتا"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "easy"
   },
   {
     "category": "football",
@@ -943,7 +1028,8 @@ window.BSM_QUESTIONS = [
       "آريين روبن",
       "ماريو غوميز"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "hard"
   },
   {
     "category": "football",
@@ -954,7 +1040,8 @@ window.BSM_QUESTIONS = [
       "آريين روبن",
       "توماس مولر"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "football",
@@ -965,7 +1052,8 @@ window.BSM_QUESTIONS = [
       "دينيس بيركامب",
       "سول كامبل"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "hard"
   },
   {
     "category": "football",
@@ -976,7 +1064,8 @@ window.BSM_QUESTIONS = [
       "جوليانو بيليتي",
       "صامويل إيتو"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "hard"
   },
   {
     "category": "football",
@@ -987,7 +1076,8 @@ window.BSM_QUESTIONS = [
       "مانويل ألمونيا",
       "ديفيد سيمان"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "football",
@@ -998,7 +1088,8 @@ window.BSM_QUESTIONS = [
       "ليونيل ميسي وديفيد فيا",
       "تشافي وأندريس إنييستا"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "medium"
   },
   {
     "category": "football",
@@ -1009,7 +1100,8 @@ window.BSM_QUESTIONS = [
       "خافيير هيرنانديز",
       "واين روني"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "medium"
   },
   {
     "category": "football",
@@ -1020,7 +1112,8 @@ window.BSM_QUESTIONS = [
       "ماسون ماونت",
       "كاي هافيرتز"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "medium"
   },
   {
     "category": "football",
@@ -1031,7 +1124,8 @@ window.BSM_QUESTIONS = [
       "برناردو سيلفا",
       "كيفين دي بروين"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "easy"
   },
   {
     "category": "football",
@@ -1042,7 +1136,8 @@ window.BSM_QUESTIONS = [
       "أتلتيكو مدريد",
       "برشلونة"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "medium"
   },
   {
     "category": "football",
@@ -1053,7 +1148,8 @@ window.BSM_QUESTIONS = [
       "باير ليفركوزن",
       "بايرن ميونخ"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "football",
@@ -1064,7 +1160,8 @@ window.BSM_QUESTIONS = [
       "ميلان",
       "روما"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "easy"
   },
   {
     "category": "football",
@@ -1075,7 +1172,8 @@ window.BSM_QUESTIONS = [
       "بول بوغبا",
       "أندريا بيرلو"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "hard"
   },
   {
     "category": "football",
@@ -1086,7 +1184,8 @@ window.BSM_QUESTIONS = [
       "نيمار",
       "إيفان راكيتيتش"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "hard"
   },
   {
     "category": "football",
@@ -1097,7 +1196,8 @@ window.BSM_QUESTIONS = [
       "ريفلينو",
       "جيرسون"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "hard"
   },
   {
     "category": "countries",
@@ -1108,7 +1208,8 @@ window.BSM_QUESTIONS = [
       "تيمفو",
       "داكا"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "hard"
   },
   {
     "category": "countries",
@@ -1119,7 +1220,8 @@ window.BSM_QUESTIONS = [
       "كوتشينغ",
       "كوتا كينابالو"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "hard"
   },
   {
     "category": "countries",
@@ -1130,7 +1232,8 @@ window.BSM_QUESTIONS = [
       "دوشنبه",
       "أستانا"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "easy"
   },
   {
     "category": "countries",
@@ -1141,7 +1244,8 @@ window.BSM_QUESTIONS = [
       "سمرقند",
       "دوشنبه"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "medium"
   },
   {
     "category": "countries",
@@ -1152,7 +1256,8 @@ window.BSM_QUESTIONS = [
       "عشق آباد",
       "طشقند"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "countries",
@@ -1163,7 +1268,8 @@ window.BSM_QUESTIONS = [
       "بيشكيك",
       "أستانا"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "easy"
   },
   {
     "category": "countries",
@@ -1174,7 +1280,8 @@ window.BSM_QUESTIONS = [
       "بنوم بنه",
       "يانغون"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "medium"
   },
   {
     "category": "countries",
@@ -1185,7 +1292,8 @@ window.BSM_QUESTIONS = [
       "نايبيداو",
       "باغان"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "hard"
   },
   {
     "category": "countries",
@@ -1196,7 +1304,8 @@ window.BSM_QUESTIONS = [
       "أمبون",
       "كوبانغ"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "countries",
@@ -1207,7 +1316,8 @@ window.BSM_QUESTIONS = [
       "سري جاياواردنابورا كوتي",
       "كاندي"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "hard"
   },
   {
     "category": "countries",
@@ -1218,7 +1328,8 @@ window.BSM_QUESTIONS = [
       "ويندهوك",
       "غابورون"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "medium"
   },
   {
     "category": "countries",
@@ -1229,7 +1340,8 @@ window.BSM_QUESTIONS = [
       "ويندهوك",
       "غابورون"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "countries",
@@ -1240,7 +1352,8 @@ window.BSM_QUESTIONS = [
       "هراري",
       "بلانتير"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "easy"
   },
   {
     "category": "countries",
@@ -1251,7 +1364,8 @@ window.BSM_QUESTIONS = [
       "مابوتو",
       "ليلونغوي"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "hard"
   },
   {
     "category": "countries",
@@ -1262,7 +1376,8 @@ window.BSM_QUESTIONS = [
       "أنـتاناناريفو",
       "لوساكا"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "medium"
   },
   {
     "category": "countries",
@@ -1273,7 +1388,8 @@ window.BSM_QUESTIONS = [
       "ويندهوك",
       "مباباني"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "hard"
   },
   {
     "category": "countries",
@@ -1284,7 +1400,8 @@ window.BSM_QUESTIONS = [
       "بورت لويس",
       "أنتاناناريفو"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "medium"
   },
   {
     "category": "countries",
@@ -1295,7 +1412,8 @@ window.BSM_QUESTIONS = [
       "فيكتوريا",
       "موروني"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "easy"
   },
   {
     "category": "countries",
@@ -1306,7 +1424,8 @@ window.BSM_QUESTIONS = [
       "فيكتوريا",
       "مابوتو"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "hard"
   },
   {
     "category": "countries",
@@ -1317,7 +1436,8 @@ window.BSM_QUESTIONS = [
       "برايا",
       "فيكتوريا"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "hard"
   },
   {
     "category": "countries",
@@ -1328,7 +1448,8 @@ window.BSM_QUESTIONS = [
       "بيساو",
       "داكار"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "countries",
@@ -1339,7 +1460,8 @@ window.BSM_QUESTIONS = [
       "سوفا",
       "بورت مورسبي"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "hard"
   },
   {
     "category": "countries",
@@ -1350,7 +1472,8 @@ window.BSM_QUESTIONS = [
       "داكار",
       "فريتاون"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "medium"
   },
   {
     "category": "countries",
@@ -1361,7 +1484,8 @@ window.BSM_QUESTIONS = [
       "أبيدجان",
       "فريتاون"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "medium"
   },
   {
     "category": "countries",
@@ -1372,7 +1496,8 @@ window.BSM_QUESTIONS = [
       "مونروفيا",
       "بانجول"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "countries",
@@ -1383,7 +1508,8 @@ window.BSM_QUESTIONS = [
       "أكرا",
       "أبيدجان"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "countries",
@@ -1394,7 +1520,8 @@ window.BSM_QUESTIONS = [
       "واغادوغو",
       "نواكشوط"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "hard"
   },
   {
     "category": "countries",
@@ -1405,7 +1532,8 @@ window.BSM_QUESTIONS = [
       "واغادوغو",
       "نجامينا"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "medium"
   },
   {
     "category": "countries",
@@ -1416,7 +1544,8 @@ window.BSM_QUESTIONS = [
       "ياوندي",
       "نيامي"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "easy"
   },
   {
     "category": "countries",
@@ -1427,7 +1556,8 @@ window.BSM_QUESTIONS = [
       "دوالا",
       "ليبرفيل"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "medium"
   },
   {
     "category": "countries",
@@ -1438,7 +1568,8 @@ window.BSM_QUESTIONS = [
       "كينشاسا",
       "برازافيل"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "hard"
   },
   {
     "category": "countries",
@@ -1449,7 +1580,8 @@ window.BSM_QUESTIONS = [
       "ياوندي",
       "مالابو"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "medium"
   },
   {
     "category": "countries",
@@ -1460,7 +1592,8 @@ window.BSM_QUESTIONS = [
       "ليبرفيل",
       "برازافيل"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "medium"
   },
   {
     "category": "countries",
@@ -1471,7 +1604,8 @@ window.BSM_QUESTIONS = [
       "نيروبي",
       "بوجمبورا"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "medium"
   },
   {
     "category": "countries",
@@ -1482,7 +1616,8 @@ window.BSM_QUESTIONS = [
       "كيغالي",
       "كمبالا"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "countries",
@@ -1493,7 +1628,8 @@ window.BSM_QUESTIONS = [
       "لومي",
       "كوتونو"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "countries",
@@ -1504,7 +1640,8 @@ window.BSM_QUESTIONS = [
       "كوتونو",
       "بورتو نوفو"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "hard"
   },
   {
     "category": "countries",
@@ -1515,7 +1652,8 @@ window.BSM_QUESTIONS = [
       "نواكشوط",
       "نواذيبو"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "easy"
   },
   {
     "category": "countries",
@@ -1526,7 +1664,8 @@ window.BSM_QUESTIONS = [
       "بشكيك",
       "طشقند"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "easy"
   },
   {
     "category": "countries",
@@ -1537,7 +1676,8 @@ window.BSM_QUESTIONS = [
       "باكو",
       "يريفان"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "easy"
   },
   {
     "category": "countries",
@@ -1548,7 +1688,8 @@ window.BSM_QUESTIONS = [
       "كوتايسي",
       "يريفان"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "easy"
   },
   {
     "category": "countries",
@@ -1559,7 +1700,8 @@ window.BSM_QUESTIONS = [
       "صوفيا",
       "بلغراد"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "medium"
   },
   {
     "category": "countries",
@@ -1570,7 +1712,8 @@ window.BSM_QUESTIONS = [
       "تيرانا",
       "سكوبيه"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "countries",
@@ -1581,7 +1724,8 @@ window.BSM_QUESTIONS = [
       "ليوبليانا",
       "زغرب"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "countries",
@@ -1592,7 +1736,8 @@ window.BSM_QUESTIONS = [
       "برنو",
       "بودابست"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "easy"
   },
   {
     "category": "countries",
@@ -1603,7 +1748,8 @@ window.BSM_QUESTIONS = [
       "ماناغوا",
       "مدينة بليز"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "countries",
@@ -1614,7 +1760,8 @@ window.BSM_QUESTIONS = [
       "سان خوسيه",
       "سان سلفادور"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "countries",
@@ -1625,7 +1772,8 @@ window.BSM_QUESTIONS = [
       "باراماريبو",
       "جورج تاون"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "hard"
   },
   {
     "category": "countries",
@@ -1636,7 +1784,8 @@ window.BSM_QUESTIONS = [
       "باراماريبو",
       "جورج تاون"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "hard"
   },
   {
     "category": "countries",
@@ -1647,7 +1796,8 @@ window.BSM_QUESTIONS = [
       "هونيارا",
       "أبيا"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "hard"
   },
   {
     "category": "series",
@@ -1658,7 +1808,8 @@ window.BSM_QUESTIONS = [
       "مادريغال",
       "فامونوس بيست"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "series",
@@ -1669,7 +1820,8 @@ window.BSM_QUESTIONS = [
       "جيمي ماكغيل",
       "هوارد هاملين"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "series",
@@ -1680,7 +1832,8 @@ window.BSM_QUESTIONS = [
       "غايل ريكوردز",
       "لوس بويّوس هيرمانوس"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "easy"
   },
   {
     "category": "series",
@@ -1691,7 +1844,8 @@ window.BSM_QUESTIONS = [
       "مايك إيرمنتراوت",
       "توكو سالامانكا"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "easy"
   },
   {
     "category": "series",
@@ -1702,7 +1856,8 @@ window.BSM_QUESTIONS = [
       "كاديلاك ديفيل",
       "بونتياك أزتيك"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "hard"
   },
   {
     "category": "series",
@@ -1713,7 +1868,8 @@ window.BSM_QUESTIONS = [
       "غايِل بوتيكر",
       "مايك إيرمنتراوت"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "easy"
   },
   {
     "category": "series",
@@ -1724,7 +1880,8 @@ window.BSM_QUESTIONS = [
       "إرنستو",
       "هوارد هاملين"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "medium"
   },
   {
     "category": "series",
@@ -1735,7 +1892,8 @@ window.BSM_QUESTIONS = [
       "ريبيكا بوا",
       "إيرين بريل"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "easy"
   },
   {
     "category": "series",
@@ -1746,7 +1904,8 @@ window.BSM_QUESTIONS = [
       "ويدوز ويل",
       "لونغ كلاو"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "medium"
   },
   {
     "category": "series",
@@ -1757,7 +1916,8 @@ window.BSM_QUESTIONS = [
       "سمر",
       "غوست"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "easy"
   },
   {
     "category": "series",
@@ -1768,7 +1928,8 @@ window.BSM_QUESTIONS = [
       "تايريل",
       "مارتيل"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "medium"
   },
   {
     "category": "series",
@@ -1779,7 +1940,8 @@ window.BSM_QUESTIONS = [
       "هوستر تالي",
       "روبر ستارك"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "hard"
   },
   {
     "category": "series",
@@ -1790,7 +1952,8 @@ window.BSM_QUESTIONS = [
       "شيرين",
       "سانسا"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "easy"
   },
   {
     "category": "series",
@@ -1801,7 +1964,8 @@ window.BSM_QUESTIONS = [
       "هاردهوم",
       "كاسل بلاك"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "medium"
   },
   {
     "category": "series",
@@ -1812,7 +1976,8 @@ window.BSM_QUESTIONS = [
       "أوثكيبر",
       "لونغ كلاو"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "hard"
   },
   {
     "category": "series",
@@ -1823,7 +1988,8 @@ window.BSM_QUESTIONS = [
       "سوثوريوس",
       "دورن"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "medium"
   },
   {
     "category": "series",
@@ -1834,7 +2000,8 @@ window.BSM_QUESTIONS = [
       "ميناس تيريث",
       "دول أمروث"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "series",
@@ -1845,7 +2012,8 @@ window.BSM_QUESTIONS = [
       "كيريث أونغول",
       "ميناس مورغول"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "hard"
   },
   {
     "category": "series",
@@ -1856,7 +2024,8 @@ window.BSM_QUESTIONS = [
       "أوركريست",
       "ستينغ"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "series",
@@ -1867,7 +2036,8 @@ window.BSM_QUESTIONS = [
       "فانغورن",
       "ميركوود"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "hard"
   },
   {
     "category": "series",
@@ -1878,7 +2048,8 @@ window.BSM_QUESTIONS = [
       "بورومير",
       "فارامير"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "series",
@@ -1889,7 +2060,8 @@ window.BSM_QUESTIONS = [
       "دينيثور",
       "ثيودين"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "medium"
   },
   {
     "category": "series",
@@ -1900,7 +2072,8 @@ window.BSM_QUESTIONS = [
       "بالروغ",
       "غولوم"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "medium"
   },
   {
     "category": "series",
@@ -1911,7 +2084,8 @@ window.BSM_QUESTIONS = [
       "غلاورونغ",
       "سموغ"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "medium"
   },
   {
     "category": "series",
@@ -1922,7 +2096,8 @@ window.BSM_QUESTIONS = [
       "هوجسميد",
       "أزكابان"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "easy"
   },
   {
     "category": "series",
@@ -1933,7 +2108,8 @@ window.BSM_QUESTIONS = [
       "خريطة مؤسسي هوغوورتس",
       "خريطة الممرات السبعة"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "series",
@@ -1944,7 +2120,8 @@ window.BSM_QUESTIONS = [
       "هوجسميد",
       "غودريك هولو"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "hard"
   },
   {
     "category": "series",
@@ -1955,7 +2132,8 @@ window.BSM_QUESTIONS = [
       "هيدويغ",
       "بكبيك"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "hard"
   },
   {
     "category": "series",
@@ -1966,7 +2144,8 @@ window.BSM_QUESTIONS = [
       "غرينغوتس",
       "وزارة السحر"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "series",
@@ -1977,7 +2156,8 @@ window.BSM_QUESTIONS = [
       "غريفندور",
       "سليذرين"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "series",
@@ -1988,7 +2168,8 @@ window.BSM_QUESTIONS = [
       "ألباس دمبلدور",
       "مينيرفا ماكغوناغال"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "hard"
   },
   {
     "category": "series",
@@ -1999,7 +2180,8 @@ window.BSM_QUESTIONS = [
       "سوني",
       "توم هاغن"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "series",
@@ -2010,7 +2192,8 @@ window.BSM_QUESTIONS = [
       "توم هاغن",
       "لوكا برازي"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "series",
@@ -2021,7 +2204,8 @@ window.BSM_QUESTIONS = [
       "جاك وولتز",
       "دون فانوكي"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "hard"
   },
   {
     "category": "series",
@@ -2032,7 +2216,8 @@ window.BSM_QUESTIONS = [
       "هايمان روث",
       "فيتو كورليوني"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "easy"
   },
   {
     "category": "series",
@@ -2043,7 +2228,8 @@ window.BSM_QUESTIONS = [
       "دووزر",
       "مورفيوس"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "easy"
   },
   {
     "category": "series",
@@ -2054,7 +2240,8 @@ window.BSM_QUESTIONS = [
       "أوسيريس",
       "إيكاروس"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "series",
@@ -2065,7 +2252,8 @@ window.BSM_QUESTIONS = [
       "المهندس المعماري",
       "الميروفنجي"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "easy"
   },
   {
     "category": "series",
@@ -2076,7 +2264,8 @@ window.BSM_QUESTIONS = [
       "إيمز",
       "روبرت فيشر"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "hard"
   },
   {
     "category": "series",
@@ -2087,7 +2276,8 @@ window.BSM_QUESTIONS = [
       "فيشر",
       "سايتو"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "medium"
   },
   {
     "category": "series",
@@ -2098,7 +2288,8 @@ window.BSM_QUESTIONS = [
       "قطعة شطرنج",
       "نرد أحمر"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "easy"
   },
   {
     "category": "series",
@@ -2109,7 +2300,8 @@ window.BSM_QUESTIONS = [
       "كوكب إدموندز",
       "كوكب لازاروس"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "hard"
   },
   {
     "category": "series",
@@ -2120,7 +2312,8 @@ window.BSM_QUESTIONS = [
       "وال-إي",
       "كيسلر"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "medium"
   },
   {
     "category": "series",
@@ -2131,7 +2324,8 @@ window.BSM_QUESTIONS = [
       "لويس",
       "أميليا"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "easy"
   },
   {
     "category": "series",
@@ -2142,7 +2336,8 @@ window.BSM_QUESTIONS = [
       "إيسلا ماتانثيروس",
       "جزيرة الجمجمة"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "series",
@@ -2153,7 +2348,8 @@ window.BSM_QUESTIONS = [
       "روبرت مولدون",
       "إيان مالكولم"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "medium"
   },
   {
     "category": "series",
@@ -2164,7 +2360,8 @@ window.BSM_QUESTIONS = [
       "دي لوريان",
       "فورد موستانغ"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "easy"
   },
   {
     "category": "series",
@@ -2175,7 +2372,8 @@ window.BSM_QUESTIONS = [
       "بايرون هادلي",
       "تومي ويليامز"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "easy"
   },
   {
     "category": "series",
@@ -2186,7 +2384,8 @@ window.BSM_QUESTIONS = [
       "ماركوس أوريليوس",
       "غراكوس"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "medium"
   },
   {
     "category": "series",
@@ -2197,7 +2396,8 @@ window.BSM_QUESTIONS = [
       "كلاريس ستارلينغ",
       "آر ديليا ماب"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "anime",
@@ -2208,7 +2408,8 @@ window.BSM_QUESTIONS = [
       "تقنية النقل الآني",
       "تقنية الاستنساخ المتعدد"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "medium"
   },
   {
     "category": "anime",
@@ -2219,7 +2420,8 @@ window.BSM_QUESTIONS = [
       "كاكاشي هاتاكي",
       "كوريناي يوهي"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "easy"
   },
   {
     "category": "anime",
@@ -2230,7 +2432,8 @@ window.BSM_QUESTIONS = [
       "غاارا",
       "ياغورا"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "medium"
   },
   {
     "category": "anime",
@@ -2241,7 +2444,8 @@ window.BSM_QUESTIONS = [
       "كاكوزو",
       "ساسوري"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "anime",
@@ -2252,7 +2456,8 @@ window.BSM_QUESTIONS = [
       "كيبا",
       "كانكورو"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "medium"
   },
   {
     "category": "anime",
@@ -2263,7 +2468,8 @@ window.BSM_QUESTIONS = [
       "غاماتاتسو",
       "غاماكيتشي"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "hard"
   },
   {
     "category": "anime",
@@ -2274,7 +2480,8 @@ window.BSM_QUESTIONS = [
       "دانزو شيمورا",
       "توبيراما سينجو"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "easy"
   },
   {
     "category": "anime",
@@ -2285,7 +2492,8 @@ window.BSM_QUESTIONS = [
       "هيراميكاري",
       "كوساناغي"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "anime",
@@ -2296,7 +2504,8 @@ window.BSM_QUESTIONS = [
       "تسونادي",
       "تشيو"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "medium"
   },
   {
     "category": "anime",
@@ -2307,7 +2516,8 @@ window.BSM_QUESTIONS = [
       "ختم يين الملعون",
       "ختم العناصر الثمانية"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "hard"
   },
   {
     "category": "anime",
@@ -2318,7 +2528,8 @@ window.BSM_QUESTIONS = [
       "أوتغارد",
       "ستوهيس"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "hard"
   },
   {
     "category": "anime",
@@ -2329,7 +2540,8 @@ window.BSM_QUESTIONS = [
       "أورفود",
       "ستوهيس"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "hard"
   },
   {
     "category": "anime",
@@ -2340,7 +2552,8 @@ window.BSM_QUESTIONS = [
       "تروست",
       "شيغانشينا"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "easy"
   },
   {
     "category": "anime",
@@ -2351,7 +2564,8 @@ window.BSM_QUESTIONS = [
       "دوت بيكسيس",
       "كيث شاديس"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "easy"
   },
   {
     "category": "anime",
@@ -2362,7 +2576,8 @@ window.BSM_QUESTIONS = [
       "رود ريس",
       "زيك ييغر"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "medium"
   },
   {
     "category": "anime",
@@ -2373,7 +2588,8 @@ window.BSM_QUESTIONS = [
       "السيف المزدوج",
       "المناورة ثلاثية الأبعاد"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "medium"
   },
   {
     "category": "anime",
@@ -2384,7 +2600,8 @@ window.BSM_QUESTIONS = [
       "آني ليونهارت",
       "بيك فينغر"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "anime",
@@ -2395,7 +2612,8 @@ window.BSM_QUESTIONS = [
       "مارسيل غاليارد",
       "بوركو غاليارد"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "hard"
   },
   {
     "category": "anime",
@@ -2406,7 +2624,8 @@ window.BSM_QUESTIONS = [
       "أوري ريس",
       "غريشا ييغر"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "medium"
   },
   {
     "category": "anime",
@@ -2417,7 +2636,8 @@ window.BSM_QUESTIONS = [
       "شويتشي أيزاوا",
       "راي بنبر"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "hard"
   },
   {
     "category": "anime",
@@ -2428,7 +2648,8 @@ window.BSM_QUESTIONS = [
       "جِلوس",
       "ريوك"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "easy"
   },
   {
     "category": "anime",
@@ -2439,7 +2660,8 @@ window.BSM_QUESTIONS = [
       "سويتشيرو ياغامي",
       "شويتشي أيزاوا"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "anime",
@@ -2450,7 +2672,8 @@ window.BSM_QUESTIONS = [
       "ماساكي",
       "كيرا"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "anime",
@@ -2461,7 +2684,8 @@ window.BSM_QUESTIONS = [
       "ميسا أماني",
       "ناؤومي ميسورا"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "easy"
   },
   {
     "category": "anime",
@@ -2472,7 +2696,8 @@ window.BSM_QUESTIONS = [
       "تريشا إلريك",
       "إيزومي كورتيس"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "hard"
   },
   {
     "category": "anime",
@@ -2483,7 +2708,8 @@ window.BSM_QUESTIONS = [
       "أميستريس",
       "شينغ"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "hard"
   },
   {
     "category": "anime",
@@ -2494,7 +2720,8 @@ window.BSM_QUESTIONS = [
       "كيميائي الحياة",
       "كيميائي اللهب"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "easy"
   },
   {
     "category": "anime",
@@ -2505,7 +2732,8 @@ window.BSM_QUESTIONS = [
       "ريزا هوكاي",
       "وينري روكبيل"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "easy"
   },
   {
     "category": "anime",
@@ -2516,7 +2744,8 @@ window.BSM_QUESTIONS = [
       "بينولت",
       "غينثرو"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "hard"
   },
   {
     "category": "anime",
@@ -2527,7 +2756,8 @@ window.BSM_QUESTIONS = [
       "ميلوكي زولديك",
       "كالوتو زولديك"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "medium"
   },
   {
     "category": "anime",
@@ -2538,7 +2768,8 @@ window.BSM_QUESTIONS = [
       "التحويل",
       "التعزيز"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "anime",
@@ -2549,7 +2780,8 @@ window.BSM_QUESTIONS = [
       "جمعية الصيادين",
       "الحرس الملكي"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "easy"
   },
   {
     "category": "anime",
@@ -2560,7 +2792,8 @@ window.BSM_QUESTIONS = [
       "جمهورية بادوكيا",
       "غريد آيلاند"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "anime",
@@ -2571,7 +2804,8 @@ window.BSM_QUESTIONS = [
       "الدكتورة كايا",
       "الدكتورة مياجي"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "medium"
   },
   {
     "category": "anime",
@@ -2582,7 +2816,8 @@ window.BSM_QUESTIONS = [
       "آيسبرغ",
       "توم"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "easy"
   },
   {
     "category": "anime",
@@ -2593,7 +2828,8 @@ window.BSM_QUESTIONS = [
       "باتي",
       "زورو"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "medium"
   },
   {
     "category": "anime",
@@ -2604,7 +2840,8 @@ window.BSM_QUESTIONS = [
       "إينيس لوبي",
       "بانك هازارد"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "anime",
@@ -2615,7 +2852,8 @@ window.BSM_QUESTIONS = [
       "بيل مير",
       "كوكورو"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "anime",
@@ -2626,7 +2864,8 @@ window.BSM_QUESTIONS = [
       "سانداي كيتتسو",
       "شوسوي"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "hard"
   },
   {
     "category": "anime",
@@ -2637,7 +2876,8 @@ window.BSM_QUESTIONS = [
       "هاغانيزوكا",
       "رينغوكو"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "hard"
   },
   {
     "category": "anime",
@@ -2648,7 +2888,8 @@ window.BSM_QUESTIONS = [
       "كاغايا أوبوياشيكي",
       "شينجورو رينغوكو"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "hard"
   },
   {
     "category": "anime",
@@ -2659,7 +2900,8 @@ window.BSM_QUESTIONS = [
       "غيو توميوكا",
       "كيوجورو رينغوكو"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "easy"
   },
   {
     "category": "anime",
@@ -2670,7 +2912,8 @@ window.BSM_QUESTIONS = [
       "تنفس الضباب",
       "تنفس الوحش"
     ],
-    "correct": 3
+    "correct": 3,
+    "difficulty": "medium"
   },
   {
     "category": "anime",
@@ -2681,7 +2924,8 @@ window.BSM_QUESTIONS = [
       "ظلال الوهم",
       "التجسيد الذاتي للكمال"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "anime",
@@ -2692,7 +2936,8 @@ window.BSM_QUESTIONS = [
       "جوغو",
       "ماهито"
     ],
-    "correct": 1
+    "correct": 1,
+    "difficulty": "easy"
   },
   {
     "category": "anime",
@@ -2703,7 +2948,8 @@ window.BSM_QUESTIONS = [
       "يوتا أوكوتسو",
       "كينتو نانامي"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "easy"
   },
   {
     "category": "anime",
@@ -2714,7 +2960,8 @@ window.BSM_QUESTIONS = [
       "موكن",
       "مجتمع الأرواح"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "hard"
   },
   {
     "category": "anime",
@@ -2725,7 +2972,8 @@ window.BSM_QUESTIONS = [
       "سودي نو شيرايوكي",
       "سينبونزاكورا"
     ],
-    "correct": 0
+    "correct": 0,
+    "difficulty": "easy"
   },
   {
     "category": "anime",
@@ -2736,7 +2984,8 @@ window.BSM_QUESTIONS = [
       "الكابتن غينيو",
       "بيرتر"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "easy"
   },
   {
     "category": "anime",
@@ -2747,6 +2996,7 @@ window.BSM_QUESTIONS = [
       "بيكولو",
       "كريلين"
     ],
-    "correct": 2
+    "correct": 2,
+    "difficulty": "easy"
   }
 ];
