@@ -1,605 +1,5 @@
 window.BSM_QUESTIONS = [
   {
-    "category": "gaming",
-    "question": "في Elden Ring، ما اسم القلعة الواقعة في إقليم Limgrave ويحكمها غودريك؟",
-    "options": [
-      "Castle Sol",
-      "Caria Manor",
-      "Redmane Castle",
-      "Stormveil Castle"
-    ],
-    "correct": 3,
-    "difficulty": "medium"
-  },
-  {
-    "category": "gaming",
-    "question": "في Elden Ring، ما اسم المهرجان القتالي الذي يُقام في قلعة Redmane؟",
-    "options": [
-      "مهرجان مالينيا",
-      "مهرجان غودريك",
-      "مهرجان مورغوت",
-      "مهرجان رادان"
-    ],
-    "correct": 3,
-    "difficulty": "medium"
-  },
-  {
-    "category": "gaming",
-    "question": "في Elden Ring، من الإلهة التي تظهر في الطور الثاني من مواجهة مالينيا؟",
-    "options": [
-      "إلهة الموت",
-      "إلهة النار",
-      "إلهة العفن",
-      "إلهة القمر"
-    ],
-    "correct": 2,
-    "difficulty": "medium"
-  },
-  {
-    "category": "gaming",
-    "question": "في Elden Ring، ما اسم الحصان الطيفي الذي يستدعيه اللاعب؟",
-    "options": [
-      "إيبونا",
-      "تورنت",
-      "روتش",
-      "أغرو"
-    ],
-    "correct": 1,
-    "difficulty": "easy"
-  },
-  {
-    "category": "gaming",
-    "question": "في Elden Ring، أين يواجه اللاعب رينالا ملكة البدر؟",
-    "options": [
-      "قلعة سول",
-      "قلعة ستورمفيل",
-      "منزل البركان",
-      "أكاديمية رايا لوكاريا"
-    ],
-    "correct": 3,
-    "difficulty": "medium"
-  },
-  {
-    "category": "gaming",
-    "question": "في Bloodborne، ما اسم المدينة التي تبدأ فيها أحداث اللعبة الرئيسية؟",
-    "options": [
-      "بوليتاريا",
-      "يارنام",
-      "لوردان",
-      "درانغليك"
-    ],
-    "correct": 1,
-    "difficulty": "easy"
-  },
-  {
-    "category": "gaming",
-    "question": "في Bloodborne، ما اسم مقر الصياد الذي يعود إليه اللاعب لرفع مستواه؟",
-    "options": [
-      "الملاذ الناري",
-      "حلم الكابوس",
-      "حلم الصياد",
-      "مائدة النعمة"
-    ],
-    "correct": 2,
-    "difficulty": "easy"
-  },
-  {
-    "category": "gaming",
-    "question": "في Sekiro، ما اسم قلعة العشيرة التي يدور حولها جزء كبير من الأحداث؟",
-    "options": [
-      "قلعة أشينا",
-      "قلعة هيراتا",
-      "قلعة شيمورا",
-      "قلعة أوساكا"
-    ],
-    "correct": 0,
-    "difficulty": "medium"
-  },
-  {
-    "category": "gaming",
-    "question": "في Sekiro، ما اسم المورد الذي تستخدمه أدوات الطرف الاصطناعي عند تفعيلها غالبًا؟",
-    "options": [
-      "الأرواح البشرية",
-      "شظايا الدم",
-      "الشعارات الروحية",
-      "الأصداء الدموية"
-    ],
-    "correct": 2,
-    "difficulty": "hard"
-  },
-  {
-    "category": "gaming",
-    "question": "في Dark Souls، من يحرس جرس الصحوة فوق كنيسة الموتى الأحياء؟",
-    "options": [
-      "حراس الهاوية",
-      "شياطين الثور",
-      "غرغولا الجرس",
-      "فرسان الفضة"
-    ],
-    "correct": 2,
-    "difficulty": "hard"
-  },
-  {
-    "category": "gaming",
-    "question": "في Dark Souls، ما اسم المدينة التي يصل إليها اللاعب بعد عبور حصن سين؟",
-    "options": [
-      "أولاسيل",
-      "أنور لوندو",
-      "إيريثيل",
-      "نيو لوندو"
-    ],
-    "correct": 1,
-    "difficulty": "medium"
-  },
-  {
-    "category": "gaming",
-    "question": "في Dark Souls III، ما اسم المنطقة المحورية التي يستريح فيها اللاعب ويرفع مستواه؟",
-    "options": [
-      "حلم الصياد",
-      "ضريح رابطة النار",
-      "مائدة النعمة",
-      "عرش الرغبة"
-    ],
-    "correct": 1,
-    "difficulty": "medium"
-  },
-  {
-    "category": "gaming",
-    "question": "في Red Dead Redemption 2، ما اسم البلدة التي تصل إليها عصابة فان دير ليند بعد مغادرة الجبال الثلجية؟",
-    "options": [
-      "أرماديلو",
-      "سان دوني",
-      "فالنتاين",
-      "بلاك ووتر"
-    ],
-    "correct": 2,
-    "difficulty": "medium"
-  },
-  {
-    "category": "gaming",
-    "question": "في Red Dead Redemption 2، من وكيل بينكرتون الذي يلاحق عصابة داتش باستمرار؟",
-    "options": [
-      "أنجيلو برونتي",
-      "أندرو ميلتون",
-      "كولم أودريسكول",
-      "ليفيتيكوس كورنوال"
-    ],
-    "correct": 1,
-    "difficulty": "hard"
-  },
-  {
-    "category": "gaming",
-    "question": "في Red Dead Redemption 2، ما اسم الجزيرة التي يصل إليها عدد من أفراد العصابة بعد حادث السفينة؟",
-    "options": [
-      "كليمينز بوينت",
-      "غوارما",
-      "غريت بلينز",
-      "سيزيكا"
-    ],
-    "correct": 1,
-    "difficulty": "medium"
-  },
-  {
-    "category": "gaming",
-    "question": "في Red Dead Redemption 2، ما اسم المعسكر الذي تقيم فيه العصابة قرب رودس؟",
-    "options": [
-      "بيفر هولو",
-      "كولتر",
-      "كليمينز بوينت",
-      "هورسشو أوفرلوك"
-    ],
-    "correct": 2,
-    "difficulty": "hard"
-  },
-  {
-    "category": "gaming",
-    "question": "في Red Dead Redemption 2، ما اسم ابن جون وأبيغيل؟",
-    "options": [
-      "جاك مارستون",
-      "شون ماكغواير",
-      "ليني سامرز",
-      "كيران دافي"
-    ],
-    "correct": 0,
-    "difficulty": "easy"
-  },
-  {
-    "category": "gaming",
-    "question": "في The Witcher 3، ما اسم الشاعر وصديق جيرالت المعروف بالإنجليزية باسم Dandelion؟",
-    "options": [
-      "زولتان",
-      "فيسيمير",
-      "إيمير",
-      "ياسكير"
-    ],
-    "correct": 3,
-    "difficulty": "medium"
-  },
-  {
-    "category": "gaming",
-    "question": "في The Witcher 3، من الساحرة التي يبحث عنها جيرالت قرب قرية Midcopse في مهمة Hunting a Witch؟",
-    "options": [
-      "فرينغيلا فيغو",
-      "فيليبا إيلهارت",
-      "كيرا ميتز",
-      "تريس ميريغولد"
-    ],
-    "correct": 2,
-    "difficulty": "hard"
-  },
-  {
-    "category": "gaming",
-    "question": "في The Witcher 3، ما اسم الجزر التي يحكمها كراخ أن كرايت؟",
-    "options": [
-      "نوفِيغراد",
-      "فيلين",
-      "توسان",
-      "سكيليغه"
-    ],
-    "correct": 3,
-    "difficulty": "medium"
-  },
-  {
-    "category": "gaming",
-    "question": "في The Witcher 3: Blood and Wine، ما اسم دوقة توسان التي تكلف جيرالت بالتحقيق في جرائم الوحش؟",
-    "options": [
-      "سيانا",
-      "فيليبا إيلهارت",
-      "رينفري",
-      "آنا هنرييتا"
-    ],
-    "correct": 3,
-    "difficulty": "hard"
-  },
-  {
-    "category": "gaming",
-    "question": "في Resident Evil 2 الأصلية، ما اسم قسم الشرطة الذي يلجأ إليه ليون وكلير؟",
-    "options": [
-      "قسم شرطة تالمونت",
-      "قسم شرطة هارفاردفيل",
-      "قسم شرطة دولفي",
-      "قسم شرطة راكون سيتي"
-    ],
-    "correct": 3,
-    "difficulty": "medium"
-  },
-  {
-    "category": "gaming",
-    "question": "في Resident Evil 4، ما اسم العميلة الغامضة التي تظهر لليون خلال مهمته؟",
-    "options": [
-      "ميا وينترز",
-      "ريبيكا تشامبرز",
-      "شيري بيركين",
-      "آدا وونغ"
-    ],
-    "correct": 3,
-    "difficulty": "easy"
-  },
-  {
-    "category": "gaming",
-    "question": "في Resident Evil 7، ما اسم العائلة التي يحتجز أفرادها إيثان في لويزيانا؟",
-    "options": [
-      "عائلة بيركين",
-      "عائلة سبنسر",
-      "عائلة بيكر",
-      "عائلة ريدفيلد"
-    ],
-    "correct": 2,
-    "difficulty": "medium"
-  },
-  {
-    "category": "gaming",
-    "question": "في Resident Evil Village، ما اسم التاجر الذي يبيع الأسلحة والإمدادات لإيثان؟",
-    "options": [
-      "الدوق",
-      "التاجر",
-      "روبرت كيندو",
-      "المرتزق"
-    ],
-    "correct": 0,
-    "difficulty": "medium"
-  },
-  {
-    "category": "gaming",
-    "question": "في God of War (2018)، ما اسم الأخوين القزمين اللذين يصنعان العتاد لكريتوس؟",
-    "options": [
-      "فري وفريا",
-      "بروك وسندري",
-      "ماغني ومودي",
-      "سكول وهاتي"
-    ],
-    "correct": 1,
-    "difficulty": "easy"
-  },
-  {
-    "category": "gaming",
-    "question": "في God of War (2018)، ما اسم رأس الحكيم الذي يرافق كريتوس وأتريوس؟",
-    "options": [
-      "ميمير",
-      "ثور",
-      "بالدور",
-      "هايمدال"
-    ],
-    "correct": 0,
-    "difficulty": "easy"
-  },
-  {
-    "category": "gaming",
-    "question": "في God of War Ragnarök، ما اسم الذئب الذي ينقل أتريوس روحه لاحقًا إلى جسد غارم؟",
-    "options": [
-      "فنرير",
-      "هاتي",
-      "غرايدونغر",
-      "سكول"
-    ],
-    "correct": 0,
-    "difficulty": "hard"
-  },
-  {
-    "category": "gaming",
-    "question": "في Ghost of Tsushima، ما اسم القائد المغولي الذي يقود الغزو؟",
-    "options": [
-      "ريوزو",
-      "خوتون خان",
-      "اللورد شيمورا",
-      "اللورد ناغاو"
-    ],
-    "correct": 1,
-    "difficulty": "medium"
-  },
-  {
-    "category": "gaming",
-    "question": "في Ghost of Tsushima، ما اسم الشاب الحداد الذي يساعد المقاومة وهو شقيق يونا؟",
-    "options": [
-      "إيشيكاوا",
-      "نوريـو",
-      "تاكا",
-      "ريوزو"
-    ],
-    "correct": 2,
-    "difficulty": "hard"
-  },
-  {
-    "category": "gaming",
-    "question": "في Ghost of Tsushima، ما اسم جماعة المرتزقة التي يقودها ريوزو؟",
-    "options": [
-      "رماح الصقر",
-      "الذئاب الحمراء",
-      "قبعات القش",
-      "نسور الشمال"
-    ],
-    "correct": 2,
-    "difficulty": "hard"
-  },
-  {
-    "category": "gaming",
-    "question": "في The Last of Us، ما اسم المنظمة التي تسعى إيلي للوصول إليها في الجزء الأول؟",
-    "options": [
-      "اليراعات",
-      "الذئاب",
-      "السيرافيت",
-      "الراتلرز"
-    ],
-    "correct": 0,
-    "difficulty": "easy"
-  },
-  {
-    "category": "gaming",
-    "question": "في The Last of Us Part II، ما اسم الجماعة التي تتخذ من سياتل مقرًا وتُختصر WLF؟",
-    "options": [
-      "اليراعات",
-      "السيرافيت",
-      "الفيدرا",
-      "جبهة تحرير واشنطن"
-    ],
-    "correct": 3,
-    "difficulty": "medium"
-  },
-  {
-    "category": "gaming",
-    "question": "في The Last of Us Part II، ما اسم صديقة إيلي التي ترافقها إلى سياتل؟",
-    "options": [
-      "دينا",
-      "رايلي",
-      "تيس",
-      "مارلين"
-    ],
-    "correct": 0,
-    "difficulty": "easy"
-  },
-  {
-    "category": "gaming",
-    "question": "في Uncharted 4، ما اسم القرصان الذي يبحث ناثان دريك عن كنزه؟",
-    "options": [
-      "فرانسيس دريك",
-      "هنري إيفري",
-      "هنري مورغان",
-      "إدوارد تيتش"
-    ],
-    "correct": 1,
-    "difficulty": "medium"
-  },
-  {
-    "category": "gaming",
-    "question": "في Uncharted 2، ما اسم المدينة الأسطورية التي يسعى ناثان للوصول إليها؟",
-    "options": [
-      "إيرام ذات العماد",
-      "ليبرتاليا",
-      "إلدورادو",
-      "شامبالا"
-    ],
-    "correct": 3,
-    "difficulty": "medium"
-  },
-  {
-    "category": "gaming",
-    "question": "في BioShock، ما اسم المدينة الواقعة تحت البحر في الجزء الأول؟",
-    "options": [
-      "دانهيل",
-      "كولومبيا",
-      "ريفن هولم",
-      "رابتشر"
-    ],
-    "correct": 3,
-    "difficulty": "easy"
-  },
-  {
-    "category": "gaming",
-    "question": "في BioShock Infinite، ما اسم المدينة الطائرة التي تدور فيها الأحداث؟",
-    "options": [
-      "رابتشر",
-      "كولومبيا",
-      "نايت سيتي",
-      "أركاديا"
-    ],
-    "correct": 1,
-    "difficulty": "easy"
-  },
-  {
-    "category": "gaming",
-    "question": "في Portal 2، ما اسم المنشأة التي تجري فيها الاختبارات؟",
-    "options": [
-      "مركز أوليمبوس",
-      "مختبرات ميركوري",
-      "أبرتشَر ساينس",
-      "بلاك ميسا"
-    ],
-    "correct": 2,
-    "difficulty": "medium"
-  },
-  {
-    "category": "gaming",
-    "question": "في Portal 2، ما اسم النواة الآلية التي يرافقها اللاعب في بداية اللعبة؟",
-    "options": [
-      "ويتلي",
-      "بي-بودي",
-      "غلاDOS",
-      "أطلس"
-    ],
-    "correct": 0,
-    "difficulty": "medium"
-  },
-  {
-    "category": "gaming",
-    "question": "في Fallout: New Vegas، ما اسم الفندق والكازينو الذي يقيم فيه السيد هاوس؟",
-    "options": [
-      "لاكي 38",
-      "غومورا",
-      "ذا توبس",
-      "ألترا لوكس"
-    ],
-    "correct": 0,
-    "difficulty": "hard"
-  },
-  {
-    "category": "gaming",
-    "question": "في Skyrim، ما اسم الجبل الذي يقع عليه دير هايغ هروثغار؟",
-    "options": [
-      "حنجرة العالم",
-      "الجبل الأحمر",
-      "قمة أبوقريفا",
-      "جبل دراغونستون"
-    ],
-    "correct": 0,
-    "difficulty": "hard"
-  },
-  {
-    "category": "gaming",
-    "question": "في Skyrim، ما اسم الجماعة التي تعلّم الدوفاكين استخدام الصوت في هايغ هروثغار؟",
-    "options": [
-      "شفرات المعبد",
-      "الحرس الليلي",
-      "الرفاق",
-      "اللِّحى الرمادية"
-    ],
-    "correct": 3,
-    "difficulty": "medium"
-  },
-  {
-    "category": "gaming",
-    "question": "في Assassin's Creed II، ما اسم شقيق إيتزيو الأصغر الذي يُعدم مع والده؟",
-    "options": [
-      "بيتروتشيو",
-      "ليوناردو",
-      "ماكيافيلي",
-      "بارتولوميو"
-    ],
-    "correct": 0,
-    "difficulty": "hard"
-  },
-  {
-    "category": "gaming",
-    "question": "في Assassin's Creed Origins، ما اسم زوجة بايك التي تشاركه تأسيس تنظيم المخفيين؟",
-    "options": [
-      "إيفي",
-      "آيا",
-      "صوفيا",
-      "كاساندرا"
-    ],
-    "correct": 1,
-    "difficulty": "medium"
-  },
-  {
-    "category": "gaming",
-    "question": "في Metal Gear Solid 3، ما الاسم الحركي لمرشدة نيكيد سنيك التي تواجهه قرب نهاية اللعبة؟",
-    "options": [
-      "ذا فيوري",
-      "ذا بوس",
-      "ذا إند",
-      "ذا باين"
-    ],
-    "correct": 1,
-    "difficulty": "medium"
-  },
-  {
-    "category": "gaming",
-    "question": "في Metal Gear Solid، ما اسم الجزيرة التي تقع فيها منشأة التخلص من الأسلحة النووية؟",
-    "options": [
-      "غروزني غراد",
-      "بيغ شِل",
-      "شادو موزِس",
-      "مازر بيس"
-    ],
-    "correct": 2,
-    "difficulty": "hard"
-  },
-  {
-    "category": "gaming",
-    "question": "في Minecraft، ما المادة التي يحتاجها اللاعب لصنع إطار بوابة Nether المعتادة؟",
-    "options": [
-      "السبج",
-      "الأندسايت",
-      "الكوارتز",
-      "الديوريت"
-    ],
-    "correct": 0,
-    "difficulty": "easy"
-  },
-  {
-    "category": "gaming",
-    "question": "في Hollow Knight، ما اسم المملكة التي يستكشفها الفارس تحت الأرض؟",
-    "options": [
-      "هولدنغارد",
-      "هالوونست",
-      "لوردان",
-      "هولميغارد"
-    ],
-    "correct": 1,
-    "difficulty": "medium"
-  },
-  {
-    "category": "gaming",
-    "question": "في Hades، من والد زاغريوس الذي يحكم العالم السفلي؟",
-    "options": [
-      "هاديس",
-      "آريس",
-      "بوسيدون",
-      "هيرميس"
-    ],
-    "correct": 0,
-    "difficulty": "easy"
-  },
-  {
     "category": "football",
     "question": "من سجل هدف التعادل لإيطاليا أمام فرنسا في نهائي كأس العالم 2006 قبل اللجوء لركلات الترجيح؟",
     "options": [
@@ -1069,12 +469,12 @@ window.BSM_QUESTIONS = [
   },
   {
     "category": "football",
-    "question": "من حارس أرسنال الذي طُرد في نهائي دوري الأبطال 2006؟",
+    "question": "من حارس أرسنال الذي تعرض للطرد في نهائي دوري الأبطال 2006؟",
     "options": [
       "ينس ليمان",
-      "فويتشيك تشيزني",
       "مانويل ألمونيا",
-      "ديفيد سيمان"
+      "مارت بوم",
+      "فيكتور فالديس"
     ],
     "correct": 0,
     "difficulty": "hard"
@@ -1201,602 +601,602 @@ window.BSM_QUESTIONS = [
   },
   {
     "category": "countries",
-    "question": "ما عاصمة بوتان الواقعة في جبال الهيمالايا؟",
+    "question": "ما عاصمة المكسيك؟",
     "options": [
-      "كاتماندو",
-      "غانغتوك",
-      "تيمفو",
-      "داكا"
-    ],
-    "correct": 2,
-    "difficulty": "hard"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة بروناي؟",
-    "options": [
-      "بونتياناك",
-      "بندر سري بيغاوان",
-      "كوتشينغ",
-      "كوتا كينابالو"
-    ],
-    "correct": 1,
-    "difficulty": "hard"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة قيرغيزستان؟",
-    "options": [
-      "طشقند",
-      "بشكيك",
-      "دوشنبه",
-      "أستانا"
-    ],
-    "correct": 1,
-    "difficulty": "easy"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة طاجيكستان؟",
-    "options": [
-      "عشق آباد",
-      "بشكيك",
-      "سمرقند",
-      "دوشنبه"
-    ],
-    "correct": 3,
-    "difficulty": "medium"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة تركمانستان؟",
-    "options": [
-      "باكو",
-      "دوشنبه",
-      "عشق آباد",
-      "طشقند"
-    ],
-    "correct": 2,
-    "difficulty": "medium"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة منغوليا؟",
-    "options": [
-      "إيركوتسك",
-      "أولان باتور",
-      "بيشكيك",
-      "أستانا"
-    ],
-    "correct": 1,
-    "difficulty": "easy"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة لاوس؟",
-    "options": [
-      "فيينتيان",
-      "هانوي",
-      "بنوم بنه",
-      "يانغون"
-    ],
-    "correct": 0,
-    "difficulty": "medium"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة ميانمار الإدارية منذ عام 2005؟",
-    "options": [
-      "يانغون",
-      "ماندالاي",
-      "نايبيداو",
-      "باغان"
-    ],
-    "correct": 2,
-    "difficulty": "hard"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة تيمور الشرقية؟",
-    "options": [
-      "ديلي",
-      "دافاو",
-      "أمبون",
-      "كوبانغ"
-    ],
-    "correct": 0,
-    "difficulty": "hard"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة سريلانكا التشريعية الرسمية؟",
-    "options": [
-      "كولومبو",
-      "غالي",
-      "سري جاياواردنابورا كوتي",
-      "كاندي"
-    ],
-    "correct": 2,
-    "difficulty": "hard"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة بوتسوانا؟",
-    "options": [
-      "هراري",
-      "لوساكا",
-      "ويندهوك",
-      "غابورون"
-    ],
-    "correct": 3,
-    "difficulty": "medium"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة ناميبيا؟",
-    "options": [
-      "ماسيرو",
-      "لوساكا",
-      "ويندهوك",
-      "غابورون"
-    ],
-    "correct": 2,
-    "difficulty": "medium"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة زامبيا؟",
-    "options": [
-      "لوساكا",
-      "ليلونغوي",
-      "هراري",
-      "بلانتير"
-    ],
-    "correct": 0,
-    "difficulty": "easy"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة ملاوي؟",
-    "options": [
-      "لوساكا",
-      "هراري",
-      "مابوتو",
-      "ليلونغوي"
+      "غوادالاخارا",
+      "مونتيري",
+      "بويبلا",
+      "مكسيكو سيتي"
     ],
     "correct": 3,
     "difficulty": "hard"
   },
   {
     "category": "countries",
-    "question": "ما عاصمة موزمبيق؟",
+    "question": "ما عاصمة البرازيل؟",
     "options": [
-      "مابوتو",
-      "ماسيرو",
-      "أنـتاناناريفو",
-      "لوساكا"
+      "ساو باولو",
+      "ريو دي جانيرو",
+      "سلفادور",
+      "برازيليا"
     ],
-    "correct": 0,
-    "difficulty": "medium"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة ليسوتو؟",
-    "options": [
-      "غابورون",
-      "ماسيرو",
-      "ويندهوك",
-      "مباباني"
-    ],
-    "correct": 1,
+    "correct": 3,
     "difficulty": "hard"
   },
   {
     "category": "countries",
-    "question": "ما عاصمة مدغشقر؟",
+    "question": "ما عاصمة الأرجنتين؟",
     "options": [
-      "موروني",
-      "مابوتو",
-      "بورت لويس",
-      "أنتاناناريفو"
-    ],
-    "correct": 3,
-    "difficulty": "medium"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة جزر القمر؟",
-    "options": [
-      "بورت لويس",
-      "أنتاناناريفو",
-      "فيكتوريا",
-      "موروني"
+      "كوردوبا",
+      "روزاريو",
+      "مندوزا",
+      "بوينس آيرس"
     ],
     "correct": 3,
     "difficulty": "easy"
   },
   {
     "category": "countries",
-    "question": "ما عاصمة موريشيوس؟",
+    "question": "ما عاصمة تشيلي؟",
     "options": [
-      "موروني",
-      "بورت لويس",
-      "فيكتوريا",
-      "مابوتو"
-    ],
-    "correct": 1,
-    "difficulty": "hard"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة سيشل؟",
-    "options": [
-      "موروني",
-      "بورت لويس",
-      "برايا",
-      "فيكتوريا"
-    ],
-    "correct": 3,
-    "difficulty": "hard"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة الرأس الأخضر؟",
-    "options": [
-      "برايا",
-      "بانجول",
-      "بيساو",
-      "داكار"
-    ],
-    "correct": 0,
-    "difficulty": "hard"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة بابوا غينيا الجديدة؟",
-    "options": [
-      "هونيارا",
-      "بورت فيلا",
-      "سوفا",
-      "بورت مورسبي"
-    ],
-    "correct": 3,
-    "difficulty": "hard"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة غامبيا؟",
-    "options": [
-      "كوناكري",
-      "بانجول",
-      "داكار",
-      "فريتاون"
-    ],
-    "correct": 1,
-    "difficulty": "medium"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة سيراليون؟",
-    "options": [
-      "مونروفيا",
-      "كوناكري",
-      "أبيدجان",
-      "فريتاون"
+      "فالبارايسو",
+      "كونسبسيون",
+      "أنتوفاغاستا",
+      "سانتياغو"
     ],
     "correct": 3,
     "difficulty": "medium"
   },
   {
     "category": "countries",
-    "question": "ما عاصمة ليبيريا؟",
+    "question": "ما عاصمة كولومبيا؟",
     "options": [
-      "فريتاون",
-      "باماكو",
-      "مونروفيا",
-      "بانجول"
-    ],
-    "correct": 2,
-    "difficulty": "medium"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة ساحل العاج الرسمية؟",
-    "options": [
-      "ياموسوكرو",
-      "بواكي",
-      "أكرا",
-      "أبيدجان"
+      "بوغوتا",
+      "ميديين",
+      "كالي",
+      "قرطاجنة"
     ],
     "correct": 0,
-    "difficulty": "hard"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة بوركينا فاسو؟",
-    "options": [
-      "باماكو",
-      "نيامي",
-      "واغادوغو",
-      "نواكشوط"
-    ],
-    "correct": 2,
-    "difficulty": "hard"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة النيجر؟",
-    "options": [
-      "باماكو",
-      "نيامي",
-      "واغادوغو",
-      "نجامينا"
-    ],
-    "correct": 1,
     "difficulty": "medium"
   },
   {
     "category": "countries",
-    "question": "ما عاصمة تشاد؟",
+    "question": "ما عاصمة بيرو؟",
     "options": [
-      "بانغي",
-      "نجامينا",
-      "ياوندي",
-      "نيامي"
+      "ليما",
+      "كوسكو",
+      "أريكيبا",
+      "تروخيو"
     ],
-    "correct": 1,
+    "correct": 0,
     "difficulty": "easy"
   },
   {
     "category": "countries",
-    "question": "ما عاصمة الكاميرون؟",
+    "question": "ما عاصمة الإكوادور؟",
     "options": [
-      "ياوندي",
-      "مالابو",
-      "دوالا",
-      "ليبرفيل"
-    ],
-    "correct": 0,
-    "difficulty": "medium"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة جمهورية أفريقيا الوسطى؟",
-    "options": [
-      "نجامينا",
-      "بانغي",
-      "كينشاسا",
-      "برازافيل"
-    ],
-    "correct": 1,
-    "difficulty": "hard"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة الغابون؟",
-    "options": [
-      "ليبرفيل",
-      "برازافيل",
-      "ياوندي",
-      "مالابو"
-    ],
-    "correct": 0,
-    "difficulty": "medium"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة جمهورية الكونغو، الواقعة على الضفة المقابلة لكينشاسا؟",
-    "options": [
-      "بانغي",
-      "كيغالي",
-      "ليبرفيل",
-      "برازافيل"
-    ],
-    "correct": 3,
-    "difficulty": "medium"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة رواندا؟",
-    "options": [
-      "كامبالا",
-      "كيغالي",
-      "نيروبي",
-      "بوجمبورا"
-    ],
-    "correct": 1,
-    "difficulty": "medium"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة بوروندي السياسية؟",
-    "options": [
-      "غيتيغا",
-      "بوجمبورا",
-      "كيغالي",
-      "كمبالا"
-    ],
-    "correct": 0,
-    "difficulty": "hard"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة توغو؟",
-    "options": [
-      "بورتو نوفو",
-      "أكرا",
-      "لومي",
-      "كوتونو"
+      "كوينكا",
+      "أمباتو",
+      "كيتو",
+      "غواياكيل"
     ],
     "correct": 2,
     "difficulty": "medium"
   },
   {
     "category": "countries",
-    "question": "ما عاصمة بنين الرسمية؟",
+    "question": "ما عاصمة الأوروغواي؟",
     "options": [
-      "لومي",
-      "أبوجا",
-      "كوتونو",
-      "بورتو نوفو"
+      "مونتيفيديو",
+      "بونتا دل إستي",
+      "سالتو",
+      "بايساندو"
+    ],
+    "correct": 0,
+    "difficulty": "hard"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة باراغواي؟",
+    "options": [
+      "سيوداد ديل إستي",
+      "إنكارناسيون",
+      "بيدرو خوان كاباييرو",
+      "أسونسيون"
     ],
     "correct": 3,
     "difficulty": "hard"
   },
   {
     "category": "countries",
-    "question": "ما عاصمة موريتانيا؟",
+    "question": "ما عاصمة بنما؟",
     "options": [
-      "باماكو",
-      "نيامي",
-      "نواكشوط",
-      "نواذيبو"
-    ],
-    "correct": 2,
-    "difficulty": "easy"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة كازاخستان؟",
-    "options": [
-      "أستانا",
-      "ألماتي",
-      "بشكيك",
-      "طشقند"
-    ],
-    "correct": 0,
-    "difficulty": "easy"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة أذربيجان؟",
-    "options": [
-      "تبليسي",
-      "باتومي",
-      "باكو",
-      "يريفان"
-    ],
-    "correct": 2,
-    "difficulty": "easy"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة أرمينيا؟",
-    "options": [
-      "باكو",
-      "تبليسي",
-      "كوتايسي",
-      "يريفان"
+      "كولون",
+      "دافيد",
+      "سانتياغو دي فيراغواس",
+      "مدينة بنما"
     ],
     "correct": 3,
-    "difficulty": "easy"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة مولدوفا؟",
-    "options": [
-      "بوخارست",
-      "كيشيناو",
-      "صوفيا",
-      "بلغراد"
-    ],
-    "correct": 1,
-    "difficulty": "medium"
-  },
-  {
-    "category": "countries",
-    "question": "ما عاصمة الجبل الأسود؟",
-    "options": [
-      "بودغوريتسا",
-      "بريشتينا",
-      "تيرانا",
-      "سكوبيه"
-    ],
-    "correct": 0,
     "difficulty": "hard"
   },
   {
     "category": "countries",
-    "question": "ما عاصمة سلوفينيا؟",
+    "question": "ما عاصمة كوستاريكا؟",
     "options": [
-      "براتيسلافا",
-      "سراييفو",
-      "ليوبليانا",
-      "زغرب"
+      "سان خوسيه",
+      "ألاخويلا",
+      "ليمون",
+      "كارتاغو"
     ],
-    "correct": 2,
+    "correct": 0,
     "difficulty": "medium"
   },
   {
     "category": "countries",
-    "question": "ما عاصمة سلوفاكيا؟",
+    "question": "ما عاصمة غواتيمالا؟",
     "options": [
-      "ليوبليانا",
-      "براتيسلافا",
-      "برنو",
-      "بودابست"
+      "إسكينتلا",
+      "مدينة غواتيمالا",
+      "كيتزالتينانغو",
+      "أنتيغوا غواتيمالا"
     ],
     "correct": 1,
-    "difficulty": "easy"
+    "difficulty": "medium"
   },
   {
     "category": "countries",
-    "question": "ما عاصمة بليز؟",
+    "question": "ما عاصمة نيكاراغوا؟",
     "options": [
-      "بلموبان",
-      "تيغوسيغالبا",
+      "ليون",
+      "ماسايا",
       "ماناغوا",
-      "مدينة بليز"
+      "غرناطة"
     ],
-    "correct": 0,
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة السلفادور؟",
+    "options": [
+      "سويابانغو",
+      "سان سلفادور",
+      "سانتا آنا",
+      "سان ميغيل"
+    ],
+    "correct": 1,
     "difficulty": "hard"
   },
   {
     "category": "countries",
     "question": "ما عاصمة هندوراس؟",
     "options": [
+      "لا سيبا",
+      "تشولوما",
       "تيغوسيغالبا",
-      "ماناغوا",
-      "سان خوسيه",
-      "سان سلفادور"
+      "سان بيدرو سولا"
     ],
-    "correct": 0,
-    "difficulty": "hard"
+    "correct": 2,
+    "difficulty": "medium"
   },
   {
     "category": "countries",
-    "question": "ما عاصمة سورينام؟",
+    "question": "ما عاصمة بليز؟",
     "options": [
-      "كايين",
+      "سان إغناسيو",
+      "أورانج ووك",
       "بلموبان",
-      "باراماريبو",
-      "جورج تاون"
+      "مدينة بليز"
     ],
     "correct": 2,
     "difficulty": "hard"
   },
   {
     "category": "countries",
-    "question": "ما عاصمة غيانا؟",
+    "question": "ما عاصمة كوبا؟",
     "options": [
-      "بورت أوف سبين",
-      "برازيليا",
-      "باراماريبو",
-      "جورج تاون"
+      "هولغوين",
+      "هافانا",
+      "سانتياغو دي كوبا",
+      "كاماغوي"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة جامايكا؟",
+    "options": [
+      "كينغستون",
+      "مونتيغو باي",
+      "سبانيش تاون",
+      "أوتشو ريوس"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة هايتي؟",
+    "options": [
+      "كاب هايتيان",
+      "جاكميل",
+      "غوناييف",
+      "بورت أو برنس"
     ],
     "correct": 3,
     "difficulty": "hard"
   },
   {
     "category": "countries",
-    "question": "ما عاصمة فانواتو؟",
+    "question": "ما عاصمة جمهورية الدومينيكان؟",
     "options": [
-      "سوفا",
-      "بورت فيلا",
-      "هونيارا",
-      "أبيا"
+      "لا رومانا",
+      "بويرتو بلاتا",
+      "سانتو دومينغو",
+      "سانتياغو"
+    ],
+    "correct": 2,
+    "difficulty": "hard"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة ترينيداد وتوباغو؟",
+    "options": [
+      "سان فرناندو",
+      "أريما",
+      "تشاغواناس",
+      "بورت أوف سبين"
+    ],
+    "correct": 3,
+    "difficulty": "hard"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة البهاما؟",
+    "options": [
+      "مارش هاربور",
+      "أليس تاون",
+      "ناساو",
+      "فريبورت"
+    ],
+    "correct": 2,
+    "difficulty": "hard"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة باربادوس؟",
+    "options": [
+      "هولتاون",
+      "بريدج تاون",
+      "سبايتستاون",
+      "أويستنز"
     ],
     "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة أيرلندا؟",
+    "options": [
+      "غالواي",
+      "ليمريك",
+      "دبلن",
+      "كورك"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة هولندا؟",
+    "options": [
+      "أوترخت",
+      "لاهاي",
+      "أمستردام",
+      "روتردام"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة بلجيكا؟",
+    "options": [
+      "لييج",
+      "غنت",
+      "بروكسل",
+      "أنتويرب"
+    ],
+    "correct": 2,
+    "difficulty": "hard"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة النمسا؟",
+    "options": [
+      "فيينا",
+      "غراتس",
+      "لينتس",
+      "سالزبورغ"
+    ],
+    "correct": 0,
+    "difficulty": "hard"
+  },
+  {
+    "category": "countries",
+    "question": "ما المدينة التي تُعد المقر الفيدرالي للحكومة السويسرية؟",
+    "options": [
+      "جنيف",
+      "لوزان",
+      "برن",
+      "زيورخ"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة التشيك؟",
+    "options": [
+      "برنو",
+      "أوسترافا",
+      "بلزن",
+      "براغ"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة بولندا؟",
+    "options": [
+      "وارسو",
+      "كراكوف",
+      "غدانسك",
+      "فروتسواف"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة المجر؟",
+    "options": [
+      "دبرتسن",
+      "سيغيد",
+      "بيتش",
+      "بودابست"
+    ],
+    "correct": 3,
+    "difficulty": "hard"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة رومانيا؟",
+    "options": [
+      "ياش",
+      "بوخارست",
+      "كلوج نابوكا",
+      "تيميشوارا"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة بلغاريا؟",
+    "options": [
+      "بورغاس",
+      "صوفيا",
+      "بلوفديف",
+      "فارنا"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة صربيا؟",
+    "options": [
+      "بلغراد",
+      "نوفي ساد",
+      "نيش",
+      "كراغوييفاتس"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة كرواتيا؟",
+    "options": [
+      "أوسييك",
+      "زغرب",
+      "سبليت",
+      "رييكا"
+    ],
+    "correct": 1,
+    "difficulty": "hard"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة البوسنة والهرسك؟",
+    "options": [
+      "سراييفو",
+      "بانيا لوكا",
+      "موستار",
+      "توزلا"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة ألبانيا؟",
+    "options": [
+      "شكودر",
+      "تيرانا",
+      "دوريس",
+      "فلوره"
+    ],
+    "correct": 1,
+    "difficulty": "hard"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة مقدونيا الشمالية؟",
+    "options": [
+      "سكوبيه",
+      "بيتولا",
+      "تيتوفو",
+      "أوهريد"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة الجبل الأسود؟",
+    "options": [
+      "بودفا",
+      "تسيتينيه",
+      "بودغوريتسا",
+      "نيكشيتش"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة أيسلندا؟",
+    "options": [
+      "هافنارفيوردور",
+      "ريكيافيك",
+      "أكوريري",
+      "كوبافوغور"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة أوكرانيا؟",
+    "options": [
+      "خاركيف",
+      "أوديسا",
+      "كييف",
+      "لفيف"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة بيلاروس؟",
+    "options": [
+      "مينسك",
+      "بريست",
+      "غوميل",
+      "فيتيبسك"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة ليتوانيا؟",
+    "options": [
+      "شياولياي",
+      "فيلنيوس",
+      "كاوناس",
+      "كلايبيدا"
+    ],
+    "correct": 1,
+    "difficulty": "hard"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة لاتفيا؟",
+    "options": [
+      "يلغافا",
+      "ريغا",
+      "داوغافبيلس",
+      "ليباجا"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة إستونيا؟",
+    "options": [
+      "بارنو",
+      "تالين",
+      "تارتو",
+      "نارفا"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة جورجيا؟",
+    "options": [
+      "روستافي",
+      "تبليسي",
+      "باتومي",
+      "كوتايسي"
+    ],
+    "correct": 1,
+    "difficulty": "hard"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة أوزبكستان؟",
+    "options": [
+      "طشقند",
+      "سمرقند",
+      "بخارى",
+      "نمنغان"
+    ],
+    "correct": 0,
+    "difficulty": "hard"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة قرغيزستان؟",
+    "options": [
+      "أوش",
+      "جلال آباد",
+      "كاراكول",
+      "بشكيك"
+    ],
+    "correct": 3,
+    "difficulty": "hard"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة طاجيكستان؟",
+    "options": [
+      "خوجند",
+      "كولاب",
+      "بوختار",
+      "دوشنبه"
+    ],
+    "correct": 3,
+    "difficulty": "hard"
+  },
+  {
+    "category": "countries",
+    "question": "ما عاصمة تركمانستان؟",
+    "options": [
+      "داشوغوز",
+      "ماري",
+      "عشق آباد",
+      "تركمان آباد"
+    ],
+    "correct": 2,
     "difficulty": "hard"
   },
   {
@@ -1825,14 +1225,14 @@ window.BSM_QUESTIONS = [
   },
   {
     "category": "series",
-    "question": "في Breaking Bad، ما اسم المطعم الذي يديره غاس فرينغ؟",
+    "question": "في Breaking Bad، من صاحب سلسلة مطاعم Los Pollos Hermanos التي تُستعمل واجهة لتجارة المخدرات؟",
     "options": [
-      "ذا وايت روم",
-      "توهايلي غريل",
-      "غايل ريكوردز",
-      "لوس بويّوس هيرمانوس"
+      "غاس فرينغ",
+      "مايك إيرمنتراوت",
+      "غايل بوتيكر",
+      "هيكتور سالامانكا"
     ],
-    "correct": 3,
+    "correct": 0,
     "difficulty": "easy"
   },
   {
@@ -1849,12 +1249,12 @@ window.BSM_QUESTIONS = [
   },
   {
     "category": "series",
-    "question": "في Breaking Bad، ما اسم السيارة الترفيهية التي يستخدمها والتر وجيسي في البداية كمختبر؟",
+    "question": "في Breaking Bad، أي أخ من الأخوين سالامانكا يتوفى في المستشفى بعد أن يحقنه مايك بمادة قاتلة؟",
     "options": [
-      "شيفروليه إمبالا",
-      "فليتوود باوندَر",
-      "كاديلاك ديفيل",
-      "بونتياك أزتيك"
+      "هيكتور سالامانكا",
+      "ليونيل سالامانكا",
+      "ماركو سالامانكا",
+      "توكو سالامانكا"
     ],
     "correct": 1,
     "difficulty": "hard"
@@ -2077,11 +1477,11 @@ window.BSM_QUESTIONS = [
   },
   {
     "category": "series",
-    "question": "في The Hobbit، ما اسم التنين الذي يستولي على مملكة الأقزام في الجبل الوحيد؟",
+    "question": "في The Hobbit، ما اسم التنين الذي يحتل الجبل الوحيد ويحرس الكنز؟",
     "options": [
-      "شيلوب",
-      "أنكالاغون",
+      "أنكالاغون الأسود",
       "غلاورونغ",
+      "سكاثا",
       "سموغ"
     ],
     "correct": 3,
@@ -2089,26 +1489,26 @@ window.BSM_QUESTIONS = [
   },
   {
     "category": "series",
-    "question": "في Harry Potter، ما اسم سجن السحرة الذي يحرسه الديمنتورز؟",
+    "question": "في Harry Potter، ما اسم المخلوقات التي تحرس أزكابان وتمتص سعادة السجناء؟",
     "options": [
-      "غرينغوتس",
-      "نورمنغارد",
-      "هوجسميد",
-      "أزكابان"
+      "الإنفيري",
+      "البوغارت",
+      "الدياث إيترز",
+      "الديمنتورز"
     ],
     "correct": 3,
     "difficulty": "easy"
   },
   {
     "category": "series",
-    "question": "في Harry Potter، ما اسم الخريطة التي تكشف مواقع الأشخاص داخل هوغوورتس؟",
+    "question": "في Harry Potter، من الذي يساعد هاري على استخدام خريطة اللصوص أول مرة؟",
     "options": [
-      "خريطة اللصوص",
-      "خريطة كأس النار",
-      "خريطة مؤسسي هوغوورتس",
-      "خريطة الممرات السبعة"
+      "رون ويزلي",
+      "هيرميون غرينجر",
+      "ريموس لوبين",
+      "فريد وجورج ويزلي"
     ],
-    "correct": 0,
+    "correct": 3,
     "difficulty": "hard"
   },
   {
@@ -2161,14 +1561,14 @@ window.BSM_QUESTIONS = [
   },
   {
     "category": "series",
-    "question": "في Harry Potter، ما اسم الشخصية التي تخرج اسم هاري من كأس النار في نهاية الفيلم الرابع؟",
+    "question": "في Harry Potter and the Goblet of Fire، من وضع اسم هاري في الكأس وهو متنكر في هيئة مودي؟",
     "options": [
+      "إيغور كاركاروف",
+      "بارتي كراوتش الابن",
       "بارتي كراوتش الأب",
-      "ألستور مودي",
-      "ألباس دمبلدور",
-      "مينيرفا ماكغوناغال"
+      "سيفيروس سناب"
     ],
-    "correct": 2,
+    "correct": 1,
     "difficulty": "hard"
   },
   {
@@ -2221,12 +1621,12 @@ window.BSM_QUESTIONS = [
   },
   {
     "category": "series",
-    "question": "في The Matrix، ما اسم القبطان الذي يعرض على نيو الحبة الحمراء؟",
+    "question": "في The Matrix، من الذي يقود نيو إلى التعرف على مورفيوس في بداية الفيلم؟",
     "options": [
       "سايفر",
       "تانك",
-      "دووزر",
-      "مورفيوس"
+      "دوزر",
+      "ترينيتي"
     ],
     "correct": 3,
     "difficulty": "easy"
@@ -2305,38 +1705,38 @@ window.BSM_QUESTIONS = [
   },
   {
     "category": "series",
-    "question": "في Interstellar، ما اسم الروبوت المرافق لكوبر وطاقم إنديورنس؟",
+    "question": "في Interstellar، من عضو الطاقم الذي يلقى حتفه بسبب فخ في روبوت كوكب الدكتور مان؟",
     "options": [
-      "تارس",
-      "ديفيد",
-      "وال-إي",
-      "كيسلر"
+      "روميلي",
+      "دويل",
+      "كوبر",
+      "الدكتور مان"
     ],
     "correct": 0,
     "difficulty": "medium"
   },
   {
     "category": "series",
-    "question": "في Interstellar، ما اسم ابنة كوبر التي تصبح عالمة وتعمل على معادلة الجاذبية؟",
+    "question": "في Interstellar، من الذي يحل معادلة الجاذبية بمساعدة رسائل والدها من الثقب الأسود؟",
     "options": [
-      "ميرف",
-      "جيسيكا",
-      "لويس",
-      "أميليا"
+      "كوبر",
+      "مورف",
+      "أميليا براند",
+      "الدكتور مان"
     ],
-    "correct": 0,
+    "correct": 1,
     "difficulty": "easy"
   },
   {
     "category": "series",
-    "question": "في Jurassic Park، ما اسم الجزيرة التي أُقيمت عليها الحديقة في الفيلم الأول؟",
+    "question": "في Jurassic Park، من الذي يعطل أنظمة أمن المنتزه ليهرب بأجنة الديناصورات؟",
     "options": [
-      "إيسلا نوبلار",
-      "إيسلا سورنا",
-      "إيسلا ماتانثيروس",
-      "جزيرة الجمجمة"
+      "جون هاموند",
+      "دينيس نيدري",
+      "راي أرنولد",
+      "هنري وو"
     ],
-    "correct": 0,
+    "correct": 1,
     "difficulty": "hard"
   },
   {
@@ -2353,26 +1753,26 @@ window.BSM_QUESTIONS = [
   },
   {
     "category": "series",
-    "question": "في Back to the Future، ما نوع السيارة التي يحولها الدكتور براون إلى آلة زمن؟",
+    "question": "في Back to the Future، من المراهق الذي يسافر إلى عام 1955 في سيارة ديلوريان؟",
     "options": [
-      "شيفروليه كورفيت",
-      "بونتياك فايربيرد",
-      "دي لوريان",
-      "فورد موستانغ"
+      "مارتي ماكفلاي",
+      "بيف تانن",
+      "جورج ماكفلاي",
+      "ديف ماكفلاي"
     ],
-    "correct": 2,
+    "correct": 0,
     "difficulty": "easy"
   },
   {
     "category": "series",
-    "question": "في The Shawshank Redemption، ما اسم السجين الذي يؤدي دوره مورغان فريمان ويصادق آندي؟",
+    "question": "في The Shawshank Redemption، من السجين المسن الذي يعجز عن التأقلم بعد خروجه من السجن؟",
     "options": [
-      "إيليس بويد ريدينغ «ريد»",
-      "صامويل نورتون",
-      "بايرون هادلي",
-      "تومي ويليامز"
+      "آندي دوفرين",
+      "تومي ويليامز",
+      "بروكس هاتلن",
+      "ريد"
     ],
-    "correct": 0,
+    "correct": 2,
     "difficulty": "easy"
   },
   {
@@ -2389,14 +1789,14 @@ window.BSM_QUESTIONS = [
   },
   {
     "category": "series",
-    "question": "في The Silence of the Lambs، ما اسم المتدربة في مكتب التحقيقات التي تستعين بهانيبال لكتر؟",
+    "question": "في The Silence of the Lambs، من متدربة FBI التي تستعين بهانيبال ليكتر لكشف القاتل؟",
     "options": [
-      "بيلا كروفورد",
+      "أرديليا ماب",
       "كاثرين مارتن",
-      "كلاريس ستارلينغ",
-      "آر ديليا ماب"
+      "روث مارتن",
+      "كلاريس ستارلينغ"
     ],
-    "correct": 2,
+    "correct": 3,
     "difficulty": "medium"
   },
   {
@@ -3174,7 +2574,7 @@ window.BSM_QUESTIONS = [
     "federation": "AEW",
     "question": "من كان أول بطل عالمي للرجال في AEW عام 2019؟",
     "options": [
-      "كينّي أوميغا",
+      "كيني أوميغا",
       "جون موكسلي",
       "كريس جيريكو",
       "كودي رودز"
@@ -3189,8 +2589,8 @@ window.BSM_QUESTIONS = [
     "options": [
       "كودي رودز",
       "داربي ألين",
-      "لانس آرتشر",
-      "برودي لي"
+      "جون موكسلي",
+      "كيني أوميغا"
     ],
     "correct": 0
   },
@@ -3200,9 +2600,9 @@ window.BSM_QUESTIONS = [
     "federation": "AEW",
     "question": "أي فريق فاز بأول بطولة عالمية للفرق في AEW عام 2019؟",
     "options": [
-      "ذا يونغ باكس",
-      "لوتشا براذرز",
-      "برايفت بارتي",
+      "جون موكسلي",
+      "كيني أوميغا",
+      "هانغمان آدم بيج",
       "SCU"
     ],
     "correct": 3
@@ -3213,10 +2613,10 @@ window.BSM_QUESTIONS = [
     "federation": "AEW",
     "question": "من واجه سي إم بانك في أول مباراة له داخل AEW في All Out 2021؟",
     "options": [
-      "إيدي كينغستون",
+      "جون موكسلي",
       "داربي ألين",
       "إم جي إف",
-      "آدم كول"
+      "كيني أوميغا"
     ],
     "correct": 1
   },
@@ -3253,9 +2653,9 @@ window.BSM_QUESTIONS = [
     "question": "من كان القائد المؤسس لفريق Bullet Club عام 2013؟",
     "options": [
       "برنس ديفيت",
-      "كينّي أوميغا",
-      "إيه جي ستايلز",
-      "جاي وايت"
+      "كازوتشيكا أوكادا",
+      "هيروشي تاناهاشي",
+      "تتسويا نايتو"
     ],
     "correct": 0
   },
@@ -3278,10 +2678,10 @@ window.BSM_QUESTIONS = [
     "federation": "TNA",
     "question": "من فاز بأول بطولة X Division في تاريخ TNA عام 2002؟",
     "options": [
-      "جيري لين",
+      "ساموا جو",
       "إيه جي ستايلز",
-      "لو كي",
-      "كريس سابين"
+      "كورت أنجل",
+      "ستينغ"
     ],
     "correct": 1
   },
@@ -3395,10 +2795,10 @@ window.BSM_QUESTIONS = [
     "federation": "WCW",
     "question": "ما المواجهة الأخيرة في تاريخ عرض WCW Nitro عام 2001؟",
     "options": [
-      "بوكر تي ضد سكوت ستاينر",
-      "هالك هوغان ضد غولدبيرغ",
+      "ستينغ",
+      "هالك هوغان",
       "ستينغ ضد ريك فلير",
-      "دايموند دالاس بيج ضد جيف جاريت"
+      "ريك فلير"
     ],
     "correct": 2
   },
@@ -3409,7 +2809,7 @@ window.BSM_QUESTIONS = [
     "question": "من هزم جيف جاريت ليحقق أول بطولة عالمية له في WCW خلال Bash at the Beach 2000؟",
     "options": [
       "بوكر تي",
-      "سكوت ستاينر",
+      "ستينغ",
       "دايموند دالاس بيج",
       "غولدبيرغ"
     ],
@@ -3463,7 +2863,7 @@ window.BSM_QUESTIONS = [
       "جاستن كريديبل",
       "راينو",
       "ساندمان",
-      "ستيف كورينو"
+      "روب فان دام"
     ],
     "correct": 1
   },
@@ -3474,9 +2874,9 @@ window.BSM_QUESTIONS = [
     "question": "أي فريق تغلب على تومي دريمر وساندمان في ختام One Night Stand 2005؟",
     "options": [
       "ذا دادلي بويز",
-      "ذا إليمنيتورز",
-      "ذا إمباكت بلايرز",
-      "ذا إف بي آي"
+      "روب فان دام",
+      "سابو",
+      "تاز"
     ],
     "correct": 0
   },
@@ -3486,7 +2886,7 @@ window.BSM_QUESTIONS = [
     "federation": "AEW",
     "question": "من انتزع بطولة AEW العالمية من كريس جيريكو في Revolution 2020؟",
     "options": [
-      "كينّي أوميغا",
+      "كيني أوميغا",
       "هانغمان آدم بيج",
       "جون موكسلي",
       "كودي رودز"
@@ -3502,7 +2902,7 @@ window.BSM_QUESTIONS = [
       "براين دانيلسون",
       "سي إم بانك",
       "داربي ألين",
-      "ويل أوسبري"
+      "جون موكسلي"
     ],
     "correct": 0
   },
@@ -3513,8 +2913,8 @@ window.BSM_QUESTIONS = [
     "question": "من فاز بأول نسخة من بطولة أوين هارت للرجال في AEW عام 2022؟",
     "options": [
       "ساموا جو",
-      "كايل أورايلي",
-      "جيف هاردي",
+      "جون موكسلي",
+      "كيني أوميغا",
       "آدم كول"
     ],
     "correct": 3
@@ -3525,10 +2925,10 @@ window.BSM_QUESTIONS = [
     "federation": "AEW",
     "question": "من انتزع بطولة AEW العالمية من إم جي إف في Worlds End 2023؟",
     "options": [
-      "آدم كول",
+      "جون موكسلي",
       "ساموا جو",
-      "سويرف ستريكلاند",
-      "كريستيان كيج"
+      "كيني أوميغا",
+      "هانغمان آدم بيج"
     ],
     "correct": 1
   },
@@ -3540,7 +2940,7 @@ window.BSM_QUESTIONS = [
     "options": [
       "هيروشي تاناهاشي",
       "تتسويا نايتو",
-      "شينسوكي ناكامورا",
+      "كيني أوميغا",
       "كازوتشيكا أوكادا"
     ],
     "correct": 3
@@ -3552,7 +2952,7 @@ window.BSM_QUESTIONS = [
     "question": "من هزمه إيه جي ستايلز ليفوز بأول بطولة IWGP للوزن الثقيل عام 2014؟",
     "options": [
       "هيروشي تاناهاشي",
-      "شينسوكي ناكامورا",
+      "كيني أوميغا",
       "كازوتشيكا أوكادا",
       "تتسويا نايتو"
     ],
@@ -3565,9 +2965,9 @@ window.BSM_QUESTIONS = [
     "question": "من فاز ببطولة Best of the Super Juniors عام 2016؟",
     "options": [
       "ويل أوسبري",
-      "كوشيدا",
-      "ريوشكي تاغوتشي",
-      "هيوْرومو تاكاهاشي"
+      "كازوتشيكا أوكادا",
+      "هيروشي تاناهاشي",
+      "تتسويا نايتو"
     ],
     "correct": 0
   },
@@ -3593,7 +2993,7 @@ window.BSM_QUESTIONS = [
       "ساموا جو",
       "كريستوفر دانيلز",
       "إيه جي ستايلز",
-      "كريس سابين"
+      "كورت أنجل"
     ],
     "correct": 1
   },
@@ -3632,7 +3032,7 @@ window.BSM_QUESTIONS = [
       "إيه جي ستايلز",
       "ساموا جو",
       "كريستوفر دانيلز",
-      "كريس سابين"
+      "كورت أنجل"
     ],
     "correct": 0
   },
@@ -3642,2313 +3042,969 @@ window.BSM_QUESTIONS = [
     "federation": "TNA",
     "question": "من فاز ببطولة NWA العالمية في أول عرض أسبوعي لاتحاد TNA عام 2002؟",
     "options": [
-      "جيف جاريت",
-      "سكوت هول",
+      "ساموا جو",
+      "كورت أنجل",
       "كين شامروك",
-      "رون كيلينغز"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Super Mario Bros.؟",
-    "options": [
-      "ماريو",
-      "سبايرو",
-      "آرثر مورغان",
-      "سوليد سنيك"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة The Legend of Zelda: Ocarina of Time؟",
-    "options": [
-      "لينك",
-      "كريتوس",
-      "إيثان وينترز",
-      "ألتاير بن لا أحد"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Metroid Prime؟",
-    "options": [
-      "سبايرو",
-      "كريتوس",
-      "غوردون فريمان",
-      "ساموس آران"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Sonic the Hedgehog (1991)؟",
-    "options": [
-      "آرثر مورغان",
-      "سونيك",
-      "كراش بانديكوت",
-      "مزارع ينتقل إلى مزرعة جده"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Crash Bandicoot (1996)؟",
-    "options": [
-      "كريتوس",
-      "آلان ويك",
-      "ألتاير بن لا أحد",
-      "كراش بانديكوت"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Spyro the Dragon؟",
-    "options": [
-      "لارا كروفت",
-      "ليون كينيدي",
-      "ألتاير بن لا أحد",
-      "سبايرو"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Tomb Raider (1996)؟",
-    "options": [
-      "جين ساكاي",
-      "لارا كروفت",
-      "غوردون فريمان",
-      "آلان ويك"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة God of War (2005)؟",
-    "options": [
-      "آلان ويك",
-      "كريتوس",
-      "ناثان دريك",
-      "ساموس آران"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Uncharted: Drake’s Fortune؟",
-    "options": [
-      "ناثان دريك",
-      "لينك",
-      "وولف (الذئب)",
-      "جوكر"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Red Dead Redemption (2010)؟",
-    "options": [
-      "جين ساكاي",
-      "جون مارستون",
-      "وولف (الذئب)",
-      "فريسك"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Red Dead Redemption 2 في معظم القصة قبل الخاتمة؟",
-    "options": [
-      "بايك",
-      "مادلين",
-      "ساموس آران",
-      "آرثر مورغان"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة The Witcher 3: Wild Hunt؟",
-    "options": [
-      "جين ساكاي",
-      "جيرالت من ريفيا",
-      "جون مارستون",
-      "لينك"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Assassin’s Creed II؟",
-    "options": [
-      "فريسك",
-      "كلاود سترايف",
-      "مزارع ينتقل إلى مزرعة جده",
-      "إيتزيو أوديتوري"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Assassin’s Creed Origins؟",
-    "options": [
-      "ماريو",
-      "جوكر",
-      "بايك",
-      "سام بورتر بريدجز"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Assassin’s Creed (2007)؟",
-    "options": [
-      "زاغريوس",
-      "ناثان دريك",
-      "ألتاير بن لا أحد",
-      "لينك"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Ghost of Tsushima؟",
-    "options": [
-      "سبايرو",
-      "جين ساكاي",
-      "فريسك",
-      "آرثر مورغان"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Death Stranding؟",
-    "options": [
-      "ساموس آران",
-      "كريتوس",
-      "سام بورتر بريدجز",
-      "بوكر ديويت"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Horizon Zero Dawn؟",
-    "options": [
-      "إيتزيو أوديتوري",
-      "ألوي",
-      "ماكس باين",
-      "مادلين"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Control؟",
-    "options": [
-      "ليون كينيدي",
-      "ماكس باين",
-      "آرثر مورغان",
-      "جيسي فايدن"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Alan Wake (2010)؟",
-    "options": [
-      "ألتاير بن لا أحد",
-      "2B",
-      "آلان ويك",
-      "إيثان وينترز"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Max Payne (2001)؟",
-    "options": [
-      "آرثر مورغان",
-      "2B",
-      "جون مارستون",
-      "ماكس باين"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Half-Life (1998)؟",
-    "options": [
-      "مزارع ينتقل إلى مزرعة جده",
-      "آلان ويك",
-      "غوردون فريمان",
-      "لينك"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Portal (2007)؟",
-    "options": [
-      "سونيك",
-      "جوكر",
-      "تشيل",
-      "ماريو"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة BioShock Infinite؟",
-    "options": [
-      "2B",
-      "كلاود سترايف",
-      "جيرالت من ريفيا",
-      "بوكر ديويت"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة NieR: Automata في المسار A؟",
-    "options": [
-      "جيسي فايدن",
-      "2B",
-      "زاغريوس",
-      "ألتاير بن لا أحد"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Persona 5؟",
-    "options": [
-      "سونيك",
-      "ألتاير بن لا أحد",
-      "ألوي",
-      "جوكر"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Final Fantasy VII في بداية القصة؟",
-    "options": [
-      "لينك",
-      "مزارع ينتقل إلى مزرعة جده",
-      "إيثان وينترز",
-      "كلاود سترايف"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Final Fantasy XVI؟",
-    "options": [
-      "مزارع ينتقل إلى مزرعة جده",
-      "كلايف روزفيلد",
-      "ألوي",
-      "ساموس آران"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Resident Evil 4 (2005)؟",
-    "options": [
-      "سوليد سنيك",
-      "ليون كينيدي",
-      "بايك",
-      "لينك"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Resident Evil 7: Biohazard؟",
-    "options": [
-      "إيثان وينترز",
-      "ساموس آران",
-      "ألتاير بن لا أحد",
-      "جون مارستون"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Resident Evil 3: Nemesis؟",
-    "options": [
-      "كراش بانديكوت",
-      "إيثان وينترز",
-      "2B",
-      "جيل فالنتاين"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Metal Gear Solid (1998)؟",
-    "options": [
-      "وولف (الذئب)",
-      "زاغريوس",
-      "مادلين",
-      "سوليد سنيك"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Sekiro: Shadows Die Twice؟",
-    "options": [
-      "وولف (الذئب)",
-      "جون مارستون",
-      "ألتاير بن لا أحد",
-      "ناثان دريك"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Hades (2020)؟",
-    "options": [
-      "إيتزيو أوديتوري",
-      "سونيك",
-      "جوكر",
-      "زاغريوس"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Undertale؟",
-    "options": [
-      "فريسك",
-      "جيرالت من ريفيا",
-      "آرثر مورغان",
-      "ساموس آران"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Celeste؟",
-    "options": [
-      "مادلين",
-      "كلايف روزفيلد",
-      "زاغريوس",
-      "جين ساكاي"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "gaming",
-    "difficulty": "easy",
-    "question": "من الشخصية الرئيسية التي يتحكم بها اللاعب في لعبة Stardew Valley؟",
-    "options": [
-      "مزارع ينتقل إلى مزرعة جده",
-      "تشيل",
-      "كراش بانديكوت",
-      "لينك"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "gaming",
-    "difficulty": "medium",
-    "question": "من طوّر لعبة Elden Ring عند إصدارها الأصلي؟",
-    "options": [
-      "FromSoftware",
-      "Rocksteady Studios",
-      "Kojima Productions",
-      "id Software"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "gaming",
-    "difficulty": "medium",
-    "question": "من طوّر لعبة The Last of Us (2013) عند إصدارها الأصلي؟",
-    "options": [
-      "Santa Monica Studio",
-      "Naughty Dog",
-      "Larian Studios",
-      "Rockstar Games"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "medium",
-    "question": "من طوّر لعبة God of War (2018) عند إصدارها الأصلي؟",
-    "options": [
-      "Santa Monica Studio",
-      "Team Cherry",
-      "Rockstar Games",
-      "CD Projekt Red"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "gaming",
-    "difficulty": "medium",
-    "question": "من طوّر لعبة Ghost of Tsushima عند إصدارها الأصلي؟",
-    "options": [
-      "Sucker Punch Productions",
-      "id Software",
-      "Irrational Games",
-      "Naughty Dog"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "gaming",
-    "difficulty": "medium",
-    "question": "من طوّر لعبة Horizon Zero Dawn عند إصدارها الأصلي؟",
-    "options": [
-      "Arkane Studios",
-      "Guerrilla Games",
-      "Valve",
-      "Insomniac Games"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "medium",
-    "question": "من طوّر لعبة Marvel’s Spider-Man (2018) عند إصدارها الأصلي؟",
-    "options": [
-      "Insomniac Games",
-      "Remedy Entertainment",
-      "EA Redwood Shores",
-      "Ryu Ga Gotoku Studio"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "gaming",
-    "difficulty": "medium",
-    "question": "من طوّر لعبة Death Stranding عند إصدارها الأصلي؟",
-    "options": [
-      "Valve",
-      "Kojima Productions",
-      "ZA/UM",
-      "Supergiant Games"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "medium",
-    "question": "من طوّر لعبة Control عند إصدارها الأصلي؟",
-    "options": [
-      "Insomniac Games",
-      "Team Cherry",
-      "Remedy Entertainment",
-      "Supergiant Games"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "gaming",
-    "difficulty": "medium",
-    "question": "من طوّر لعبة Cyberpunk 2077 عند إصدارها الأصلي؟",
-    "options": [
-      "Irrational Games",
-      "CD Projekt Red",
-      "Toby Fox",
-      "Supergiant Games"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "medium",
-    "question": "من طوّر لعبة Red Dead Redemption 2 عند إصدارها الأصلي؟",
-    "options": [
-      "Valve",
-      "Rockstar Games",
-      "ZA/UM",
-      "Studio MDHR"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "medium",
-    "question": "من طوّر لعبة Baldur’s Gate 3 عند إصدارها الأصلي؟",
-    "options": [
-      "Respawn Entertainment",
-      "Larian Studios",
-      "Ryu Ga Gotoku Studio",
-      "Supergiant Games"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "medium",
-    "question": "من طوّر لعبة Divinity: Original Sin 2 عند إصدارها الأصلي؟",
-    "options": [
-      "Insomniac Games",
-      "Larian Studios",
-      "Remedy Entertainment",
-      "Guerrilla Games"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "medium",
-    "question": "من طوّر لعبة Hades (2020) عند إصدارها الأصلي؟",
-    "options": [
-      "Ryu Ga Gotoku Studio",
-      "ZA/UM",
-      "Toby Fox",
-      "Supergiant Games"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "gaming",
-    "difficulty": "medium",
-    "question": "من طوّر لعبة Hollow Knight عند إصدارها الأصلي؟",
-    "options": [
-      "Santa Monica Studio",
-      "Team Cherry",
-      "id Software",
-      "ZA/UM"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "medium",
-    "question": "من طوّر لعبة Cuphead عند إصدارها الأصلي؟",
-    "options": [
-      "Insomniac Games",
-      "Arkane Studios",
-      "Studio MDHR",
-      "Rocksteady Studios"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "gaming",
-    "difficulty": "medium",
-    "question": "من طوّر لعبة Stardew Valley عند إصدارها الأصلي؟",
-    "options": [
-      "Respawn Entertainment",
-      "Supergiant Games",
-      "ConcernedApe",
-      "FromSoftware"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "gaming",
-    "difficulty": "medium",
-    "question": "من طوّر لعبة Undertale عند إصدارها الأصلي؟",
-    "options": [
-      "ZA/UM",
-      "Toby Fox",
-      "EA Redwood Shores",
-      "FromSoftware"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "medium",
-    "question": "من طوّر لعبة Disco Elysium عند إصدارها الأصلي؟",
-    "options": [
-      "Larian Studios",
-      "Rockstar Games",
-      "Guerrilla Games",
-      "ZA/UM"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "gaming",
-    "difficulty": "medium",
-    "question": "من طوّر لعبة DOOM (1993) عند إصدارها الأصلي؟",
-    "options": [
-      "id Software",
-      "Santa Monica Studio",
-      "ConcernedApe",
-      "Arkane Studios"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "gaming",
-    "difficulty": "medium",
-    "question": "من طوّر لعبة Half-Life (1998) عند إصدارها الأصلي؟",
-    "options": [
-      "ZA/UM",
-      "Valve",
-      "Respawn Entertainment",
-      "Sucker Punch Productions"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "medium",
-    "question": "من طوّر لعبة BioShock (2007) عند إصدارها الأصلي؟",
-    "options": [
-      "FromSoftware",
-      "Irrational Games",
-      "CD Projekt Red",
-      "Insomniac Games"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "medium",
-    "question": "من طوّر لعبة Dishonored (2012) عند إصدارها الأصلي؟",
-    "options": [
-      "Guerrilla Games",
-      "Irrational Games",
-      "Arkane Studios",
-      "Studio MDHR"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "gaming",
-    "difficulty": "medium",
-    "question": "من طوّر لعبة Titanfall 2 عند إصدارها الأصلي؟",
-    "options": [
-      "EA Redwood Shores",
-      "CD Projekt Red",
-      "Respawn Entertainment",
-      "FromSoftware"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "gaming",
-    "difficulty": "medium",
-    "question": "من طوّر لعبة Dead Space (2008) عند إصدارها الأصلي؟",
-    "options": [
-      "Ryu Ga Gotoku Studio",
-      "EA Redwood Shores",
-      "Respawn Entertainment",
-      "CD Projekt Red"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "medium",
-    "question": "من طوّر لعبة Batman: Arkham Asylum عند إصدارها الأصلي؟",
-    "options": [
-      "Supergiant Games",
-      "Rocksteady Studios",
-      "Irrational Games",
-      "Toby Fox"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "medium",
-    "question": "من طوّر لعبة Yakuza 0 عند إصدارها الأصلي؟",
-    "options": [
-      "EA Redwood Shores",
-      "Ryu Ga Gotoku Studio",
-      "Toby Fox",
-      "CD Projekt Red"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم المدينة التي تدور فيها أحداث Dishonored (2012)؟",
-    "options": [
-      "دانوول",
-      "لندن",
-      "سايلنت هيل",
-      "نيو بوردو"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم المدينة التي تدور فيها أحداث Dishonored 2، في معظم مهماتها؟",
-    "options": [
-      "نايت سيتي",
-      "كارناكا",
-      "شيكاغو",
-      "دانوول"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم المدينة التي تدور فيها أحداث Cyberpunk 2077؟",
-    "options": [
-      "نايت سيتي",
-      "إمباير باي",
-      "شيكاغو",
-      "نيو بوردو"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم المدينة التي تدور فيها أحداث Batman: Arkham Knight؟",
-    "options": [
-      "كارناكا",
-      "غوثام",
-      "لندن",
-      "إمباير باي"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم المدينة التي تدور فيها أحداث Mafia: The City of Lost Heaven؟",
-    "options": [
-      "هونغ كونغ",
-      "فايس سيتي",
-      "لوست هيفن",
-      "غوثام"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم المدينة التي تدور فيها أحداث Mafia II؟",
-    "options": [
-      "إمباير باي",
-      "سايلنت هيل",
-      "شيكاغو",
-      "كارناكا"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم المدينة التي تدور فيها أحداث Mafia III؟",
-    "options": [
-      "نيو بوردو",
-      "غوثام",
-      "هونغ كونغ",
-      "لوست هيفن"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم المدينة التي تدور فيها أحداث Grand Theft Auto: Vice City؟",
-    "options": [
-      "نيو بوردو",
-      "لوست هيفن",
-      "راكون سيتي",
-      "فايس سيتي"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم المدينة التي تدور فيها أحداث Grand Theft Auto IV؟",
-    "options": [
-      "ليبرتي سيتي",
-      "شيكاغو",
-      "نيو بوردو",
-      "كارناكا"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم المدينة التي تدور فيها أحداث Silent Hill 2؟",
-    "options": [
-      "نيو بوردو",
-      "سايلنت هيل",
-      "نايت سيتي",
-      "لندن"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم المدينة التي تدور فيها أحداث Resident Evil 2؟",
-    "options": [
-      "دانوول",
-      "غوثام",
-      "كارناكا",
-      "راكون سيتي"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم المدينة التي تدور فيها أحداث Sleeping Dogs؟",
-    "options": [
-      "ليبرتي سيتي",
-      "كارناكا",
-      "هونغ كونغ",
-      "فايس سيتي"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم المدينة التي تدور فيها أحداث Watch Dogs (2014)؟",
-    "options": [
-      "نيو بوردو",
-      "شيكاغو",
-      "فايس سيتي",
-      "راكون سيتي"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم المدينة التي تدور فيها أحداث Watch Dogs: Legion؟",
-    "options": [
-      "لندن",
-      "نايت سيتي",
-      "ليبرتي سيتي",
-      "راكون سيتي"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم السلاح المرتبط بالشخصية أو اللعبة التالية: كلاود سترايف في Final Fantasy VII؟",
-    "options": [
-      "Leviathan Axe",
-      "Mega Buster",
-      "Buster Sword",
-      "Keyblade"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم السلاح المرتبط بالشخصية أو اللعبة التالية: سكوال في Final Fantasy VIII؟",
-    "options": [
-      "Gravity Gun",
-      "Gunblade",
-      "Yamato",
-      "Portal Gun"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم السلاح المرتبط بالشخصية أو اللعبة التالية: دانتي، مسدساه في Devil May Cry؟",
-    "options": [
-      "Yamato",
-      "Ebony & Ivory",
-      "Keyblade",
-      "Crowbar"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم السلاح المرتبط بالشخصية أو اللعبة التالية: فيرجيل في Devil May Cry؟",
-    "options": [
-      "Plasma Cutter",
-      "Yamato",
-      "Gunblade",
-      "Mega Buster"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم السلاح المرتبط بالشخصية أو اللعبة التالية: كريتوس، الفأس في God of War (2018)؟",
-    "options": [
-      "Plasma Cutter",
-      "Draupnir Spear",
-      "Gravity Gun",
-      "Leviathan Axe"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم السلاح المرتبط بالشخصية أو اللعبة التالية: كريتوس، الرمح في God of War Ragnarök؟",
-    "options": [
-      "Plasma Cutter",
-      "Keyblade",
-      "Buster Sword",
-      "Draupnir Spear"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم السلاح المرتبط بالشخصية أو اللعبة التالية: سورا في Kingdom Hearts؟",
-    "options": [
-      "Leviathan Axe",
-      "Buster Sword",
-      "Plasma Cutter",
-      "Keyblade"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم السلاح المرتبط بالشخصية أو اللعبة التالية: لينك، السيف الأسطوري في Zelda؟",
-    "options": [
-      "Ebony & Ivory",
-      "Buster Sword",
-      "Master Sword",
-      "Gravity Gun"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم السلاح المرتبط بالشخصية أو اللعبة التالية: غوردون فريمان، أداة القتال اليدوي في Half-Life؟",
-    "options": [
-      "Keyblade",
-      "Gravity Gun",
-      "Portal Gun",
-      "Crowbar"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم السلاح المرتبط بالشخصية أو اللعبة التالية: إسحاق كلارك، قاطع البداية في Dead Space؟",
-    "options": [
-      "Gunblade",
-      "Keyblade",
-      "Plasma Cutter",
-      "Gravity Gun"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم السلاح المرتبط بالشخصية أو اللعبة التالية: غوردون فريمان، أداة جذب الأجسام في Half-Life 2؟",
-    "options": [
-      "Draupnir Spear",
-      "Gravity Gun",
-      "Portal Gun",
-      "Gunblade"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم السلاح المرتبط بالشخصية أو اللعبة التالية: تشيل، أداة إنشاء البوابات في Portal؟",
-    "options": [
-      "Master Sword",
-      "Ebony & Ivory",
-      "Leviathan Axe",
-      "Portal Gun"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم السلاح المرتبط بالشخصية أو اللعبة التالية: ميغا مان، المدفع المثبت بذراعه؟",
-    "options": [
-      "Leviathan Axe",
-      "Buster Sword",
-      "Yamato",
-      "Mega Buster"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم الجماعة أو الفصيل الموصوف في Halo، التحالف الديني المعادي للبشر؟",
-    "options": [
-      "Reapers",
-      "Stormcloaks",
-      "Wild Hunt",
-      "Covenant"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم الجماعة أو الفصيل الموصوف في Mass Effect، الآلات العملاقة التي تحصد الحضارات؟",
-    "options": [
-      "Reapers",
-      "Covenant",
-      "Brotherhood of Steel",
-      "Wild Hunt"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم الجماعة أو الفصيل الموصوف في Fallout، التنظيم العسكري المعروف بدروع القوة وشعار التروس والسيف؟",
-    "options": [
-      "Covenant",
-      "Wild Hunt",
-      "Nora",
-      "Brotherhood of Steel"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم الجماعة أو الفصيل الموصوف في Skyrim، جماعة الاغتيالات التي تخدم أم الليل؟",
-    "options": [
-      "Vox Populi",
-      "Wild Hunt",
-      "Dark Brotherhood",
-      "FOXHOUND"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم الجماعة أو الفصيل الموصوف في Skyrim، المتمردون بقيادة أولفريك؟",
-    "options": [
-      "Vox Populi",
-      "Peacekeepers",
-      "Stormcloaks",
-      "Dark Brotherhood"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم الجماعة أو الفصيل الموصوف في The Witcher 3، فرسان الطيف بقيادة إيريدين؟",
-    "options": [
-      "Brotherhood of Steel",
-      "Wild Hunt",
-      "Covenant",
-      "FOXHOUND"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم الجماعة أو الفصيل الموصوف في Metal Gear Solid، الوحدة المنشقة التي يقودها ليكويد سنيك؟",
-    "options": [
-      "Brotherhood of Steel",
-      "FOXHOUND",
-      "Peacekeepers",
-      "Reapers"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم الجماعة أو الفصيل الموصوف في BioShock Infinite، حركة التمرد بقيادة ديزي فيتزروي؟",
-    "options": [
-      "Reapers",
-      "Nora",
-      "Brotherhood of Steel",
-      "Vox Populi"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم الجماعة أو الفصيل الموصوف في Horizon Zero Dawn، قبيلة ألوي؟",
-    "options": [
-      "Nora",
-      "Peacekeepers",
-      "Covenant",
-      "Wild Hunt"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "gaming",
-    "difficulty": "hard",
-    "question": "ما اسم الجماعة أو الفصيل الموصوف في Dying Light 2، الفصيل العسكري المعروف بحفظ النظام؟",
-    "options": [
-      "Covenant",
-      "Peacekeepers",
-      "Dark Brotherhood",
-      "Stormcloaks"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Naruto؟",
-    "options": [
-      "ناروتو أوزوماكي",
-      "شينيتشي كودو",
-      "ثورفين",
-      "سينكو إيشيغامي"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "anime",
-    "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي One Piece؟",
-    "options": [
-      "شويو هيناتا",
-      "مونكي دي لوفي",
-      "يوجي إيتادوري",
-      "إيبو ماكونوتشي"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Bleach؟",
-    "options": [
-      "هيمورا كينشين",
-      "إيتشيغو كوروساكي",
-      "شويو هيناتا",
-      "شينيتشي كودو"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Dragon Ball؟",
-    "options": [
-      "ناروتو أوزوماكي",
-      "سبايك شبيغل",
-      "سون غوكو",
-      "إيتشيغو كوروساكي"
+      "إيه جي ستايلز"
     ],
     "correct": 2
   },
   {
     "category": "anime",
     "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Death Note؟",
+    "question": "في Naruto، من كان قائد الفريق السابع عند بدايته؟",
     "options": [
-      "ساكورا كينوموتو",
-      "كين كانيكي",
-      "لايت ياغامي",
-      "إيبو ماكونوتشي"
+      "مايت غاي",
+      "أسوما ساروتوبي",
+      "كوريناي يوهي",
+      "كاكاشي هاتاكي"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "anime",
+    "difficulty": "easy",
+    "question": "في One Piece، من أول فرد انضم إلى طاقم قبعة القش بعد لوفي؟",
+    "options": [
+      "سانجي",
+      "يوسوب",
+      "رورونوا زورو",
+      "نامي"
     ],
     "correct": 2
   },
   {
     "category": "anime",
     "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Attack on Titan؟",
+    "question": "في Bleach، من الشينيغامي التي تمنح إيتشيغو قواه في البداية؟",
     "options": [
-      "كين كانيكي",
-      "إيرين ييغر",
-      "دينجي",
-      "لولوش لامبروج"
+      "يورويتشي شيهوين",
+      "روكيا كوتشيكي",
+      "أوريهيمي إينوي",
+      "رانغيكو ماتسوموتو"
     ],
     "correct": 1
   },
   {
     "category": "anime",
     "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Hunter × Hunter؟",
+    "question": "في Dragon Ball، من يدرّب غوكو وكريلين ويضع على ظهرهما رمز السلحفاة؟",
     "options": [
-      "غون فريكس",
-      "أوساغي تسوكينو",
-      "لايت ياغامي",
-      "تسوباسا أوزورا"
+      "كامي",
+      "المعلم روشي",
+      "السيد بوبو",
+      "كايو الشمالي"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "anime",
+    "difficulty": "easy",
+    "question": "في Death Note، من الشينيغامي الذي أسقط الدفتر في عالم البشر؟",
+    "options": [
+      "جيلوس",
+      "ريوك",
+      "ريم",
+      "سيدوه"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "anime",
+    "difficulty": "easy",
+    "question": "في Attack on Titan، من قائد فرقة الاستطلاع الذي يقود هجوم استعادة شيغانشينا؟",
+    "options": [
+      "هانجي زوي",
+      "كيث شاديس",
+      "إروين سميث",
+      "ليفاي أكرمان"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "anime",
+    "difficulty": "easy",
+    "question": "في Hunter × Hunter، من صديق غون المنتمي إلى عائلة زولديك؟",
+    "options": [
+      "كورابيكا",
+      "ليوريو",
+      "هيسوكا",
+      "كيلوا"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "anime",
+    "difficulty": "easy",
+    "question": "في Demon Slayer، من الشيطانة التي يسعى تانجيرو لإعادتها بشرية؟",
+    "options": [
+      "سوسامارو",
+      "نيزوكو",
+      "تامايو",
+      "داكي"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "anime",
+    "difficulty": "easy",
+    "question": "في Jujutsu Kaisen، من المعلم الذي يشرف على يوجي وميغومي ونوبارا؟",
+    "options": [
+      "كينتو نانامي",
+      "ماساميشي ياغا",
+      "أتسويـا كوساكابي",
+      "ساتورو غوجو"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "anime",
+    "difficulty": "easy",
+    "question": "في My Hero Academia، من البطل الذي ورّث إيزوكو قوة One For All؟",
+    "options": [
+      "هوكس",
+      "إيراسر هيد",
+      "أول مايت",
+      "إنديفور"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "anime",
+    "difficulty": "easy",
+    "question": "في One-Punch Man، من السايبورغ المتدرّب على يد سايتاما؟",
+    "options": [
+      "ميتال نايت",
+      "جينوس",
+      "باتس الفولاذي",
+      "درايف نايت"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "anime",
+    "difficulty": "easy",
+    "question": "في Mob Psycho 100، من معلم موب الذي يدير مكتب الاستشارات الروحية؟",
+    "options": [
+      "شو سوزوكي",
+      "تيروكي هانازاوا",
+      "تويشيرو سوزوكي",
+      "ريغين أراتاكا"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "anime",
+    "difficulty": "easy",
+    "question": "في Detective Conan، من العالِم الذي يصنع أدوات كونان مثل ربطة العنق المبدّلة للصوت؟",
+    "options": [
+      "ييساكو كودو",
+      "الدكتور أغاسا",
+      "هيجي هاتوري",
+      "كايتو كيد"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "anime",
+    "difficulty": "easy",
+    "question": "في Fullmetal Alchemist، من شقيق إدوارد الذي فقد جسده وربط روحه بدرع؟",
+    "options": [
+      "روي موستانغ",
+      "لين ياو",
+      "سكار",
+      "ألفونس إلريك"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "anime",
+    "difficulty": "easy",
+    "question": "في Black Clover، من خصم أستا وصديقه منذ الطفولة الذي يسعى ليصبح ملك السحرة؟",
+    "options": [
+      "لاك فولتيا",
+      "يونو",
+      "نويل سيلفا",
+      "فينرال"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "anime",
+    "difficulty": "easy",
+    "question": "في Chainsaw Man، من الشيطان الصغير الذي يمنح دينجي قدرته الأولى؟",
+    "options": [
+      "آكي",
+      "بوتشيتا",
+      "باور",
+      "ماكيما"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "anime",
+    "difficulty": "easy",
+    "question": "في Yu Yu Hakusho، من مرشد يوسوكي في عالم الأرواح بعد موته؟",
+    "options": [
+      "شيزورو",
+      "يوكينا",
+      "بوتان",
+      "غينكاي"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "anime",
+    "difficulty": "easy",
+    "question": "في Inuyasha، من الفتاة القادمة من العصر الحديث التي تبحث عن شظايا الجوهرة؟",
+    "options": [
+      "رين",
+      "كاغومي",
+      "سانغو",
+      "كيكيو"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "anime",
+    "difficulty": "easy",
+    "question": "في Rurouni Kenshin، من المبارز الذي يحمل سيفًا ذا نصل معكوس؟",
+    "options": [
+      "كينشين هيمورا",
+      "سانوسكي ساغارا",
+      "سايتو هاجيمي",
+      "أوشي شينوموري"
     ],
     "correct": 0
   },
   {
     "category": "anime",
     "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Demon Slayer؟",
+    "question": "في Sailor Moon، من القطة الناطقة التي تمنح أوساغي أول أداة للتحول؟",
     "options": [
-      "تانجيرو كامادو",
-      "شينيتشي كودو",
-      "أوساغي تسوكينو",
-      "غون فريكس"
+      "أرتميس",
+      "ديانا",
+      "تشيبوسا",
+      "لونا"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "anime",
+    "difficulty": "easy",
+    "question": "في Cardcaptor Sakura، من الكائن الذي يراقب بطاقات كلو ويُعرف باسم كيرو؟",
+    "options": [
+      "يويه",
+      "إيريول",
+      "شاوران",
+      "كيروبيروس"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "anime",
+    "difficulty": "easy",
+    "question": "في Haikyu!!، من معدّ فريق كاراسونو الذي يشكّل ثنائية هجومية مع هيناتا؟",
+    "options": [
+      "توبيو كاغياما",
+      "تورو أويكاوا",
+      "كوشي سوغاوارا",
+      "كينما كوزومي"
     ],
     "correct": 0
   },
   {
     "category": "anime",
     "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Jujutsu Kaisen؟",
+    "question": "في Slam Dunk، من قائد فريق شوهوكو الذي يشغل مركز الارتكاز؟",
     "options": [
-      "يوجي إيتادوري",
-      "ساكورا كينوموتو",
-      "تسوباسا أوزورا",
-      "شويو هيناتا"
+      "ريوتا مياغي",
+      "هيساشي ميتسوي",
+      "تاكينوري أكاغي",
+      "كايدي روكاوا"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "anime",
+    "difficulty": "easy",
+    "question": "في Captain Tsubasa، من حارس المرمى المعروف بقبعته الذي ينافس تسوباسا؟",
+    "options": [
+      "ريو إيشيزاكي",
+      "تارو ميساكي",
+      "جينزو واكاباياشي",
+      "كين واكاشيمازو"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "anime",
+    "difficulty": "easy",
+    "question": "في Hajime no Ippo، من المدرب المخضرم الذي يدرّب إيبو في النادي؟",
+    "options": [
+      "غينجي كاموغاوا",
+      "مامورو تاكامورا",
+      "ماسارو آوكي",
+      "تاتسويا كيمورا"
     ],
     "correct": 0
   },
   {
     "category": "anime",
     "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي My Hero Academia؟",
+    "question": "في Food Wars!، من والد سوما الذي علّمه الطبخ في المطعم العائلي؟",
     "options": [
-      "إيبو ماكونوتشي",
+      "إيشي تسوكاسا",
+      "جويتشيرو يوكيهيرا",
+      "إيرينا ناكيري",
+      "سنجيمون ناكيري"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "anime",
+    "difficulty": "easy",
+    "question": "في Dr. Stone، من الحرفي المسن الماهر الذي يصنع المعدات المعدنية لفريق العلم؟",
+    "options": [
+      "كاسيكي",
+      "كروم",
+      "جين",
+      "تايجو"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "anime",
+    "difficulty": "easy",
+    "question": "في Tokyo Ghoul، من الغول التي نقلت أعضاؤها إلى كانيكي بعد الحادث؟",
+    "options": [
+      "إيتو يوشيمورا",
+      "هينامي فويغوتشي",
+      "ريزي كاميشيرو",
+      "توكا كيريشيما"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "anime",
+    "difficulty": "easy",
+    "question": "في Vinland Saga، من قائد المرتزقة الذي يتبعه ثورفين للثأر منه؟",
+    "options": [
+      "كنوت",
+      "ثوركيل",
+      "أسكيلاد",
+      "ثورز"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "anime",
+    "difficulty": "easy",
+    "question": "في Berserk، من قائد فرقة الصقور قبل الكسوف؟",
+    "options": [
+      "كوركوس",
+      "غريفيث",
       "غاتس",
-      "إيزوكو ميدوريا",
-      "لولوش لامبروج"
+      "جودو"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
     "category": "anime",
     "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي One-Punch Man؟",
+    "question": "في Monster، من الطبيب الذي ينقذ يوهان رغم معارضة إدارة المستشفى؟",
     "options": [
-      "غون فريكس",
-      "ساكورا كينوموتو",
-      "سايتاما",
-      "هاناميتشي ساكوراغي"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "anime",
-    "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Mob Psycho 100؟",
-    "options": [
-      "شيغيو كاغياما (موب)",
-      "سون غوكو",
-      "أستا",
-      "إدوارد إلريك"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "anime",
-    "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Detective Conan، الهوية الحقيقية لكونان؟",
-    "options": [
-      "شينيتشي كودو",
-      "أستا",
-      "إدوارد إلريك",
-      "سوما يوكيهيرا"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "anime",
-    "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Fullmetal Alchemist، الأخ الأكبر؟",
-    "options": [
-      "إدوارد إلريك",
-      "لايت ياغامي",
-      "يوجي إيتادوري",
-      "إيتشيغو كوروساكي"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "anime",
-    "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Black Clover؟",
-    "options": [
+      "شوفالد",
+      "روبرتو",
       "كينزو تينما",
-      "أستا",
-      "غون فريكس",
-      "غاتس"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Chainsaw Man؟",
-    "options": [
-      "دينجي",
-      "لولوش لامبروج",
-      "إيبو ماكونوتشي",
-      "يوسوكي أوراميشي"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "anime",
-    "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Yu Yu Hakusho؟",
-    "options": [
-      "يوسوكي أوراميشي",
-      "سايتاما",
-      "أوساغي تسوكينو",
-      "غاتس"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "anime",
-    "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Inuyasha، الشخصية التي يحمل العمل اسمها؟",
-    "options": [
-      "سون غوكو",
-      "رينتارو أوكابي",
-      "هاناميتشي ساكوراغي",
-      "إينوياشا"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "anime",
-    "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Rurouni Kenshin؟",
-    "options": [
-      "إيزوكو ميدوريا",
-      "سبايك شبيغل",
-      "هيمورا كينشين",
-      "مونكي دي لوفي"
+      "رونغه"
     ],
     "correct": 2
   },
   {
     "category": "anime",
     "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Sailor Moon؟",
+    "question": "في Code Geass، من الفتاة الخالدة التي تمنح لولوش قوة الغياس؟",
     "options": [
-      "أوساغي تسوكينو",
-      "هاناميتشي ساكوراغي",
-      "شيغيو كاغياما (موب)",
-      "إيزوكو ميدوريا"
+      "كالين",
+      "شيرلي",
+      "نانالي",
+      "سي سي"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "anime",
+    "difficulty": "easy",
+    "question": "في Steins;Gate، من العالمة التي تعمل مع أوكابي على أبحاث الانتقال عبر الزمن؟",
+    "options": [
+      "رُكا أوروشيبارا",
+      "كوريسو ماكيسي",
+      "مايوري شينا",
+      "سوزوها أماني"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "anime",
+    "difficulty": "easy",
+    "question": "في Cowboy Bebop، من خصم سبايك المرتبط بنقابة التنين الأحمر؟",
+    "options": [
+      "فيشَس",
+      "جيت بلاك",
+      "غرين",
+      "لاو"
     ],
     "correct": 0
   },
   {
     "category": "anime",
-    "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Cardcaptor Sakura؟",
+    "difficulty": "medium",
+    "question": "في Naruto، من شقيق ساسكي الأكبر الذي كان عضوًا في الأكاتسوكي؟",
     "options": [
-      "سينكو إيشيغامي",
-      "سبايك شبيغل",
-      "ناروتو أوزوماكي",
-      "ساكورا كينوموتو"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "anime",
-    "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Haikyu!!، صاحب الشعر البرتقالي؟",
-    "options": [
-      "إدوارد إلريك",
-      "ثورفين",
-      "شويو هيناتا",
-      "سينكو إيشيغامي"
+      "مادارا أوتشيها",
+      "شيسوي أوتشيها",
+      "إيتاتشي أوتشيها",
+      "أوبيتو أوتشيها"
     ],
     "correct": 2
   },
   {
     "category": "anime",
-    "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Slam Dunk؟",
+    "difficulty": "medium",
+    "question": "في Naruto، من الضفدع العملاق الذي يستدعيه ناروتو أثناء معركته مع غارا؟",
     "options": [
-      "هيمورا كينشين",
-      "هاناميتشي ساكوراغي",
-      "كين كانيكي",
-      "رينتارو أوكابي"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Captain Tsubasa، اسمه الياباني؟",
-    "options": [
-      "غاتس",
-      "تسوباسا أوزورا",
-      "شيغيو كاغياما (موب)",
-      "سون غوكو"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Hajime no Ippo؟",
-    "options": [
-      "دينجي",
-      "سبايك شبيغل",
-      "إيتشيغو كوروساكي",
-      "إيبو ماكونوتشي"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "anime",
-    "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Food Wars!؟",
-    "options": [
-      "دينجي",
-      "تسوباسا أوزورا",
-      "سوما يوكيهيرا",
-      "لولوش لامبروج"
+      "غاماكين",
+      "غاماتاتسو",
+      "غامابونتا",
+      "غاماكيتشي"
     ],
     "correct": 2
   },
   {
     "category": "anime",
-    "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Dr. Stone؟",
+    "difficulty": "medium",
+    "question": "في Naruto Shippuden، من قائد الأكاتسوكي الذي يستخدم أجساد باين الستة؟",
     "options": [
-      "سينكو إيشيغامي",
-      "شويو هيناتا",
+      "كونان",
+      "كيسامي",
+      "أوبيتو",
+      "ناغاتو"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في One Piece، من الملاحة التي انضمت لطاقم قبعة القش في إيست بلو؟",
+    "options": [
+      "نيكو روبين",
+      "فيفي",
+      "بيرونا",
+      "نامي"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في One Piece، من الطباخ الذي التقى لوفي في مطعم باراتي؟",
+    "options": [
+      "زيف",
+      "بون كلاي",
+      "تشوبر",
+      "سانجي"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في One Piece، من الجندي الذي يستعمل الدخان لملاحقة لوفي منذ لوغتاون؟",
+    "options": [
+      "كوبِي",
+      "أكاينو",
+      "كيزارو",
+      "سموكر"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في Attack on Titan، من يتضح أنه العملاق المدرع؟",
+    "options": [
+      "راينر براون",
+      "برتولت هوفر",
+      "مارسيل غاليارد",
+      "زيك ييغر"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في Attack on Titan، من يتضح أنها العملاقة الأنثى؟",
+    "options": [
+      "يمير",
+      "آني ليونهارت",
+      "هيستوريا ريس",
+      "ميكاسا أكرمان"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في Attack on Titan، من يتضح أنه العملاق الوحشي في البداية؟",
+    "options": [
+      "زيك ييغر",
+      "راينر براون",
+      "برتولت هوفر",
+      "بيك فينغر"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في Death Note، من المحقق الذي يلقب نفسه L؟",
+    "options": [
+      "ميلو",
+      "واتاري",
+      "إل لوليت",
+      "نير"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في Death Note، من خليفة L الذي يتعاون مع SPK لكشف كيرا؟",
+    "options": [
+      "نير",
+      "ميلو",
+      "ماتسودا",
+      "آيزاوا"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في Death Note، من خليفة L الذي يتعاون مع المافيا ضد كيرا؟",
+    "options": [
+      "ميلو",
+      "نير",
+      "ميكامي",
+      "راي بنبر"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في Dragon Ball Z، من يقطع ذيل فيجيتا خلال المعركة على الأرض؟",
+    "options": [
+      "ياجيروبي",
+      "كريلين",
+      "غوهان",
+      "يامتشا"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في Dragon Ball Z، من يضحي بنفسه محاولًا القضاء على ماجين بو؟",
+    "options": [
+      "بيكولو",
+      "غوهان",
+      "فيجيتا",
+      "غوكو"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في Dragon Ball Z، من الذي يهزم سيل في نهاية ألعاب سيل؟",
+    "options": [
+      "غوكو",
+      "فيجيتا",
+      "ترانكس",
+      "غوهان"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في Bleach، من قائد الفرقة السادسة وشقيق روكيا بالتبني؟",
+    "options": [
+      "بياكويا كوتشيكي",
+      "توشيرو هيتسوغايا",
+      "رينجي أباراي",
+      "كينباتشي زاراكي"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في Bleach، من قائد الفرقة العاشرة الذي يستخدم زانباكتو جليديًا؟",
+    "options": [
+      "ساجين كومامورا",
+      "توشيرو هيتسوغايا",
+      "بياكويا كوتشيكي",
+      "شونسوي كيوراكو"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في Bleach، من القائد السابق للفرقة الخامسة الذي ينشق عن السول سوسايتي؟",
+    "options": [
+      "غين إيتشيمارو",
+      "كيسكي أوراهارا",
+      "كانامي توسن",
+      "سوسكي آيزن"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في Demon Slayer، من هاشيرا الماء الذي أنقذ تانجيرو ونيزوكو أول القصة؟",
+    "options": [
+      "غيو توميوكا",
+      "شينوبو كوتشو",
+      "رينغوكو",
+      "تينغن أوزوي"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في Demon Slayer، من هاشيرا اللهب الذي قاد مهمة قطار موغن؟",
+    "options": [
+      "سانيمي شينازوغاوا",
+      "مويتشيرو توكيتو",
+      "كيوجورو رينغوكو",
+      "غيو توميوكا"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في Demon Slayer، من الشيطان الذي يواجه رينغوكو قرب نهاية قطار موغن؟",
+    "options": [
+      "أكازا",
+      "دوما",
+      "غيوتارو",
+      "إنمو"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في Jujutsu Kaisen، من الذي يسمح سوكونا بالتجسد عبر ابتلاع إصبع ملعون؟",
+    "options": [
+      "توجي فوشيغورو",
       "يوجي إيتادوري",
-      "هيمورا كينشين"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "anime",
-    "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Tokyo Ghoul؟",
-    "options": [
-      "سينكو إيشيغامي",
-      "كين كانيكي",
-      "شويو هيناتا",
-      "يوجي إيتادوري"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Vinland Saga؟",
-    "options": [
-      "شويو هيناتا",
-      "ثورفين",
-      "سون غوكو",
-      "كين كانيكي"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Berserk؟",
-    "options": [
-      "غاتس",
-      "سايتاما",
-      "رينتارو أوكابي",
-      "هاناميتشي ساكوراغي"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "anime",
-    "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Monster؟",
-    "options": [
-      "يوجي إيتادوري",
-      "إينوياشا",
-      "كينزو تينما",
-      "مونكي دي لوفي"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "anime",
-    "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Code Geass؟",
-    "options": [
-      "لولوش لامبروج",
-      "كينزو تينما",
-      "غون فريكس",
-      "دينجي"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "anime",
-    "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Steins;Gate؟",
-    "options": [
-      "يوجي إيتادوري",
-      "ساكورا كينوموتو",
-      "رينتارو أوكابي",
-      "كينزو تينما"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "anime",
-    "difficulty": "easy",
-    "question": "من بطل أو بطلة أنمي Cowboy Bebop؟",
-    "options": [
-      "سبايك شبيغل",
-      "إيتشيغو كوروساكي",
-      "أستا",
-      "إدوارد إلريك"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Naruto؟",
-    "options": [
-      "كويوهارو غوتوغي",
-      "كوهي هوريكوشي",
-      "ماساشي كيشيموتو",
-      "ماكوتو يوكيمورا"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا One Piece؟",
-    "options": [
-      "ريتشيرو إيناغاكي",
-      "سوي إيشيدا",
-      "إييتشيرو أودا",
-      "كويوهارو غوتوغي"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Bleach؟",
-    "options": [
-      "تيتي كوبو",
-      "هيرومو أراكاوا",
-      "يوكي تاباتا",
-      "كاتسورا هوشينو"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Dragon Ball؟",
-    "options": [
-      "كويوهارو غوتوغي",
-      "يوشيهيرو توغاشي",
-      "أكيرا تورياما",
-      "تيتي كوبو"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Death Note، كاتب القصة؟",
-    "options": [
-      "تيتي كوبو",
-      "تسوغومي أوبا",
-      "يوشيهيرو توغاشي",
-      "كاتسورا هوشينو"
+      "ميغومي فوشيغورو",
+      "يوتا أوكوتسو"
     ],
     "correct": 1
   },
   {
     "category": "anime",
     "difficulty": "medium",
-    "question": "من مؤلف مانغا Bakuman، كاتب القصة؟",
+    "question": "في Jujutsu Kaisen، من صاحب تقنية الكلام الملعون في مدرسة طوكيو؟",
     "options": [
-      "هارويتشي فوروداتي",
-      "تاتسوكي فوجيموتو",
-      "ريتشيرو إيناغاكي",
-      "تسوغومي أوبا"
+      "باندا",
+      "ماكي زينين",
+      "كوكيتشي موتا",
+      "توغي إينوماكي"
     ],
     "correct": 3
   },
   {
     "category": "anime",
     "difficulty": "medium",
-    "question": "من مؤلف مانغا Fullmetal Alchemist؟",
+    "question": "في Hunter × Hunter، من العضو في العناكب صاحب الرقم 4 أثناء أحداث يورك نيو؟",
     "options": [
-      "سوي إيشيدا",
-      "يوشيهيرو توغاشي",
-      "هيرومو أراكاوا",
-      "ماساشي كيشيموتو"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Attack on Titan؟",
-    "options": [
-      "ماساشي كيشيموتو",
-      "هاجيمي إيساياما",
-      "ماكوتو يوكيمورا",
-      "ناوكي أوراساوا"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Hunter × Hunter؟",
-    "options": [
-      "يوشيهيرو توغاشي",
-      "ONE",
-      "ريتشيرو إيناغاكي",
-      "نوبوهيرو واتسوكي"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Yu Yu Hakusho؟",
-    "options": [
-      "ماكوتو يوكيمورا",
-      "كاتسورا هوشينو",
-      "غيغي أكوتامي",
-      "يوشيهيرو توغاشي"
+      "كرولو",
+      "فيتان",
+      "فرانكلين",
+      "هيسوكا"
     ],
     "correct": 3
   },
   {
     "category": "anime",
     "difficulty": "medium",
-    "question": "من مؤلف مانغا Demon Slayer؟",
+    "question": "في Hunter × Hunter، من رئيس رابطة الصيادين الذي يقاتل ميرويم؟",
     "options": [
-      "يوشيهيرو توغاشي",
-      "تاتسوكي فوجيموتو",
-      "كويوهارو غوتوغي",
-      "ناوكي أوراساوا"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Jujutsu Kaisen؟",
-    "options": [
-      "كوهي هوريكوشي",
-      "نوبوهيرو واتسوكي",
-      "غيغي أكوتامي",
-      "يوكي تاباتا"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا One-Punch Man، مبتكر الويب كوميك الأصلي؟",
-    "options": [
-      "أكيرا تورياما",
-      "ماساشي كيشيموتو",
-      "هيرو ماشيما",
-      "ONE"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Mob Psycho 100؟",
-    "options": [
-      "كاتسورا هوشينو",
-      "كينتارو ميورا",
-      "تيتي كوبو",
-      "ONE"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا My Hero Academia؟",
-    "options": [
-      "إييتشيرو أودا",
-      "ماكوتو يوكيمورا",
-      "تيتي كوبو",
-      "كوهي هوريكوشي"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Chainsaw Man؟",
-    "options": [
-      "كاتسورا هوشينو",
-      "هارويتشي فوروداتي",
-      "تاتسوكي فوجيموتو",
-      "ريتشيرو إيناغاكي"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Fairy Tail؟",
-    "options": [
-      "هيرو ماشيما",
-      "هيرومو أراكاوا",
-      "يوكي تاباتا",
-      "سوي إيشيدا"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Edens Zero؟",
-    "options": [
-      "تسوغومي أوبا",
-      "هيرو ماشيما",
-      "سوي إيشيدا",
-      "كاتسورا هوشينو"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Rave Master؟",
-    "options": [
-      "ماكوتو يوكيمورا",
-      "هيرومو أراكاوا",
-      "هيرو ماشيما",
-      "ONE"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Black Clover؟",
-    "options": [
-      "تاكيهيكو إينوي",
-      "يوكي تاباتا",
-      "كينتارو ميورا",
-      "ماكوتو يوكيمورا"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Haikyu!!؟",
-    "options": [
-      "إييتشيرو أودا",
-      "هارويتشي فوروداتي",
-      "سوي إيشيدا",
-      "تاكيهيكو إينوي"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Slam Dunk؟",
-    "options": [
-      "إييتشيرو أودا",
-      "تاكيهيكو إينوي",
-      "كويوهارو غوتوغي",
-      "غوشو أوياما"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Vagabond؟",
-    "options": [
-      "ONE",
-      "تاكيهيكو إينوي",
-      "يوشيهيرو توغاشي",
-      "تسوغومي أوبا"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Berserk، المبتكر الأصلي؟",
-    "options": [
-      "سوي إيشيدا",
-      "هيرومو أراكاوا",
-      "غيغي أكوتامي",
-      "كينتارو ميورا"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Vinland Saga؟",
-    "options": [
-      "ماساشي كيشيموتو",
-      "هاجيمي إيساياما",
-      "يوكي تاباتا",
-      "ماكوتو يوكيمورا"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Monster؟",
-    "options": [
-      "هاجيمي إيساياما",
-      "ناوكي أوراساوا",
-      "ريتشيرو إيناغاكي",
-      "ماكوتو يوكيمورا"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا 20th Century Boys؟",
-    "options": [
-      "أكيرا تورياما",
-      "ناوكي أوراساوا",
-      "كويوهارو غوتوغي",
-      "إييتشيرو أودا"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Detective Conan؟",
-    "options": [
-      "هاجيمي إيساياما",
-      "غوشو أوياما",
-      "هيرومو أراكاوا",
-      "هارويتشي فوروداتي"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Ranma ½؟",
-    "options": [
-      "هيرو ماشيما",
-      "روميكو تاكاهاشي",
-      "ناوكي أوراساوا",
-      "كوهي هوريكوشي"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Inuyasha؟",
-    "options": [
-      "يوشيهيرو توغاشي",
-      "روميكو تاكاهاشي",
-      "تاتسوكي فوجيموتو",
-      "إييتشيرو أودا"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Urusei Yatsura؟",
-    "options": [
-      "نوبوهيرو واتسوكي",
-      "روميكو تاكاهاشي",
-      "تاكيهيكو إينوي",
-      "كوهي هوريكوشي"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا D.Gray-man؟",
-    "options": [
-      "كويوهارو غوتوغي",
-      "يوكي تاباتا",
-      "تيتي كوبو",
-      "كاتسورا هوشينو"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Tokyo Ghoul؟",
-    "options": [
-      "سوي إيشيدا",
-      "تيتي كوبو",
-      "ريتشيرو إيناغاكي",
-      "نوبوهيرو واتسوكي"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Dr. Stone، كاتب القصة؟",
-    "options": [
-      "كويوهارو غوتوغي",
-      "روميكو تاكاهاشي",
-      "هيرومو أراكاوا",
-      "ريتشيرو إيناغاكي"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "anime",
-    "difficulty": "medium",
-    "question": "من مؤلف مانغا Rurouni Kenshin؟",
-    "options": [
-      "نوبوهيرو واتسوكي",
-      "كاتسورا هوشينو",
-      "هيرو ماشيما",
-      "يوشيهيرو توغاشي"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "ما اسم سيف رينجي أباراي الزانباكتو في Bleach؟",
-    "options": [
-      "زابيمارو",
-      "سينبونزاكورا",
-      "ريوجين جاكا",
-      "كيوكا سويغيتسو"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "ما اسم سيف بياكويا كوتشيكي الزانباكتو في Bleach؟",
-    "options": [
-      "سوزوميباتشي",
-      "سينبونزاكورا",
-      "نوزاراشي",
-      "أشيسوغي جيزو"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "ما اسم سيف هيتسوغايا الزانباكتو في Bleach؟",
-    "options": [
-      "سينبونزاكورا",
-      "أشيسوغي جيزو",
-      "هيورينمارو",
-      "سودي نو شيرايوكي"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "ما اسم سيف كينباتشي الذي يُكشف اسمه لاحقًا في Bleach؟",
-    "options": [
-      "شينسو",
-      "سوزوموشي",
-      "سوغيو نو كوتواري",
-      "نوزاراشي"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "ما اسم سيف ياماموتو الزانباكتو في Bleach؟",
-    "options": [
-      "كاتين كيوكوتسو",
-      "ريوجين جاكا",
-      "زابيمارو",
-      "سينبونزاكورا"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "ما اسم سيف آيزن الزانباكتو في Bleach؟",
-    "options": [
-      "مينازوكي",
-      "كيوكا سويغيتسو",
-      "بينيهيمي",
-      "تينكين"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "ما اسم سيف روكيا الزانباكتو في Bleach؟",
-    "options": [
-      "سودي نو شيرايوكي",
-      "هيورينمارو",
-      "زابيمارو",
-      "تينكين"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "ما اسم سيف غين إيتشيمارو الزانباكتو في Bleach؟",
-    "options": [
-      "شينسو",
-      "سودي نو شيرايوكي",
-      "مينازوكي",
-      "أشيسوغي جيزو"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "ما اسم سيف أوراهارا الزانباكتو في Bleach؟",
-    "options": [
-      "سينبونزاكورا",
-      "سوزوموشي",
-      "مينازوكي",
-      "بينيهيمي"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "ما اسم سيف مايوري كوروتسوتشي الزانباكتو في Bleach؟",
-    "options": [
-      "كاتين كيوكوتسو",
-      "سوغيو نو كوتواري",
-      "أشيسوغي جيزو",
-      "مينازوكي"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "ما اسم سيف أونوهانا الزانباكتو في Bleach؟",
-    "options": [
-      "زابيمارو",
-      "سينبونزاكورا",
-      "مينازوكي",
-      "أشيسوغي جيزو"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "ما اسم سيف كومامورا الزانباكتو في Bleach؟",
-    "options": [
-      "زابيمارو",
-      "كاتين كيوكوتسو",
-      "تينكين",
-      "نوزاراشي"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "ما اسم سيف سوي فون الزانباكتو في Bleach؟",
-    "options": [
-      "كاتين كيوكوتسو",
-      "نوزاراشي",
-      "سوزوميباتشي",
-      "أشيسوغي جيزو"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "ما اسم سيف كانامي توسن الزانباكتو في Bleach؟",
-    "options": [
-      "مينازوكي",
-      "نوزاراشي",
-      "تينكين",
-      "سوزوموشي"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "ما اسم سيف شونسوي كيوراكو الزانباكتو في Bleach؟",
-    "options": [
-      "أشيسوغي جيزو",
-      "سوزوموشي",
-      "كيوكا سويغيتسو",
-      "كاتين كيوكوتسو"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "ما اسم سيف أوكيتاكي الزانباكتو في Bleach؟",
-    "options": [
-      "زابيمارو",
-      "سوغيو نو كوتواري",
-      "تينكين",
-      "مينازوكي"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "من الشخصية المطابقة للوصف التالي؟ خادم عائلة زولديك المسؤول عن اختبار العملات في Hunter × Hunter",
-    "options": [
-      "تسوبوني",
-      "نيفيربيتو",
-      "غوتو",
-      "وينغ"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "من الشخصية المطابقة للوصف التالي؟ الصياد الذي يستخدم قدرة الدخان في Hunter × Hunter",
-    "options": [
-      "بيسكيت كروغر",
-      "ميرويم",
-      "وينغ",
-      "موريل"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "من الشخصية المطابقة للوصف التالي؟ الصياد الذي يستخدم قدرة Hide and Seek في Hunter × Hunter",
-    "options": [
-      "ميرويم",
-      "وينغ",
+      "موريل",
       "نوف",
-      "نيفيربيتو"
+      "جين فريكس",
+      "إسحاق نيتيرو"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في Hunter × Hunter، من آخر فرد في عصابة العنكبوت يحمل رقم 4 عند بداية أحداث Yorknew؟",
+    "options": [
+      "فيتان",
+      "فرانكلين",
+      "هيسوكا",
+      "كرولو"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في Hunter × Hunter، من الذي يعلّم غون وكيلوا أساسيات النين في برج السماء؟",
+    "options": [
+      "وينغ",
+      "موريل",
+      "نوف",
+      "بيسكيت"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في Fullmetal Alchemist، من قائد البلاد المعروف بلقب الفوهرر في بداية القصة؟",
+    "options": [
+      "روي موستانغ",
+      "مايس هيوز",
+      "أليكس أرمسترونغ",
+      "كينغ برادلي"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في Fullmetal Alchemist، من الهومونكولوس الذي يتخذ هيئة الملك برادلي؟",
+    "options": [
+      "راث",
+      "غريد",
+      "برايد",
+      "إنفي"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في Fullmetal Alchemist، من صديق روي موستانغ الذي يعمل في الاستخبارات ويُقتل مبكرًا؟",
+    "options": [
+      "أليكس أرمسترونغ",
+      "فاتو فالمان",
+      "مايس هيوز",
+      "جان هافوك"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في Tokyo Ghoul، من صاحب المقهى أنتيكو الذي يساعد الغيلان المسالمين؟",
+    "options": [
+      "يوشيمورا",
+      "كانيكي",
+      "تسوكياما",
+      "أمون"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في Vinland Saga، من والد ثورفين الذي يغتال على يد مجموعة أسكيلاد؟",
+    "options": [
+      "كنوت",
+      "بيورن",
+      "ثورز",
+      "ثوركيل"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في Code Geass، من صديق لولوش الذي يقود آلة لانسلوت؟",
+    "options": [
+      "روولو لامبروج",
+      "جيريميا غوتفالد",
+      "لويد أسبلوند",
+      "سوزاكو كوروروغي"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في Steins;Gate، من صديقة أوكابي منذ الطفولة التي تعمل معه في المختبر؟",
+    "options": [
+      "فيريس",
+      "مايوري شينا",
+      "كوريسو ماكيسي",
+      "سوزوها أماني"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "anime",
+    "difficulty": "medium",
+    "question": "في My Hero Academia، من معلم الصف 1-A المعروف بلقب Eraser Head؟",
+    "options": [
+      "إنديفور",
+      "بريزنت مايك",
+      "شوتا آيزاوا",
+      "أول مايت"
     ],
     "correct": 2
   },
   {
     "category": "anime",
     "difficulty": "hard",
-    "question": "من الشخصية المطابقة للوصف التالي؟ الصياد الذي يستخدم قدرة Hakoware في Hunter × Hunter",
+    "question": "في Attack on Titan، من جندي الاستطلاع الذي هاجم العملاق الوحشي وأخرجه من جسده في معركة شيغانشينا؟",
     "options": [
+      "هانجي زوي",
+      "جان كيرشتاين",
+      "ليفاي أكرمان",
+      "إروين سميث"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في Attack on Titan، من أول فرد يرث العملاق الفكي بعد موت مارسيل غاليارد؟",
+    "options": [
+      "يمير",
+      "بوركو غاليارد",
+      "راينر براون",
+      "فالكو غرايس"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في Attack on Titan، من صاحب العملاق المطرقة الحربي قبل أن يستولي إيرين على قواه؟",
+    "options": [
+      "آني ليونهارت",
+      "بيك فينغر",
+      "لارا تايبور",
+      "ويلي تايبور"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في Naruto، من الهوكاغي الأول الذي أعاده أوروتشيمارو باستخدام الإيدو تينسي؟",
+    "options": [
+      "ميناتو ناميكازي",
+      "هاشيراما سينجو",
+      "توبيراما سينجو",
+      "هيروزن ساروتوبي"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في Naruto، من أحد مؤسسي كونوها إلى جانب هاشيراما سينجو؟",
+    "options": [
+      "هيروزن ساروتوبي",
+      "مادارا أوتشيها",
+      "إيزونا أوتشيها",
+      "توبيراما سينجو"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في Naruto، من تلميذ جيرايا الذي يتبين أنه يستخدم جثث باين الستة؟",
+    "options": [
+      "كونان",
+      "ناغاتو",
+      "ميناتو",
+      "ياهيكو"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في One Piece، من الذي أعطى شانكس قبعة القش قبل أن تنتقل إلى لوفي؟",
+    "options": [
+      "غول دي روجر",
+      "رايلي",
+      "غارب",
+      "وايتبيرد"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في One Piece، من قائد جيش الثوار الذي تربطه صلة أبوة بلوفي؟",
+    "options": [
+      "إيفانكوف",
+      "بارثولوميو كوما",
+      "مونكي دي دراغون",
+      "سابو"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في One Piece، من الأخ الذي يضحي بنفسه دفاعًا عن لوفي في مارينفورد؟",
+    "options": [
+      "سابو",
+      "شانكس",
+      "جينبي",
+      "بورتغاس دي إيس"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في Hunter × Hunter، من الذي يقاتل نيتيرو في قصر النمل الكيميرا؟",
+    "options": [
+      "ميرويم",
+      "نيفيربيتو",
+      "شايا بوف",
+      "مونتوتو يوبي"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في Hunter × Hunter، من يستخدم قدرة Hide and Seek للنقل داخل فضاء مستقل؟",
+    "options": [
+      "نوف",
       "موريل",
       "ناكل باين",
-      "ميرويم",
-      "وينغ"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "من الشخصية المطابقة للوصف التالي؟ الصياد الذي يستخدم قدرة Hotel Rafflesia في Hunter × Hunter",
-    "options": [
-      "سيلفا زولديك",
-      "شوت ماكماهون",
-      "بيسكيت كروغر",
-      "تسوبوني"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "من الشخصية المطابقة للوصف التالي؟ رئيسة الخدم التي ترافق كيلوا وألوكا مع أماني في Hunter × Hunter",
-    "options": [
-      "ميرويم",
-      "جين فريكس",
-      "تسوبوني",
-      "نيفيربيتو"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "من الشخصية المطابقة للوصف التالي؟ ملك النمل الكيميرا في Hunter × Hunter",
-    "options": [
-      "ميرويم",
-      "مونتوتو يوبي",
-      "زينو زولديك",
       "شوت ماكماهون"
     ],
     "correct": 0
@@ -5956,1718 +4012,1862 @@ window.BSM_QUESTIONS = [
   {
     "category": "anime",
     "difficulty": "hard",
-    "question": "من الشخصية المطابقة للوصف التالي؟ حارس ميرويم الملكي ذي هيئة الفراشة في Hunter × Hunter",
+    "question": "في Hunter × Hunter، من الذي يستخدم Hakoware لفرض دين هالة على خصمه؟",
     "options": [
-      "تسوبوني",
-      "سيلفا زولديك",
-      "شايا بوف",
-      "شوت ماكماهون"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "من الشخصية المطابقة للوصف التالي؟ حارس ميرويم الملكي صاحب الهيئة القططية في Hunter × Hunter",
-    "options": [
-      "وينغ",
-      "نيفيربيتو",
-      "ميرويم",
-      "نوف"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "من الشخصية المطابقة للوصف التالي؟ حارس ميرويم الملكي ضخم الجسد متعدد التحولات في Hunter × Hunter",
-    "options": [
-      "شايا بوف",
-      "مونتوتو يوبي",
-      "ميرويم",
-      "شوت ماكماهون"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "من الشخصية المطابقة للوصف التالي؟ صديقة كيلوا التي تدخل غريد آيلاند وتبدو كطفلة رغم تقدم عمرها في Hunter × Hunter",
-    "options": [
-      "تسوبوني",
-      "ميرويم",
-      "وينغ",
-      "بيسكيت كروغر"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "من الشخصية المطابقة للوصف التالي؟ أحد مبتكري لعبة غريد آيلاند ووالد غون في Hunter × Hunter",
-    "options": [
-      "موريل",
-      "جين فريكس",
       "نوف",
-      "سيلفا زولديك"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "من الشخصية المطابقة للوصف التالي؟ والد كيلوا ورئيس عائلة زولديك في Hunter × Hunter",
-    "options": [
-      "جين فريكس",
-      "غوتو",
-      "نوف",
-      "سيلفا زولديك"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "anime",
-    "difficulty": "hard",
-    "question": "من الشخصية المطابقة للوصف التالي؟ جد كيلوا الذي شارك في اقتحام القصر مع نيتيرو في Hunter × Hunter",
-    "options": [
-      "زينو زولديك",
       "شوت ماكماهون",
-      "سيلفا زولديك",
+      "ناكل باين",
       "موريل"
     ],
+    "correct": 2
+  },
+  {
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في Jujutsu Kaisen، من صاحب توسع المجال «الفراغ اللانهائي»؟",
+    "options": [
+      "جوغو",
+      "ماهیتو",
+      "ساتورو غوجو",
+      "ريومن سوكونا"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في Jujutsu Kaisen، من صاحب تقنية النسخ التي تظهر في مواجهة جيتو؟",
+    "options": [
+      "يوجي إيتادوري",
+      "ميغومي فوشيغورو",
+      "يوتا أوكوتسو",
+      "ماكي زينين"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في Jujutsu Kaisen، من مستخدم تقنية الظلال العشرة الذي يشرف غوجو على تدريبه؟",
+    "options": [
+      "يوتا أوكوتسو",
+      "ميغومي فوشيغورو",
+      "يوجي إيتادوري",
+      "توجي فوشيغورو"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في Demon Slayer، من القمر العلوي الذي يتواجه مع تينغن أوزوي في حي الترفيه؟",
+    "options": [
+      "هانتينغو",
+      "غيوتارو",
+      "أكازا",
+      "دوما"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في Demon Slayer، من الشيطان الذي يتشارك جسدًا وقدرة مع غيوتارو؟",
+    "options": [
+      "تامايو",
+      "نيزوكو",
+      "داكي",
+      "ناكيمي"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في Demon Slayer، من هاشيرا الضباب الذي يقاتل القمر العلوي الخامس في قرية الحدادين؟",
+    "options": [
+      "سانيمي شينازوغاوا",
+      "تينغن أوزوي",
+      "مويتشيرو توكيتو",
+      "غيو توميوكا"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في Dragon Ball Z، من السايان الذي يقطع ذراع فريزا ويهزمه بعد عودته إلى الأرض؟",
+    "options": [
+      "فيجيتا",
+      "غوكو",
+      "ترانكس المستقبلي",
+      "غوهان"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في Dragon Ball Z، من الإنسان الصناعي الذي حاول التضحية بنفسه عبر قنبلة داخلية ضد سيل؟",
+    "options": [
+      "أندرويد 17",
+      "أندرويد 18",
+      "أندرويد 19",
+      "أندرويد 16"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في Dragon Ball Z، من يفاجئ غوكو بكشف قدرته على التحول إلى سوبر سايان خلال ظهوره الأول؟",
+    "options": [
+      "غوتين",
+      "غوهان",
+      "فيجيتا",
+      "ترانكس المستقبلي"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في Bleach، من الذي يستخدم الزانباكتو «كيوكا سويغيتسو»؟",
+    "options": [
+      "كينباتشي زاراكي",
+      "سوسكي آيزن",
+      "غين إيتشيمارو",
+      "بياكويا كوتشيكي"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في Bleach، من قائد الفرقة الثامنة الذي يستخدم الزانباكتو «كاتين كيوكوتسو»؟",
+    "options": [
+      "أوكيتاكي",
+      "ياماموتو",
+      "سوي فون",
+      "شونسوي كيوراكو"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في Bleach، ما اسم زانباكتو قائد الفرقة السادسة بياكويا؟",
+    "options": [
+      "زانغيتسو",
+      "زابيمارو",
+      "بينيهيمي",
+      "سينبونزاكورا"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في Fullmetal Alchemist: Brotherhood، من الأمير الذي يشارك جسده مع غريد؟",
+    "options": [
+      "سكار",
+      "روي موستانغ",
+      "لين ياو",
+      "ألفونس إلريك"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في Fullmetal Alchemist، من الهومونكولوس المتنكر في هيئة سليم برادلي؟",
+    "options": [
+      "برايد",
+      "راث",
+      "غريد",
+      "إنفي"
+    ],
     "correct": 0
   },
   {
     "category": "anime",
     "difficulty": "hard",
-    "question": "من الشخصية المطابقة للوصف التالي؟ المحترف الذي يدرّب غون وكيلوا على النين في برج السماء في Hunter × Hunter",
+    "question": "في Steins;Gate، من العالم الذي يخترع جهاز PhoneWave مع أصدقائه في المختبر؟",
     "options": [
-      "بيسكيت كروغر",
-      "موريل",
-      "مونتوتو يوبي",
-      "وينغ"
+      "رينتارو أوكابي",
+      "مايوري شينا",
+      "كوريسو ماكيسي",
+      "دارو"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في Code Geass، من الشخصية التي تتعرض لغياس لولوش فتُجبر على قتل اليابانيين في حفل؟",
+    "options": [
+      "كورنليا",
+      "نانالي",
+      "شيرلي",
+      "يوفيميا لي بريتانيا"
     ],
     "correct": 3
   },
   {
-    "category": "series",
-    "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور جاك سبارو في سلسلة Pirates of the Caribbean؟",
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في Vinland Saga، من الأمير الذي يضع يده على تاج إنجلترا بعد موت والده سفين؟",
     "options": [
-      "روبرت داوني جونيور",
-      "وينتورث ميلر",
-      "كريس هيمسوورث",
-      "جوني ديب"
+      "كنوت",
+      "ثورفين",
+      "أسكيلاد",
+      "ثوركيل"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في Berserk، من الفارس الغامض الذي ينقذ غاتس وكاسكا أثناء الكسوف؟",
+    "options": [
+      "زود",
+      "غريفيث",
+      "سيربيكو",
+      "فارس الجمجمة"
     ],
     "correct": 3
   },
   {
-    "category": "series",
-    "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور توني ستارك في Iron Man (2008)؟",
+    "category": "anime",
+    "difficulty": "hard",
+    "question": "في Death Note، من الشينيغامي الذي يقتل L وواتاري لحماية ميسا؟",
     "options": [
-      "كيت هارينغتون",
-      "كيت وينسلت",
-      "روبرت داوني جونيور",
-      "بنديكت كامبرباتش"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "series",
-    "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور ستيف روجرز في Captain America: The First Avenger؟",
-    "options": [
-      "إيان ماكيلين",
-      "كريس إيفانز",
-      "هيث ليدجر",
-      "بيتر دينكلاج"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "series",
-    "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور ثور في Thor (2011)؟",
-    "options": [
-      "خواكين فينيكس",
-      "إميليا كلارك",
-      "دانيال رادكليف",
-      "كريس هيمسوورث"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "series",
-    "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور لوكي في Thor (2011)؟",
-    "options": [
-      "فيغو مورتنسن",
-      "توم هيدلستون",
-      "كريستيان بيل",
-      "جوني ديب"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "series",
-    "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور هاري بوتر في سلسلة الأفلام الرئيسية؟",
-    "options": [
-      "توم هيدلستون",
-      "دانيال رادكليف",
-      "بنديكت كامبرباتش",
-      "كريس إيفانز"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "series",
-    "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور رون ويزلي في سلسلة Harry Potter؟",
-    "options": [
-      "روبرت غرينت",
-      "بيتر دينكلاج",
-      "كريستيان بيل",
-      "براين كرانستون"
+      "ريم",
+      "ريوك",
+      "سيدوه",
+      "جيلوس"
     ],
     "correct": 0
   },
   {
     "category": "series",
     "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور هيرمايوني غرينجر في سلسلة Harry Potter؟",
+    "question": "في Avengers: Endgame، من يستخدم أحجار اللانهاية في النهاية للقضاء على جيش ثانوس؟",
     "options": [
-      "وينتورث ميلر",
-      "أنتوني هوبكنز",
-      "روبرت داوني جونيور",
-      "إيما واتسون"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "series",
-    "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور جاك داوسون في Titanic؟",
-    "options": [
-      "بيتر دينكلاج",
-      "فيغو مورتنسن",
-      "إميليا كلارك",
-      "ليوناردو دي كابريو"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "series",
-    "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور روز في Titanic؟",
-    "options": [
-      "آرون بول",
-      "كيت وينسلت",
-      "مارك هاميل",
-      "كيت هارينغتون"
+      "ثور",
+      "توني ستارك",
+      "ستيف روجرز",
+      "بروس بانر"
     ],
     "correct": 1
   },
   {
     "category": "series",
     "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور نيو في The Matrix؟",
+    "question": "في Avengers: Infinity War، من يضحي بحجر العقل لمحاولة منع ثانوس من الحصول عليه؟",
     "options": [
-      "آرون بول",
-      "كيانو ريفز",
-      "ليوناردو دي كابريو",
-      "إيلايجا وود"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "series",
-    "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور جون ويك في John Wick؟",
-    "options": [
-      "كيانو ريفز",
-      "بيتر دينكلاج",
-      "إيلايجا وود",
-      "سيلفستر ستالون"
+      "واندا ماكسيموف",
+      "ناتاشا رومانوف",
+      "كارول دانفرز",
+      "بيبر بوتس"
     ],
     "correct": 0
   },
   {
     "category": "series",
     "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور بروس واين في The Dark Knight؟",
+    "question": "في Captain America: The Winter Soldier، من يتضح أنه الجندي الشتوي؟",
     "options": [
-      "كريستيان بيل",
-      "إيلايجا وود",
-      "بيتر دينكلاج",
-      "وينتورث ميلر"
+      "سام ويلسون",
+      "باكي بارنز",
+      "بروك روملو",
+      "ستيف روجرز"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "series",
+    "difficulty": "easy",
+    "question": "في Iron Man، من يكشف للعالم في المؤتمر الصحفي أنه الرجل الحديدي؟",
+    "options": [
+      "جيمس رودس",
+      "نيك فيوري",
+      "توني ستارك",
+      "أوباديا ستين"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "series",
+    "difficulty": "easy",
+    "question": "في The Dark Knight، من يتخذ لقب Two-Face بعد تشوه نصف وجهه؟",
+    "options": [
+      "بروس واين",
+      "هارفي دينت",
+      "جيم غوردون",
+      "جوناثان كرين"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "series",
+    "difficulty": "easy",
+    "question": "في The Dark Knight Rises، من يكسر ظهر باتمان في المواجهة الأولى بينهما؟",
+    "options": [
+      "بين",
+      "الجوكر",
+      "رأس الغول",
+      "سكيركرو"
     ],
     "correct": 0
   },
   {
     "category": "series",
     "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور الجوكر في The Dark Knight؟",
+    "question": "في Harry Potter and the Prisoner of Azkaban، من يتضح أنه الحيوان الأليف رون ويزلي المتخفي؟",
     "options": [
-      "إميليا كلارك",
-      "ميل غيبسون",
-      "هيث ليدجر",
-      "روبرت غرينت"
+      "سيريوس بلاك",
+      "ريموس لوبين",
+      "بيتر بيتيغرو",
+      "سيفيروس سناب"
     ],
     "correct": 2
   },
   {
     "category": "series",
     "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور الجوكر في Joker (2019)؟",
+    "question": "في Harry Potter and the Chamber of Secrets، من يتحكم بالبازيليسك عبر مذكرته؟",
     "options": [
-      "فيغو مورتنسن",
-      "كاري فيشر",
-      "خواكين فينيكس",
-      "دانيال رادكليف"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "series",
-    "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور فورست غامب في Forrest Gump؟",
-    "options": [
-      "آرون بول",
-      "توم هانكس",
-      "جوني ديب",
-      "بيتر دينكلاج"
+      "دراكو مالفوي",
+      "توم ريدل",
+      "لوسيوس مالفوي",
+      "جيلدروي لوكهارت"
     ],
     "correct": 1
   },
   {
     "category": "series",
     "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور إنديانا جونز في Raiders of the Lost Ark؟",
+    "question": "في The Lord of the Rings، من يحمل الخاتم إلى جبل الهلاك؟",
     "options": [
-      "كيليان مورفي",
-      "روبرت غرينت",
-      "روبرت داوني جونيور",
-      "هاريسون فورد"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "series",
-    "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور هان سولو في Star Wars: A New Hope؟",
-    "options": [
-      "إميليا كلارك",
-      "إيان ماكيلين",
-      "هاريسون فورد",
-      "كريس إيفانز"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "series",
-    "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور لوك سكاي ووكر في Star Wars: A New Hope؟",
-    "options": [
-      "روبرت داوني جونيور",
-      "آرون بول",
-      "مارك هاميل",
-      "سيلفستر ستالون"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "series",
-    "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور ليّا أورغانا في ثلاثية Star Wars الأصلية؟",
-    "options": [
-      "خواكين فينيكس",
-      "كاري فيشر",
-      "بيتر دينكلاج",
-      "إميليا كلارك"
+      "سام غامجي",
+      "فرودو باغنز",
+      "أراغورن",
+      "ليغولاس"
     ],
     "correct": 1
   },
   {
     "category": "series",
     "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور روكي بالبوا في Rocky (1976)؟",
+    "question": "في The Fellowship of the Ring، من يسقط في موريا بعد مواجهته مع البالروغ؟",
     "options": [
-      "ليوناردو دي كابريو",
-      "مارك هاميل",
-      "سيلفستر ستالون",
-      "إميليا كلارك"
+      "بورومير",
+      "غاندالف",
+      "أراغورن",
+      "غيملي"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
     "category": "series",
     "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور جون رامبو في First Blood؟",
+    "question": "في Breaking Bad، من قتل غاس فرينغ بواسطة قنبلة في دار رعاية المسنين؟",
     "options": [
-      "كاري فيشر",
-      "بيتر دينكلاج",
-      "كيليان مورفي",
-      "سيلفستر ستالون"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "series",
-    "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور ماكسيموس في Gladiator (2000)؟",
-    "options": [
-      "راسل كرو",
-      "كيانو ريفز",
-      "توم هيدلستون",
-      "كيت هارينغتون"
+      "والتر وايت",
+      "جيسي بينكمان",
+      "مايك إيرمنتراوت",
+      "هانك شريدر"
     ],
     "correct": 0
   },
   {
     "category": "series",
     "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور ويليام والاس في Braveheart؟",
+    "question": "في Breaking Bad، من يكتشف هوية هايزنبرغ بعد العثور على كتاب في منزل والتر؟",
     "options": [
-      "كيت هارينغتون",
-      "ميل غيبسون",
-      "كيانو ريفز",
-      "سيلفستر ستالون"
+      "ستيف غوميز",
+      "هانك شريدر",
+      "سول غودمان",
+      "غاس فرينغ"
     ],
     "correct": 1
   },
   {
     "category": "series",
     "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور هانيبال لكتر في The Silence of the Lambs؟",
+    "question": "في Game of Thrones، من يقتل ملك الليل في معركة وينترفيل؟",
     "options": [
-      "هيث ليدجر",
-      "أنتوني هوبكنز",
-      "روبرت غرينت",
-      "وينتورث ميلر"
+      "جون سنو",
+      "آريا ستارك",
+      "بران ستارك",
+      "سانسا ستارك"
     ],
     "correct": 1
   },
   {
     "category": "series",
     "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور والتر وايت في Breaking Bad؟",
+    "question": "في Game of Thrones، من يلقب بالملك في الشمال بعد معركة الأوغاد؟",
     "options": [
-      "براين كرانستون",
-      "وينتورث ميلر",
-      "بنديكت كامبرباتش",
-      "جوني ديب"
+      "روب ستارك",
+      "جون سنو",
+      "بران ستارك",
+      "ثيون غريجوي"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "series",
+    "difficulty": "easy",
+    "question": "في Interstellar، من يدخل الثقب الأسود غارغانتوا ويرسل بيانات الجاذبية عبر الساعة؟",
+    "options": [
+      "كوبر",
+      "مان",
+      "روميلي",
+      "دويل"
     ],
     "correct": 0
   },
   {
     "category": "series",
     "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور جيسي بينكمان في Breaking Bad؟",
+    "question": "في Inception، من تكون زوجة كوب الراحلة التي تظهر في أحلامه؟",
     "options": [
-      "إميليا كلارك",
-      "خواكين فينيكس",
-      "كيت هارينغتون",
-      "آرون بول"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "series",
-    "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور جون سنو في Game of Thrones؟",
-    "options": [
-      "أنتوني هوبكنز",
-      "كيت هارينغتون",
-      "مارك هاميل",
-      "بنديكت كامبرباتش"
+      "أريادني",
+      "مال",
+      "فيليبا",
+      "سايتو"
     ],
     "correct": 1
   },
   {
     "category": "series",
     "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور دينيريس تارغاريان في Game of Thrones؟",
+    "question": "في Titanic، من يرسم صورة روز وهي ترتدي قلادة قلب المحيط؟",
     "options": [
-      "إميليا كلارك",
-      "آرون بول",
-      "جوني ديب",
-      "ليوناردو دي كابريو"
+      "جاك داوسون",
+      "كال هوكلي",
+      "توماس أندروز",
+      "بروس إسماي"
     ],
     "correct": 0
   },
   {
     "category": "series",
     "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور تيريون لانستر في Game of Thrones؟",
+    "question": "في The Matrix، من العضو الذي يخون طاقم مورفيوس مقابل العودة إلى المحاكاة؟",
     "options": [
-      "كيت وينسلت",
-      "أنتوني هوبكنز",
-      "فيغو مورتنسن",
-      "بيتر دينكلاج"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "series",
-    "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور مايكل سكوفيلد في Prison Break؟",
-    "options": [
-      "وينتورث ميلر",
-      "براين كرانستون",
-      "بنديكت كامبرباتش",
-      "مارك هاميل"
+      "سايفر",
+      "تانك",
+      "دوزر",
+      "أبوك"
     ],
     "correct": 0
   },
   {
     "category": "series",
     "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور شيرلوك هولمز في Sherlock، مسلسل BBC؟",
+    "question": "في The Shawshank Redemption، من يساعد آندي في الحصول على أدوات الحفر الصغيرة؟",
     "options": [
-      "أنتوني هوبكنز",
-      "فيغو مورتنسن",
-      "مارك هاميل",
-      "بنديكت كامبرباتش"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "series",
-    "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور توماس شيلبي في Peaky Blinders؟",
-    "options": [
-      "كيليان مورفي",
-      "وينتورث ميلر",
-      "آرون بول",
-      "توم هانكس"
+      "ريد",
+      "هيدلي",
+      "نورتون",
+      "بروكس"
     ],
     "correct": 0
   },
   {
     "category": "series",
     "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور فرودو باغنز في ثلاثية The Lord of the Rings؟",
+    "question": "في Forrest Gump، من الصديق الذي وعده فورست بالدخول معه في مشروع صيد الروبيان؟",
     "options": [
-      "هيث ليدجر",
-      "إميليا كلارك",
-      "إيلايجا وود",
-      "بيتر دينكلاج"
+      "دان",
+      "بوبا",
+      "ديك",
+      "ويسلي"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "series",
+    "difficulty": "easy",
+    "question": "في Prison Break، أي سجن دخل إليه مايكل سكوفيلد عمدًا لإنقاذ أخيه؟",
+    "options": [
+      "ميامي ديد",
+      "فوكس ريفر",
+      "سونا",
+      "أوغيغيا"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "series",
+    "difficulty": "easy",
+    "question": "في Prison Break، ما اسم أخ مايكل المحكوم بالإعدام في الموسم الأول؟",
+    "options": [
+      "براد بيليك",
+      "تي باغ",
+      "لينكولن بوروز",
+      "فرناندو سوكري"
     ],
     "correct": 2
   },
   {
     "category": "series",
     "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور أراغورن في ثلاثية The Lord of the Rings؟",
+    "question": "في Prison Break، من زميل مايكل في الزنزانة الذي يشاركه خطة الهروب؟",
     "options": [
-      "هاريسون فورد",
-      "بنديكت كامبرباتش",
-      "ليوناردو دي كابريو",
-      "فيغو مورتنسن"
+      "جون أبروتزي",
+      "سي نوت",
+      "ديفيد أبولسكيس",
+      "فرناندو سوكري"
     ],
     "correct": 3
   },
   {
     "category": "series",
     "difficulty": "easy",
-    "question": "من الممثل الذي أدى دور غاندالف في ثلاثية The Lord of the Rings؟",
+    "question": "في Prison Break، من السجين المعروف بلقب T-Bag؟",
     "options": [
-      "كيت وينسلت",
-      "توم هانكس",
-      "إيان ماكيلين",
-      "إيما واتسون"
+      "براد بيليك",
+      "جون أبروتزي",
+      "ألكس ماهون",
+      "ثيودور باغويل"
     ],
-    "correct": 2
+    "correct": 3
   },
   {
     "category": "series",
-    "difficulty": "medium",
-    "question": "من أخرج فيلم Titanic (1997)؟",
+    "difficulty": "easy",
+    "question": "في Prison Break، من عميل FBI الذي يلاحق الهاربين في الموسم الثاني؟",
     "options": [
-      "مارتن سكورسيزي",
-      "ديفيد فينشر",
-      "جيمس كاميرون",
-      "كوينتن تارانتينو"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "series",
-    "difficulty": "medium",
-    "question": "من أخرج فيلم Avatar (2009)؟",
-    "options": [
-      "ستيفن سبيلبرغ",
-      "جيمس كاميرون",
-      "بونغ جون هو",
-      "فرانسيس فورد كوبولا"
+      "ويليام كيم",
+      "ألكسندر ماهون",
+      "بول كيلرمان",
+      "دون سيلف"
     ],
     "correct": 1
   },
   {
     "category": "series",
-    "difficulty": "medium",
-    "question": "من أخرج فيلم The Terminator (1984)؟",
+    "difficulty": "easy",
+    "question": "في Peaky Blinders، من يتولى قيادة عائلة شيلبي خلال أغلب أحداث المسلسل؟",
     "options": [
-      "جيمس كاميرون",
-      "فرانسيس فورد كوبولا",
-      "بونغ جون هو",
-      "مارتن سكورسيزي"
+      "توماس شيلبي",
+      "آرثر شيلبي",
+      "جون شيلبي",
+      "مايكل غراي"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "series",
+    "difficulty": "easy",
+    "question": "في Peaky Blinders، من أخ توماس الأكبر المعروف باندفاعه؟",
+    "options": [
+      "فين شيلبي",
+      "مايكل غراي",
+      "آرثر شيلبي",
+      "جون شيلبي"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "series",
+    "difficulty": "easy",
+    "question": "في Peaky Blinders، من عمة توماس التي تدير شؤون العائلة معه؟",
+    "options": [
+      "ليزّي ستارك",
+      "غريس بورغيس",
+      "إسمِه شيلبي",
+      "بولي غراي"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "series",
+    "difficulty": "easy",
+    "question": "في Peaky Blinders، من عميل الشرطة الذي يصل برمنغهام لتعقب أسلحة مسروقة؟",
+    "options": [
+      "ألفي سولومونز",
+      "أوزوالد موزلي",
+      "داربي سابيني",
+      "تشيستر كامبل"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "series",
+    "difficulty": "easy",
+    "question": "في Peaky Blinders، من زعيم العصابة اليهودية في كامدن الذي يتفاوض مع توماس؟",
+    "options": [
+      "داربي سابيني",
+      "بيلي كيمبر",
+      "ألفي سولومونز",
+      "لوكا تشانغريتا"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "series",
+    "difficulty": "easy",
+    "question": "في Sherlock، من شريك شرلوك الذي يعود من الخدمة العسكرية في أفغانستان؟",
+    "options": [
+      "جيم موريارتي",
+      "جون واتسون",
+      "مايكروفت هولمز",
+      "غريغ ليسراد"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "series",
+    "difficulty": "easy",
+    "question": "في Sherlock، من خصم شرلوك الذي يدير شبكة إجرامية واسعة؟",
+    "options": [
+      "جيم موريارتي",
+      "تشارلز أوغسطس ماغنسن",
+      "إيرين أدلر",
+      "يوروس هولمز"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "series",
+    "difficulty": "easy",
+    "question": "في Sherlock، من شقيق شرلوك الأكبر الذي يعمل في الحكومة البريطانية؟",
+    "options": [
+      "مايكروفت هولمز",
+      "جون واتسون",
+      "غريغ ليسراد",
+      "فيليب أندرسون"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "series",
+    "difficulty": "easy",
+    "question": "في Sherlock، من المفتش الذي يستعين بشرلوك في تحقيقات سكوتلاند يارد؟",
+    "options": [
+      "غريغ ليسراد",
+      "جيم موريارتي",
+      "جون واتسون",
+      "مايكروفت هولمز"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "series",
+    "difficulty": "easy",
+    "question": "في Sherlock، من المرأة التي يحتفظ شرلوك بهاتفها ويصفها بالمرأة؟",
+    "options": [
+      "إيرين أدلر",
+      "مولي هوبر",
+      "ماري واتسون",
+      "السيدة هدسون"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "series",
+    "difficulty": "easy",
+    "question": "في The Lord of the Rings: The Two Towers، من يقود دفاع روهان في حصن هيلم ديب؟",
+    "options": [
+      "دينيثور",
+      "إلومير",
+      "إيسيلدور",
+      "ثيودن"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "series",
+    "difficulty": "medium",
+    "question": "في The Lord of the Rings: The Return of the King، من يسقط في الحمم ومعه الخاتم بعد انتزاعه من فرودو؟",
+    "options": [
+      "غولوم",
+      "سام غامجي",
+      "أراغورن",
+      "فارامير"
     ],
     "correct": 0
   },
   {
     "category": "series",
     "difficulty": "medium",
-    "question": "من أخرج فيلم The Dark Knight (2008)؟",
+    "question": "في The Lord of the Rings، من الصديق الذي يرافق فرودو حتى جبل الهلاك؟",
     "options": [
-      "بونغ جون هو",
-      "روبرت زيميكس",
-      "كريستوفر نولان",
-      "هاياو ميازاكي"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "series",
-    "difficulty": "medium",
-    "question": "من أخرج فيلم Inception (2010)؟",
-    "options": [
-      "بيتر جاكسون",
-      "روبرت زيميكس",
-      "فرانسيس فورد كوبولا",
-      "كريستوفر نولان"
+      "ميري",
+      "بيبين",
+      "بورومير",
+      "سام غامجي"
     ],
     "correct": 3
   },
   {
     "category": "series",
     "difficulty": "medium",
-    "question": "من أخرج فيلم Interstellar (2014)؟",
+    "question": "في The Lord of the Rings، من الوريث الذي يُتوَّج ملكًا على غوندور؟",
     "options": [
-      "ديفيد فينشر",
-      "بونغ جون هو",
-      "كريستوفر نولان",
-      "فرانسيس فورد كوبولا"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "series",
-    "difficulty": "medium",
-    "question": "من أخرج فيلم Oppenheimer (2023)؟",
-    "options": [
-      "مارتن سكورسيزي",
-      "كريستوفر نولان",
-      "ديفيد فينشر",
-      "روبرت زيميكس"
+      "إلومير",
+      "أراغورن",
+      "بورومير",
+      "فارامير"
     ],
     "correct": 1
   },
   {
     "category": "series",
     "difficulty": "medium",
-    "question": "من أخرج فيلم Jurassic Park (1993)؟",
+    "question": "في The Lord of the Rings، أي شخصية من الزمالة تموت بعد دفاعها عن ميري وبيبين؟",
     "options": [
-      "كريستوفر نولان",
-      "مارتن سكورسيزي",
-      "فرانك دارابونت",
-      "ستيفن سبيلبرغ"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "series",
-    "difficulty": "medium",
-    "question": "من أخرج فيلم Jaws (1975)؟",
-    "options": [
-      "فرانك دارابونت",
-      "روبرت زيميكس",
-      "ستيفن سبيلبرغ",
-      "جيمس كاميرون"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "series",
-    "difficulty": "medium",
-    "question": "من أخرج فيلم Saving Private Ryan (1998)؟",
-    "options": [
-      "فرانك دارابونت",
-      "ستيفن سبيلبرغ",
-      "فرانسيس فورد كوبولا",
-      "كوينتن تارانتينو"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "series",
-    "difficulty": "medium",
-    "question": "من أخرج فيلم Schindler’s List (1993)؟",
-    "options": [
-      "جيمس كاميرون",
-      "ستيفن سبيلبرغ",
-      "كريستوفر نولان",
-      "فرانك دارابونت"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "series",
-    "difficulty": "medium",
-    "question": "من أخرج فيلم Gladiator (2000)؟",
-    "options": [
-      "ريدلي سكوت",
-      "كوينتن تارانتينو",
-      "بيتر جاكسون",
-      "بونغ جون هو"
+      "بورومير",
+      "ليغولاس",
+      "غيملي",
+      "أراغورن"
     ],
     "correct": 0
   },
   {
     "category": "series",
     "difficulty": "medium",
-    "question": "من أخرج فيلم Alien (1979)؟",
+    "question": "في Harry Potter and the Goblet of Fire، من يموت في المقبرة خلال المهمة الأخيرة؟",
     "options": [
-      "كريستوفر نولان",
-      "ريدلي سكوت",
-      "هاياو ميازاكي",
-      "مارتن سكورسيزي"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "series",
-    "difficulty": "medium",
-    "question": "من أخرج فيلم Blade Runner (1982)؟",
-    "options": [
-      "هاياو ميازاكي",
-      "ديفيد فينشر",
-      "ريدلي سكوت",
-      "بيتر جاكسون"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "series",
-    "difficulty": "medium",
-    "question": "من أخرج فيلم The Godfather (1972)؟",
-    "options": [
-      "جيمس كاميرون",
-      "بونغ جون هو",
-      "فرانك دارابونت",
-      "فرانسيس فورد كوبولا"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "series",
-    "difficulty": "medium",
-    "question": "من أخرج فيلم Apocalypse Now (1979)؟",
-    "options": [
-      "فرانك دارابونت",
-      "بيتر جاكسون",
-      "كوينتن تارانتينو",
-      "فرانسيس فورد كوبولا"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "series",
-    "difficulty": "medium",
-    "question": "من أخرج فيلم Goodfellas (1990)؟",
-    "options": [
-      "مارتن سكورسيزي",
-      "فرانك دارابونت",
-      "كريستوفر نولان",
-      "روبرت زيميكس"
+      "سيدريك ديغوري",
+      "فيكتور كروم",
+      "فلور ديلاكور",
+      "هاري بوتر"
     ],
     "correct": 0
   },
   {
     "category": "series",
     "difficulty": "medium",
-    "question": "من أخرج فيلم Taxi Driver (1976)؟",
+    "question": "في Harry Potter، من أستاذ الجرعات الذي يتضح أنه كان يحمي هاري سرًا؟",
     "options": [
-      "ديفيد فينشر",
-      "فرانك دارابونت",
-      "ستيفن سبيلبرغ",
-      "مارتن سكورسيزي"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "series",
-    "difficulty": "medium",
-    "question": "من أخرج فيلم The Wolf of Wall Street (2013)؟",
-    "options": [
-      "فرانك دارابونت",
-      "بونغ جون هو",
-      "مارتن سكورسيزي",
-      "كريستوفر نولان"
+      "ريموس لوبين",
+      "غيلدروي لوكهارت",
+      "سيفيروس سناب",
+      "هوراس سلوغهورن"
     ],
     "correct": 2
   },
   {
     "category": "series",
     "difficulty": "medium",
-    "question": "من أخرج فيلم Pulp Fiction (1994)؟",
+    "question": "في Harry Potter and the Half-Blood Prince، من يقتل دمبلدور في برج الفلك؟",
     "options": [
-      "هاياو ميازاكي",
-      "ستيفن سبيلبرغ",
-      "كوينتن تارانتينو",
-      "بونغ جون هو"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "series",
-    "difficulty": "medium",
-    "question": "من أخرج فيلم Django Unchained (2012)؟",
-    "options": [
-      "روبرت زيميكس",
-      "ستيفن سبيلبرغ",
-      "مارتن سكورسيزي",
-      "كوينتن تارانتينو"
+      "دراكو مالفوي",
+      "بيلاتريكس ليسترانج",
+      "فينرير غرايباك",
+      "سيفيروس سناب"
     ],
     "correct": 3
   },
   {
     "category": "series",
     "difficulty": "medium",
-    "question": "من أخرج فيلم The Shawshank Redemption (1994)؟",
+    "question": "في Harry Potter، من عرّاب هاري الذي يهرب من أزكابان؟",
     "options": [
-      "جيمس كاميرون",
-      "فرانك دارابونت",
-      "هاياو ميازاكي",
-      "ستيفن سبيلبرغ"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "series",
-    "difficulty": "medium",
-    "question": "من أخرج فيلم The Green Mile (1999)؟",
-    "options": [
-      "ديفيد فينشر",
-      "فرانك دارابونت",
-      "بيتر جاكسون",
-      "ستيفن سبيلبرغ"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "series",
-    "difficulty": "medium",
-    "question": "من أخرج فيلم Forrest Gump (1994)؟",
-    "options": [
-      "كريستوفر نولان",
-      "جيمس كاميرون",
-      "مارتن سكورسيزي",
-      "روبرت زيميكس"
+      "ريموس لوبين",
+      "آرثر ويزلي",
+      "ألباس دمبلدور",
+      "سيريوس بلاك"
     ],
     "correct": 3
   },
   {
     "category": "series",
     "difficulty": "medium",
-    "question": "من أخرج فيلم Back to the Future (1985)؟",
+    "question": "في Harry Potter and the Deathly Hallows، من يقتل ناجيني في المعركة الأخيرة؟",
     "options": [
-      "ديفيد فينشر",
-      "بيتر جاكسون",
-      "كوينتن تارانتينو",
-      "روبرت زيميكس"
+      "رون ويزلي",
+      "هاري بوتر",
+      "هيرميون غرينجر",
+      "نيفيل لونغبوتوم"
     ],
     "correct": 3
   },
   {
     "category": "series",
     "difficulty": "medium",
-    "question": "من أخرج فيلم Se7en (1995)؟",
+    "question": "في Avengers: Infinity War، من يحاول إزالة حجر العقل من رأس فيجن في واكاندا؟",
     "options": [
-      "كوينتن تارانتينو",
-      "كريستوفر نولان",
-      "ديفيد فينشر",
-      "بيتر جاكسون"
+      "ناتاشا رومانوف",
+      "واندا ماكسيموف",
+      "شوري",
+      "أوكوي"
     ],
     "correct": 2
   },
   {
     "category": "series",
     "difficulty": "medium",
-    "question": "من أخرج فيلم Fight Club (1999)؟",
+    "question": "في Avengers: Endgame، من يعيد الأحجار إلى الأزمنة التي أخذت منها بعد المعركة؟",
     "options": [
-      "ديفيد فينشر",
-      "كريستوفر نولان",
-      "فرانك دارابونت",
-      "بيتر جاكسون"
+      "ستيف روجرز",
+      "كلينت بارتون",
+      "سكوت لانغ",
+      "ثور"
     ],
     "correct": 0
   },
   {
     "category": "series",
     "difficulty": "medium",
-    "question": "من أخرج فيلم The Social Network (2010)؟",
+    "question": "في Avengers: Endgame، من يحصل على حجر الروح بعد تضحية ناتاشا؟",
     "options": [
-      "ديفيد فينشر",
-      "روبرت زيميكس",
-      "ستيفن سبيلبرغ",
-      "بونغ جون هو"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "series",
-    "difficulty": "medium",
-    "question": "من أخرج فيلم Parasite (2019)؟",
-    "options": [
-      "بيتر جاكسون",
-      "مارتن سكورسيزي",
-      "ريدلي سكوت",
-      "بونغ جون هو"
+      "رودي",
+      "نِبيولا",
+      "ستيف روجرز",
+      "كلينت بارتون"
     ],
     "correct": 3
   },
   {
     "category": "series",
     "difficulty": "medium",
-    "question": "من أخرج فيلم Spirited Away (2001)؟",
+    "question": "في Captain America: Civil War، من يتضح أنه قتل والدي توني ستارك تحت تأثير هايدرا؟",
     "options": [
-      "بيتر جاكسون",
-      "كوينتن تارانتينو",
-      "ديفيد فينشر",
-      "هاياو ميازاكي"
+      "بروك روملو",
+      "باكي بارنز",
+      "ستيف روجرز",
+      "سام ويلسون"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "series",
+    "difficulty": "medium",
+    "question": "في Doctor Strange، من يسلّم ستيفن سترينج إلى تدريب كاماتاج؟",
+    "options": [
+      "وانغ",
+      "القديمة",
+      "كايسيليوس",
+      "كريستين بالمر"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "series",
+    "difficulty": "medium",
+    "question": "في The Dark Knight، من يعتقل الجوكر بعد مطاردته بالشاحنات في غوثام؟",
+    "options": [
+      "بروس واين",
+      "لوسيوس فوكس",
+      "جيم غوردون",
+      "هارفي دينت"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "series",
+    "difficulty": "medium",
+    "question": "في Batman Begins، من يكشف أنه زعيم عصبة الظلال خلف اسم رأس الغول؟",
+    "options": [
+      "جوناثان كرين",
+      "كارمين فالكوني",
+      "فيكتور زاس",
+      "هنري دوكارد"
     ],
     "correct": 3
   },
   {
     "category": "series",
     "difficulty": "medium",
-    "question": "من أخرج فيلم The Lord of the Rings: The Fellowship of the Ring (2001)؟",
+    "question": "في The Dark Knight Rises، من يتضح أنها ابنة رأس الغول؟",
     "options": [
-      "جيمس كاميرون",
-      "بيتر جاكسون",
-      "فرانسيس فورد كوبولا",
-      "ديفيد فينشر"
+      "راشيل داوز",
+      "باربرا غوردون",
+      "ميراندا تيت",
+      "سيلينا كايل"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "series",
+    "difficulty": "medium",
+    "question": "في The Batman (2022)، من القاتل الذي يترك ألغازًا في مسارح جرائمه؟",
+    "options": [
+      "كارمين فالكوني",
+      "سيلينا كايل",
+      "ريدلر",
+      "البطريق"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "series",
+    "difficulty": "medium",
+    "question": "في Joker (2019)، ما اسم الشخصية التي تتحول إلى الجوكر؟",
+    "options": [
+      "توماس واين",
+      "راندال",
+      "آرثر فليك",
+      "موراي فرانكلين"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "series",
+    "difficulty": "medium",
+    "question": "في Interstellar، من يظل على سفينة إنديورنس أثناء هبوط كوبر وأميليا على كوكب ميلر؟",
+    "options": [
+      "دويل",
+      "مورف",
+      "روميلي",
+      "الدكتور مان"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "series",
+    "difficulty": "medium",
+    "question": "في Interstellar، من يحاول خداع كوبر وطاقمه بشأن صلاحية كوكبه؟",
+    "options": [
+      "روميلي",
+      "الدكتور مان",
+      "الدكتور براند",
+      "دويل"
     ],
     "correct": 1
   },
   {
     "category": "series",
-    "difficulty": "hard",
-    "question": "من ألّف الموسيقى التصويرية لفيلم Star Wars: A New Hope (1977)؟",
+    "difficulty": "medium",
+    "question": "في Inception، من الكيميائي الذي يضع خطة التخدير الطويلة لفريق كوب؟",
     "options": [
-      "ترينت ريزنور وأتيكوس روس",
-      "جيمس هورنر",
-      "جون ويليامز",
-      "إنيو موريكوني"
+      "إيمز",
+      "سايتو",
+      "يوسف",
+      "آرثر"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "series",
+    "difficulty": "medium",
+    "question": "في Inception، من مزوّر الهويات الذي ينضم إلى فريق كوب؟",
+    "options": [
+      "إيمز",
+      "آرثر",
+      "يوسف",
+      "سايتو"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "series",
+    "difficulty": "medium",
+    "question": "في Tenet، من يسعى لمنع وقوع كارثة عبر تقنية عكس الإنتروبيا؟",
+    "options": [
+      "نيل",
+      "ساتور",
+      "آيفز",
+      "البطل"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "series",
+    "difficulty": "medium",
+    "question": "في Titanic، من خطيب روز الثري على متن السفينة؟",
+    "options": [
+      "توماس أندروز",
+      "كال هوكلي",
+      "جاك داوسون",
+      "فابريزيو"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "series",
+    "difficulty": "medium",
+    "question": "في Titanic، من الراكبة التي تقرض جاك بدلة أنيقة لعشاء الدرجة الأولى؟",
+    "options": [
+      "روث ديويت",
+      "ليزّي كالفيرت",
+      "هيلغا دال",
+      "مولي براون"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "series",
+    "difficulty": "medium",
+    "question": "في Forrest Gump، من الضابط الذي يقوده فقدان ساقيه إلى مرحلة جديدة من حياته؟",
+    "options": [
+      "الملازم دان",
+      "بوبا",
+      "ديك تايلور",
+      "المدرب براينت"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "series",
+    "difficulty": "medium",
+    "question": "في The Green Mile، من السجين الضخم الذي يملك قدرة غامضة على الشفاء؟",
+    "options": [
+      "جون كوفي",
+      "إدوارد ديلاكروكس",
+      "ويليام وارتون",
+      "آرلين بيتر بنك"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "series",
+    "difficulty": "medium",
+    "question": "في The Shawshank Redemption، من مدير السجن الفاسد الذي يستغل آندي؟",
+    "options": [
+      "بايرون هيدلي",
+      "ريد",
+      "تومي ويليامز",
+      "صامويل نورتون"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "series",
+    "difficulty": "medium",
+    "question": "في The Godfather، من ابن فيتو كورليوني الذي يتولى قيادة العائلة لاحقًا؟",
+    "options": [
+      "مايكل كورليوني",
+      "سوني كورليوني",
+      "فريدو كورليوني",
+      "توم هيغن"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "series",
+    "difficulty": "medium",
+    "question": "في The Godfather، من يقتل سولوتسو والشرطي ماكلوسكي في المطعم؟",
+    "options": [
+      "فريدو كورليوني",
+      "توم هيغن",
+      "مايكل كورليوني",
+      "سوني كورليوني"
     ],
     "correct": 2
   },
   {
     "category": "series",
     "difficulty": "hard",
-    "question": "من ألّف الموسيقى التصويرية لفيلم Jaws (1975)؟",
+    "question": "في The Godfather Part II، من شقيق مايكل الذي يُقتل بأمر منه؟",
     "options": [
-      "ترينت ريزنور وأتيكوس روس",
-      "لودفيغ غورانسون",
-      "جون ويليامز",
-      "جيمس هورنر"
+      "توم هيغن",
+      "فينسنت مانشيني",
+      "فريدو كورليوني",
+      "سوني كورليوني"
     ],
     "correct": 2
   },
   {
     "category": "series",
     "difficulty": "hard",
-    "question": "من ألّف الموسيقى التصويرية لفيلم Raiders of the Lost Ark (1981)؟",
+    "question": "في Gladiator، من الإمبراطور الذي يقتل والده للاستيلاء على العرش؟",
     "options": [
-      "جون ويليامز",
-      "إنيو موريكوني",
-      "لودفيغ غورانسون",
-      "هانز زيمر"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "series",
-    "difficulty": "hard",
-    "question": "من ألّف الموسيقى التصويرية لفيلم E.T. the Extra-Terrestrial (1982)؟",
-    "options": [
-      "ترينت ريزنور وأتيكوس روس",
-      "جون ويليامز",
-      "هوارد شور",
-      "لودفيغ غورانسون"
+      "غراتشوس",
+      "كومودوس",
+      "ماركوس أوريليوس",
+      "لوسيوس"
     ],
     "correct": 1
   },
   {
     "category": "series",
     "difficulty": "hard",
-    "question": "من ألّف الموسيقى التصويرية لفيلم Harry Potter and the Philosopher’s Stone (2001)؟",
+    "question": "في Gladiator، من الجنرال الروماني الذي يتحول إلى مقاتل في الحلبة؟",
     "options": [
-      "جون ويليامز",
-      "هوارد شور",
-      "إنيو موريكوني",
-      "جيمس هورنر"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "series",
-    "difficulty": "hard",
-    "question": "من ألّف الموسيقى التصويرية لفيلم Inception (2010)؟",
-    "options": [
-      "جيمس هورنر",
-      "هانز زيمر",
-      "ترينت ريزنور وأتيكوس روس",
-      "إنيو موريكوني"
+      "بروكسيمو",
+      "ماكسيموس",
+      "كومودوس",
+      "كوينتوس"
     ],
     "correct": 1
   },
   {
     "category": "series",
     "difficulty": "hard",
-    "question": "من ألّف الموسيقى التصويرية لفيلم Interstellar (2014)؟",
+    "question": "في Saving Private Ryan، من القائد الذي يقود فرقة البحث عن الجندي رايان؟",
     "options": [
-      "هوارد شور",
-      "لودفيغ غورانسون",
-      "جون ويليامز",
-      "هانز زيمر"
+      "مايكل هورفاث",
+      "دانيال جاكسون",
+      "ريتشارد رايبرن",
+      "جون ميلر"
     ],
     "correct": 3
   },
   {
     "category": "series",
     "difficulty": "hard",
-    "question": "من ألّف الموسيقى التصويرية لفيلم The Lion King (1994)، الموسيقى التصويرية الآلية؟",
+    "question": "في Jurassic Park، من مؤسس المنتزه الذي يدعو الخبراء لمعاينة الجزيرة قبل افتتاحها؟",
     "options": [
-      "هانز زيمر",
-      "جون ويليامز",
-      "جيمس هورنر",
-      "ترينت ريزنور وأتيكوس روس"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "series",
-    "difficulty": "hard",
-    "question": "من ألّف الموسيقى التصويرية لفيلم The Lord of the Rings: The Fellowship of the Ring (2001)؟",
-    "options": [
-      "هوارد شور",
-      "جيمس هورنر",
-      "هانز زيمر",
-      "لودفيغ غورانسون"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "series",
-    "difficulty": "hard",
-    "question": "من ألّف الموسيقى التصويرية لفيلم The Good, the Bad and the Ugly (1966)؟",
-    "options": [
-      "إنيو موريكوني",
-      "جون ويليامز",
-      "لودفيغ غورانسون",
-      "ترينت ريزنور وأتيكوس روس"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "series",
-    "difficulty": "hard",
-    "question": "من ألّف الموسيقى التصويرية لفيلم Once Upon a Time in the West (1968)؟",
-    "options": [
-      "جيمس هورنر",
-      "إنيو موريكوني",
-      "ترينت ريزنور وأتيكوس روس",
-      "جون ويليامز"
+      "هنري وو",
+      "جون هاموند",
+      "آلان غرانت",
+      "إيان مالكوم"
     ],
     "correct": 1
   },
   {
     "category": "series",
     "difficulty": "hard",
-    "question": "من ألّف الموسيقى التصويرية لفيلم Titanic (1997)؟",
+    "question": "في Jurassic Park، من عالم الرياضيات الذي يحذر من فوضى النظام البيئي بالمنتزه؟",
     "options": [
-      "جون ويليامز",
-      "جيمس هورنر",
-      "هوارد شور",
-      "ترينت ريزنور وأتيكوس روس"
+      "إيان مالكوم",
+      "آلان غرانت",
+      "هنري وو",
+      "روبرت مولدون"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "category": "series",
     "difficulty": "hard",
-    "question": "من ألّف الموسيقى التصويرية لفيلم Braveheart (1995)؟",
+    "question": "في Back to the Future، من العالم الذي يحوّل سيارة ديلوريان إلى آلة زمن؟",
     "options": [
-      "هوارد شور",
-      "ترينت ريزنور وأتيكوس روس",
-      "جيمس هورنر",
-      "جون ويليامز"
+      "جورج ماكفلاي",
+      "مارتي ماكفلاي",
+      "إيميت براون",
+      "بيف تانن"
     ],
     "correct": 2
   },
   {
     "category": "series",
     "difficulty": "hard",
-    "question": "من ألّف الموسيقى التصويرية لفيلم The Social Network (2010)؟",
+    "question": "في Back to the Future، من متنمر المدرسة الذي يواجهه جورج ماكفلاي؟",
     "options": [
-      "إنيو موريكوني",
-      "ترينت ريزنور وأتيكوس روس",
-      "هوارد شور",
-      "جيمس هورنر"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "series",
-    "difficulty": "hard",
-    "question": "من ألّف الموسيقى التصويرية لفيلم Oppenheimer (2023)؟",
-    "options": [
-      "ترينت ريزنور وأتيكوس روس",
-      "لودفيغ غورانسون",
-      "هوارد شور",
-      "جون ويليامز"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "series",
-    "difficulty": "hard",
-    "question": "أي فيلم فاز بأوسكار أفضل فيلم في حفل عام 1970؟",
-    "options": [
-      "Kramer vs. Kramer",
-      "Midnight Cowboy",
-      "Gandhi",
-      "The Sting"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "series",
-    "difficulty": "hard",
-    "question": "أي فيلم فاز بأوسكار أفضل فيلم في حفل عام 1971؟",
-    "options": [
-      "The Godfather Part II",
-      "Midnight Cowboy",
-      "Gandhi",
-      "Patton"
+      "ستريكلاند",
+      "غولدِي ويلسون",
+      "ديف ماكفلاي",
+      "بيف تانن"
     ],
     "correct": 3
   },
   {
     "category": "series",
     "difficulty": "hard",
-    "question": "أي فيلم فاز بأوسكار أفضل فيلم في حفل عام 1972؟",
+    "question": "في The Matrix، من العميل الذي يطارد نيو ومورفيوس داخل المحاكاة؟",
     "options": [
-      "Amadeus",
-      "The Deer Hunter",
-      "The French Connection",
-      "Terms of Endearment"
+      "براون",
+      "جونز",
+      "سايفر",
+      "سميث"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "series",
+    "difficulty": "hard",
+    "question": "في The Matrix، من يفضّل العودة إلى المحاكاة ويخون طاقم مورفيوس؟",
+    "options": [
+      "دوزر",
+      "أبوك",
+      "سايفر",
+      "تانك"
     ],
     "correct": 2
   },
   {
     "category": "series",
     "difficulty": "hard",
-    "question": "أي فيلم فاز بأوسكار أفضل فيلم في حفل عام 1973؟",
+    "question": "في Fight Club، ما اسم الشخصية التي يؤسس معها الراوي نادي القتال؟",
     "options": [
-      "The French Connection",
-      "The Godfather",
-      "Platoon",
-      "Rocky"
+      "روبرت بولسون",
+      "ريتشارد تشيسلر",
+      "مارلا سينغر",
+      "تايلر ديردن"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "series",
+    "difficulty": "hard",
+    "question": "في Se7en، من المحقق المخضرم الذي يستعد للتقاعد؟",
+    "options": [
+      "ضابط كاليفورنيا",
+      "ويليام سومرست",
+      "ديفيد ميلز",
+      "جون دو"
     ],
     "correct": 1
   },
   {
     "category": "series",
     "difficulty": "hard",
-    "question": "أي فيلم فاز بأوسكار أفضل فيلم في حفل عام 1974؟",
+    "question": "في The Silence of the Lambs، من القاتل المسجون الذي تستعين به كلاريس للتحقيق؟",
     "options": [
-      "The French Connection",
-      "Chariots of Fire",
-      "Out of Africa",
-      "The Sting"
+      "جاك كروفورد",
+      "هانيبال ليكتر",
+      "بافالو بيل",
+      "فريدريك تشيلتون"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "series",
+    "difficulty": "hard",
+    "question": "في Pirates of the Caribbean، من قائد سفينة اللؤلؤة السوداء بعد استردادها؟",
+    "options": [
+      "هيكتور باربوسا",
+      "ديفي جونز",
+      "ويل تيرنر",
+      "جاك سبارو"
     ],
     "correct": 3
   },
   {
     "category": "series",
     "difficulty": "hard",
-    "question": "أي فيلم فاز بأوسكار أفضل فيلم في حفل عام 1975؟",
+    "question": "في Pirates of the Caribbean: Dead Man’s Chest، لمن يدين جاك سبارو بروحه؟",
     "options": [
-      "The Sting",
-      "Midnight Cowboy",
-      "Gandhi",
-      "The Godfather Part II"
+      "هيكتور باربوسا",
+      "اللورد بيكيت",
+      "ويل تيرنر",
+      "ديفي جونز"
     ],
     "correct": 3
   },
   {
     "category": "series",
     "difficulty": "hard",
-    "question": "أي فيلم فاز بأوسكار أفضل فيلم في حفل عام 1976؟",
+    "question": "في The Hunger Games، من تتطوع بدل أختها في حصاد المقاطعة 12؟",
     "options": [
-      "Gandhi",
-      "Ordinary People",
-      "Patton",
-      "One Flew Over the Cuckoo’s Nest"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "series",
-    "difficulty": "hard",
-    "question": "أي فيلم فاز بأوسكار أفضل فيلم في حفل عام 1977؟",
-    "options": [
-      "The Godfather Part II",
-      "The Deer Hunter",
-      "Ordinary People",
-      "Rocky"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "series",
-    "difficulty": "hard",
-    "question": "أي فيلم فاز بأوسكار أفضل فيلم في حفل عام 1978؟",
-    "options": [
-      "The Sting",
-      "Midnight Cowboy",
-      "One Flew Over the Cuckoo’s Nest",
-      "Annie Hall"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "series",
-    "difficulty": "hard",
-    "question": "أي فيلم فاز بأوسكار أفضل فيلم في حفل عام 1979؟",
-    "options": [
-      "The Deer Hunter",
-      "Chariots of Fire",
-      "Amadeus",
-      "Out of Africa"
+      "كاتنيس إيفردين",
+      "بيتا ميلارك",
+      "غيل هوثورن",
+      "هايميتش أبيرناثي"
     ],
     "correct": 0
   },
   {
     "category": "series",
     "difficulty": "hard",
-    "question": "أي فيلم فاز بأوسكار أفضل فيلم في حفل عام 1980؟",
+    "question": "في The Hunger Games، من يشكل مع كاتنيس ثنائي المقاطعة 12 في الألعاب؟",
     "options": [
-      "Platoon",
-      "One Flew Over the Cuckoo’s Nest",
-      "Kramer vs. Kramer",
-      "The Deer Hunter"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "series",
-    "difficulty": "hard",
-    "question": "أي فيلم فاز بأوسكار أفضل فيلم في حفل عام 1981؟",
-    "options": [
-      "Chariots of Fire",
-      "Terms of Endearment",
-      "Kramer vs. Kramer",
-      "Ordinary People"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "series",
-    "difficulty": "hard",
-    "question": "أي فيلم فاز بأوسكار أفضل فيلم في حفل عام 1982؟",
-    "options": [
-      "Patton",
-      "The Sting",
-      "The French Connection",
-      "Chariots of Fire"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "series",
-    "difficulty": "hard",
-    "question": "أي فيلم فاز بأوسكار أفضل فيلم في حفل عام 1983؟",
-    "options": [
-      "Annie Hall",
-      "The Godfather Part II",
-      "One Flew Over the Cuckoo’s Nest",
-      "Gandhi"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "series",
-    "difficulty": "hard",
-    "question": "أي فيلم فاز بأوسكار أفضل فيلم في حفل عام 1984؟",
-    "options": [
-      "Gandhi",
-      "Platoon",
-      "Terms of Endearment",
-      "Midnight Cowboy"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "series",
-    "difficulty": "hard",
-    "question": "أي فيلم فاز بأوسكار أفضل فيلم في حفل عام 1985؟",
-    "options": [
-      "Amadeus",
-      "The Godfather Part II",
-      "The Deer Hunter",
-      "Gandhi"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "series",
-    "difficulty": "hard",
-    "question": "أي فيلم فاز بأوسكار أفضل فيلم في حفل عام 1986؟",
-    "options": [
-      "Rocky",
-      "Out of Africa",
-      "The French Connection",
-      "Annie Hall"
+      "كاتو",
+      "بيتا ميلارك",
+      "غيل هوثورن",
+      "فينيك أودير"
     ],
     "correct": 1
   },
   {
     "category": "series",
     "difficulty": "hard",
-    "question": "أي فيلم فاز بأوسكار أفضل فيلم في حفل عام 1987؟",
+    "question": "في The Boys، من قائد فريق ذا بويز الذي يكن عداءً لهوملاندر؟",
     "options": [
-      "One Flew Over the Cuckoo’s Nest",
-      "Platoon",
-      "The Deer Hunter",
-      "The Sting"
+      "فرينشي",
+      "مارفن ميلك",
+      "بيلي بوتشر",
+      "هيوي كامبل"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "series",
+    "difficulty": "hard",
+    "question": "في The Boys، من العضو السابق في ذا سيفن المعروف بلقب The Deep؟",
+    "options": [
+      "إيه ترين",
+      "بلاك نوير",
+      "ترانسلوسنت",
+      "كيفن موسكوفيتز"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "series",
+    "difficulty": "hard",
+    "question": "في The Boys، من الشخصية التي تملك قوة الضوء وتنضم إلى ذا سيفن؟",
+    "options": [
+      "كوين ميف",
+      "كيميكو",
+      "ستورمفرونت",
+      "ستارلايت"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "series",
+    "difficulty": "hard",
+    "question": "في Stranger Things، من الفتاة التي تملك قوى التحريك الذهني؟",
+    "options": [
+      "روبن",
+      "إليفن",
+      "ماكس",
+      "نانسي"
     ],
     "correct": 1
   },
   {
-    "category": "football",
-    "difficulty": "easy",
-    "question": "ما المنتخب الأول الذي مثّله كريستيانو رونالدو دوليًا؟",
+    "category": "series",
+    "difficulty": "hard",
+    "question": "في Stranger Things، من الشرطي الذي يبحث عن ويل بايرز في الموسم الأول؟",
     "options": [
-      "السويد",
-      "البرتغال",
-      "المغرب",
-      "كرواتيا"
+      "ستيف هارينغتون",
+      "جوناثان بايرز",
+      "موراي بومان",
+      "جيم هوبر"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "series",
+    "difficulty": "hard",
+    "question": "في Stranger Things، من يُعرف باسم فيكنا في العالم المقلوب؟",
+    "options": [
+      "مارتن برينر",
+      "هنري كريل",
+      "بيلي هارغروف",
+      "ويل بايرز"
     ],
     "correct": 1
   },
   {
-    "category": "football",
-    "difficulty": "easy",
-    "question": "ما المنتخب الأول الذي مثّله ليونيل ميسي دوليًا؟",
+    "category": "series",
+    "difficulty": "hard",
+    "question": "في Better Call Saul، ما الاسم الحقيقي للمحامي سول غودمان؟",
     "options": [
-      "الأرجنتين",
-      "الجزائر",
-      "إسبانيا",
-      "مصر"
+      "هوارد هاملين",
+      "كيم ويكسلر",
+      "جيمي ماكغيل",
+      "تشاك ماكغيل"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "series",
+    "difficulty": "hard",
+    "question": "في Better Call Saul، من شقيق جيمي الأكبر والمحامي الشريك في HHM؟",
+    "options": [
+      "هاورد هاملين",
+      "ناشو فارغا",
+      "مايك إيرمنتراوت",
+      "تشاك ماكغيل"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "series",
+    "difficulty": "hard",
+    "question": "في Better Call Saul، من المحامية التي تربطها علاقة عاطفية ومهنية بجيمي؟",
+    "options": [
+      "بيج نوفيك",
+      "إيرين بريل",
+      "فرانشيسكا ليدي",
+      "كيم ويكسلر"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "series",
+    "difficulty": "hard",
+    "question": "في Breaking Bad، من الشريك الشاب الذي يصنع الميثامفيتامين مع والتر؟",
+    "options": [
+      "جيسي بينكمان",
+      "تود ألكويست",
+      "غاس فرينغ",
+      "غايل بوتيكر"
     ],
     "correct": 0
   },
   {
-    "category": "football",
-    "difficulty": "easy",
-    "question": "ما المنتخب الأول الذي مثّله نيمار دوليًا؟",
+    "category": "series",
+    "difficulty": "hard",
+    "question": "في Breaking Bad، من مالك شركة غسيل السيارات الذي يبيعه لاحقًا لوالتر وسكايلر؟",
     "options": [
-      "الأرجنتين",
-      "البرازيل",
-      "مصر",
-      "الجزائر"
+      "سول غودمان",
+      "مايك إيرمنتراوت",
+      "بوغدان وولنيتس",
+      "غاس فرينغ"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "series",
+    "difficulty": "hard",
+    "question": "في Game of Thrones، من القزم الذي يتولى منصب يد الملك في عهد جوفري مؤقتًا؟",
+    "options": [
+      "بيتر بايليش",
+      "تيريون لانستر",
+      "تايوين لانستر",
+      "فاريس"
     ],
     "correct": 1
   },
   {
-    "category": "football",
-    "difficulty": "easy",
-    "question": "ما المنتخب الأول الذي مثّله كيليان مبابي دوليًا؟",
+    "category": "series",
+    "difficulty": "hard",
+    "question": "في Game of Thrones، من المبارز الذي يفقد يده اليمنى أثناء أسره؟",
     "options": [
-      "الأرجنتين",
-      "السنغال",
-      "ساحل العاج",
-      "فرنسا"
+      "ساندور كليغان",
+      "برون",
+      "جورا مورمونت",
+      "جيمي لانستر"
     ],
     "correct": 3
   },
   {
-    "category": "football",
-    "difficulty": "easy",
-    "question": "ما المنتخب الأول الذي مثّله محمد صلاح دوليًا؟",
+    "category": "series",
+    "difficulty": "hard",
+    "question": "في Game of Thrones، من يصبح ملك الممالك الست في نهاية المسلسل؟",
     "options": [
-      "البرتغال",
-      "البرازيل",
-      "بولندا",
-      "مصر"
+      "روب ستارك",
+      "ثيون غريجوي",
+      "بران ستارك",
+      "جون سنو"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "series",
+    "difficulty": "hard",
+    "question": "في Game of Thrones، من يقتحم حفل الزفاف الأحمر ويقتل روب ستارك؟",
+    "options": [
+      "والدر فراي",
+      "جيمي لانستر",
+      "ساندور كليغان",
+      "روز بولتون"
     ],
     "correct": 3
   },
   {
-    "category": "football",
-    "difficulty": "easy",
-    "question": "ما المنتخب الأول الذي مثّله رياض محرز دوليًا؟",
+    "category": "series",
+    "difficulty": "hard",
+    "question": "في Game of Thrones، من يقتل تايوين لانستر بقوس ونشاب في المرحاض؟",
     "options": [
-      "كوريا الجنوبية",
-      "مصر",
-      "الجزائر",
-      "أوروغواي"
+      "سانسا ستارك",
+      "آريا ستارك",
+      "تيريون لانستر",
+      "جيمي لانستر"
     ],
     "correct": 2
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question": "ما المنتخب الأول الذي مثّله سون هيونغ مين دوليًا؟",
+    "question": "من سجل هدف برشلونة الوحيد في نهائي دوري الأبطال 2011 أمام مانشستر يونايتد قبل هدف ميسي؟",
     "options": [
-      "إسبانيا",
-      "كوريا الجنوبية",
-      "ألمانيا",
-      "مصر"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "football",
-    "difficulty": "easy",
-    "question": "ما المنتخب الأول الذي مثّله لوكا مودريتش دوليًا؟",
-    "options": [
-      "السعودية",
-      "فرنسا",
-      "الأرجنتين",
-      "كرواتيا"
+      "ديفيد فيا",
+      "تشافي",
+      "أندريس إنييستا",
+      "بيدرو رودريغيز"
     ],
     "correct": 3
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question": "ما المنتخب الأول الذي مثّله روبرت ليفاندوفسكي دوليًا؟",
+    "question": "من سجل هدف برشلونة الثالث في نهائي دوري الأبطال 2011؟",
     "options": [
-      "المغرب",
-      "كوريا الجنوبية",
-      "أوروغواي",
-      "بولندا"
+      "تشافي",
+      "ديفيد فيا",
+      "ليونيل ميسي",
+      "بيدرو"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question": "من سجل هدف إسبانيا في نهائي كأس العالم 2010؟",
+    "options": [
+      "تشافي",
+      "ديفيد فيا",
+      "فرناندو توريس",
+      "أندريس إنييستا"
     ],
     "correct": 3
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question": "ما المنتخب الأول الذي مثّله إيرلينغ هالاند دوليًا؟",
+    "question": "من مرر الكرة الحاسمة لهدف إنييستا في نهائي كأس العالم 2010؟",
     "options": [
-      "كوريا الجنوبية",
-      "النرويج",
-      "إسبانيا",
-      "البرتغال"
+      "تشابي ألونسو",
+      "سيسك فابريغاس",
+      "تشافي",
+      "ديفيد سيلفا"
     ],
     "correct": 1
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question": "ما المنتخب الأول الذي مثّله زلاتان إبراهيموفيتش دوليًا؟",
+    "question": "من حرس مرمى إسبانيا في نهائي كأس العالم 2010؟",
     "options": [
-      "النرويج",
-      "السنغال",
-      "فرنسا",
-      "السويد"
+      "إيكر كاسياس",
+      "بيبي رينا",
+      "فيكتور فالديس",
+      "دافيد دي خيا"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question": "من سجل هدف الأرجنتين الأول أمام فرنسا في نهائي كأس العالم 2022؟",
+    "options": [
+      "جوليان ألفاريز",
+      "أليكسيس ماك أليستر",
+      "ليونيل ميسي",
+      "أنخيل دي ماريا"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question": "من سجل هدف الأرجنتين الثاني أمام فرنسا في نهائي كأس العالم 2022؟",
+    "options": [
+      "ليونيل ميسي",
+      "لاوتارو مارتينيز",
+      "إنزو فرنانديز",
+      "أنخيل دي ماريا"
     ],
     "correct": 3
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question": "ما المنتخب الأول الذي مثّله ديدييه دروغبا دوليًا؟",
+    "question": "من سجل هاتريك فرنسا في نهائي كأس العالم 2022؟",
     "options": [
-      "الجزائر",
-      "كوريا الجنوبية",
-      "ساحل العاج",
-      "الأرجنتين"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "football",
-    "difficulty": "easy",
-    "question": "ما المنتخب الأول الذي مثّله صامويل إيتو دوليًا؟",
-    "options": [
-      "السنغال",
-      "بولندا",
-      "الكاميرون",
-      "كرواتيا"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "football",
-    "difficulty": "easy",
-    "question": "ما المنتخب الأول الذي مثّله ساديو ماني دوليًا؟",
-    "options": [
-      "الأرجنتين",
-      "السعودية",
-      "السنغال",
-      "المغرب"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "football",
-    "difficulty": "easy",
-    "question": "ما المنتخب الأول الذي مثّله أشرف حكيمي دوليًا؟",
-    "options": [
-      "المغرب",
-      "الجزائر",
-      "البرتغال",
-      "السعودية"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "football",
-    "difficulty": "easy",
-    "question": "ما المنتخب الأول الذي مثّله لويس سواريز دوليًا؟",
-    "options": [
-      "أوروغواي",
-      "البرازيل",
-      "ألمانيا",
-      "إيطاليا"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "football",
-    "difficulty": "easy",
-    "question": "ما المنتخب الأول الذي مثّله أندريس إنييستا دوليًا؟",
-    "options": [
-      "مصر",
-      "إسبانيا",
-      "أوروغواي",
-      "إيطاليا"
+      "عثمان ديمبيلي",
+      "كيليان مبابي",
+      "أوليفييه جيرو",
+      "أنطوان غريزمان"
     ],
     "correct": 1
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question": "ما المنتخب الأول الذي مثّله جانلويجي بوفون دوليًا؟",
+    "question": "من تصدى لفرصة كولو مواني في الثواني الأخيرة من نهائي 2022؟",
     "options": [
-      "إيطاليا",
-      "أوروغواي",
-      "السعودية",
-      "بولندا"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "football",
-    "difficulty": "easy",
-    "question": "ما المنتخب الأول الذي مثّله مانويل نوير دوليًا؟",
-    "options": [
-      "البرتغال",
-      "ألمانيا",
-      "مصر",
-      "ساحل العاج"
+      "جيرونيمو رولي",
+      "إيميليانو مارتينيز",
+      "هوغو لوريس",
+      "فرانكو أرماني"
     ],
     "correct": 1
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question": "ما المنتخب الأول الذي مثّله سالم الدوسري دوليًا؟",
+    "question": "من سجل هدف كرواتيا أمام البرازيل في الوقت الإضافي لربع نهائي كأس العالم 2022؟",
     "options": [
-      "إسبانيا",
-      "السعودية",
-      "السويد",
-      "كرواتيا"
+      "ماريو باساليتش",
+      "برونو بيتكوفيتش",
+      "إيفان بيريشيتش",
+      "لوكا مودريتش"
     ],
     "correct": 1
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question": "إلى أي مدينة ينتمي نادي ريال مدريد؟",
+    "question": "من سجل هدف المغرب أمام البرتغال في ربع نهائي كأس العالم 2022؟",
     "options": [
-      "لندن",
-      "الخبر",
-      "ميلانو",
-      "مدريد"
+      "سفيان بوفال",
+      "حكيم زياش",
+      "عز الدين أوناحي",
+      "يوسف النصيري"
     ],
     "correct": 3
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question": "إلى أي مدينة ينتمي نادي برشلونة؟",
+    "question": "من سجل هدف المغرب أمام كندا في كأس العالم 2022 بعد خطأ الحارس؟",
     "options": [
-      "مانشستر",
-      "برشلونة",
-      "دورتموند",
-      "الرياض"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "football",
-    "difficulty": "easy",
-    "question": "إلى أي مدينة ينتمي نادي مانشستر يونايتد؟",
-    "options": [
-      "تورينو",
-      "مانشستر",
-      "باريس",
-      "ليفربول"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "football",
-    "difficulty": "easy",
-    "question": "إلى أي مدينة ينتمي نادي ليفربول؟",
-    "options": [
-      "ليفربول",
-      "الدمام",
-      "تورينو",
-      "الخبر"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "football",
-    "difficulty": "easy",
-    "question": "إلى أي مدينة ينتمي نادي أرسنال؟",
-    "options": [
-      "لندن",
-      "تورينو",
-      "الخبر",
-      "برشلونة"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "football",
-    "difficulty": "easy",
-    "question": "إلى أي مدينة ينتمي نادي ميلان؟",
-    "options": [
-      "ميلانو",
-      "دورتموند",
-      "الرياض",
-      "جدة"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "football",
-    "difficulty": "easy",
-    "question": "إلى أي مدينة ينتمي نادي يوفنتوس؟",
-    "options": [
-      "مدريد",
-      "ليفربول",
-      "تورينو",
-      "جدة"
+      "أشرف حكيمي",
+      "سفيان بوفال",
+      "حكيم زياش",
+      "يوسف النصيري"
     ],
     "correct": 2
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question": "إلى أي مدينة ينتمي نادي نابولي؟",
+    "question": "من سجل هدف السنغال الحاسم أمام الإكوادور في دور المجموعات بمونديال 2022؟",
     "options": [
-      "الدمام",
-      "ميونخ",
-      "ميلانو",
-      "نابولي"
+      "بولاي ديا",
+      "إدريسا غاي",
+      "كاليدو كوليبالي",
+      "إسماعيلا سار"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question": "من سجل هدف الهلال الأول أمام فلامنغو في نصف نهائي كأس العالم للأندية 2022؟",
+    "options": [
+      "سالم الدوسري",
+      "موسى ماريغا",
+      "لوسيانو فييتو",
+      "أندريه كاريلو"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question": "من سجل الهدف الثالث للهلال أمام فلامنغو في نصف نهائي كأس العالم للأندية 2022؟",
+    "options": [
+      "سالم الدوسري",
+      "موسى ماريغا",
+      "أندريه كاريلو",
+      "لوسيانو فييتو"
     ],
     "correct": 3
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question": "إلى أي مدينة ينتمي نادي بايرن ميونخ؟",
+    "question": "من سجل هدف ريال مدريد الثاني أمام بوروسيا دورتموند في نهائي دوري الأبطال 2024؟",
     "options": [
-      "لندن",
-      "الدمام",
-      "ميونخ",
-      "ميلانو"
+      "فينيسيوس جونيور",
+      "داني كارفاخال",
+      "رودريغو",
+      "جود بيلينغهام"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question": "إلى أي مدينة ينتمي نادي بوروسيا دورتموند؟",
+    "question": "من سجل هدف ريال مدريد الأول أمام دورتموند في نهائي دوري الأبطال 2024؟",
     "options": [
-      "ليفربول",
-      "دورتموند",
-      "جدة",
-      "ميلانو"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "football",
-    "difficulty": "easy",
-    "question": "إلى أي مدينة ينتمي نادي باريس سان جيرمان؟",
-    "options": [
-      "ليفربول",
-      "الدمام",
-      "مانشستر",
-      "باريس"
+      "فينيسيوس جونيور",
+      "خوسيلو",
+      "فيديريكو فالفيردي",
+      "داني كارفاخال"
     ],
     "correct": 3
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question": "إلى أي مدينة ينتمي نادي الهلال السعودي؟",
+    "question": "من صنع هدف كارفاخال الأول في نهائي دوري الأبطال 2024 من ركلة ركنية؟",
     "options": [
-      "الدمام",
-      "الخبر",
-      "الرياض",
-      "مدريد"
+      "توني كروس",
+      "لوكا مودريتش",
+      "جود بيلينغهام",
+      "إدواردو كامافينغا"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question": "من سجل ثنائية ريال مدريد أمام بايرن ميونخ في إياب نصف نهائي الأبطال 2024؟",
+    "options": [
+      "جود بيلينغهام",
+      "خوسيلو",
+      "فينيسيوس جونيور",
+      "رودريغو"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question": "من سجل هدف الفوز في نهائي يورو 2024 لإسبانيا أمام إنجلترا؟",
+    "options": [
+      "ميكيل أويارزابال",
+      "نيكو ويليامز",
+      "لامين يامال",
+      "ألفارو موراتا"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question": "من سجل الهدف الأول لإسبانيا في نهائي يورو 2024؟",
+    "options": [
+      "داني أولمو",
+      "ميكيل أويارزابال",
+      "فابيان رويز",
+      "نيكو ويليامز"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question": "من سجل هدف التعادل المؤقت لإنجلترا في نهائي يورو 2024؟",
+    "options": [
+      "بوكايو ساكا",
+      "كول بالمر",
+      "هاري كين",
+      "جود بيلينغهام"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question": "من كان مدرب منتخب إنجلترا في نهائي يورو 2024؟",
+    "options": [
+      "غاريث ساوثغيت",
+      "روبرتو مارتينيز",
+      "ديدييه ديشامب",
+      "يوليان ناغلسمان"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question": "من كان قائد منتخب الأرجنتين في نهائي كأس العالم 1986؟",
+    "options": [
+      "خورخي بوروتشاغا",
+      "دييغو مارادونا",
+      "خورخي فالدانو",
+      "أوسكار روجيري"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question": "من سجل هدف فوز الأرجنتين 3-2 أمام ألمانيا في نهائي كأس العالم 1986؟",
+    "options": [
+      "دييغو مارادونا",
+      "خوسيه لويس براون",
+      "خورخي بوروتشاغا",
+      "خورخي فالدانو"
     ],
     "correct": 2
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question": "إلى أي مدينة ينتمي نادي الاتحاد السعودي؟",
+    "question": "من سجل هدف إنجلترا الوحيد في نصف نهائي كأس العالم 1990 أمام ألمانيا؟",
     "options": [
-      "مانشستر",
-      "جدة",
-      "مدريد",
-      "ميونخ"
+      "غاري لينيكر",
+      "بول غاسكوين",
+      "كريس وادل",
+      "ديفيد بلات"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question": "من كان صاحب ركلة الترجيح الإيطالية الضائعة الأخيرة في نهائي كأس العالم 1994؟",
+    "options": [
+      "دانييلي ماسارو",
+      "فرانكو باريزي",
+      "ديميتريو ألبرتيني",
+      "روبرتو باجيو"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question": "من سجل هدف السنغال الذهبي أمام السويد في ثمن نهائي مونديال 2002؟",
+    "options": [
+      "الحاج ضيوف",
+      "بابا بوبا ديوب",
+      "خاليلو فاديغا",
+      "هنري كامارا"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question": "من سجل هدف السنغال أمام فرنسا في افتتاح كأس العالم 2002؟",
+    "options": [
+      "الحاج ضيوف",
+      "هنري كامارا",
+      "ساليف دياو",
+      "بابا بوبا ديوب"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question": "من سجل هدف البرتغال الوحيد في نهائي يورو 2016 أمام فرنسا؟",
+    "options": [
+      "ريكاردو كواريسما",
+      "إيدر",
+      "كريستيانو رونالدو",
+      "ناني"
     ],
     "correct": 1
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question": "إلى أي مدينة ينتمي نادي القادسية السعودي؟",
+    "question": "من سجل هدف فرنسا الأول في الفوز 4-2 على كرواتيا في نهائي مونديال 2018؟",
     "options": [
-      "مدريد",
-      "الخبر",
-      "ميونخ",
-      "باريس"
+      "هدف عكسي لماريو ماندزوكيتش",
+      "أنطوان غريزمان",
+      "كيليان مبابي",
+      "بول بوغبا"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "category": "football",
     "difficulty": "easy",
-    "question": "إلى أي مدينة ينتمي نادي الاتفاق السعودي؟",
+    "question": "من سجل الهدف الرابع لفرنسا أمام كرواتيا في نهائي مونديال 2018؟",
     "options": [
-      "تورينو",
-      "الدمام",
-      "ميلانو",
-      "ميونخ"
+      "كيليان مبابي",
+      "أنطوان غريزمان",
+      "بول بوغبا",
+      "أوليفييه جيرو"
     ],
-    "correct": 1
+    "correct": 0
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question": "من سجل هدف كرواتيا الثاني أمام فرنسا في نهائي مونديال 2018؟",
+    "options": [
+      "لوكا مودريتش",
+      "أنتي ريبيتش",
+      "ماريو ماندزوكيتش",
+      "إيفان بيريشيتش"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question": "من سجل هدف البرتغال الأول أمام سويسرا في ثمن نهائي كأس العالم 2022؟",
+    "options": [
+      "برونو فيرنانديز",
+      "جواو فيليكس",
+      "رفائيل لياو",
+      "غونسالو راموس"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "football",
+    "difficulty": "easy",
+    "question": "من سجل ثلاثية البرتغال أمام سويسرا في ثمن نهائي كأس العالم 2022؟",
+    "options": [
+      "كريستيانو رونالدو",
+      "برونو فيرنانديز",
+      "رفائيل لياو",
+      "غونسالو راموس"
+    ],
+    "correct": 3
   },
   {
     "category": "football",
@@ -8082,10 +6282,10 @@ window.BSM_QUESTIONS = [
     "difficulty": "hard",
     "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 1930؟",
     "options": [
-      "لويز فيليبي سكولاري",
-      "فيسنتي ديل بوسكي",
+      "ستابيل",
+      "جوزيف أوريديل",
       "ألبرتو سوبيتشي",
-      "خوان لوبيز"
+      "خوان لوكي"
     ],
     "correct": 2
   },
@@ -8094,21 +6294,21 @@ window.BSM_QUESTIONS = [
     "difficulty": "hard",
     "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 1934؟",
     "options": [
-      "إيمي جاكيه",
-      "لويز فيليبي سكولاري",
-      "ألبرتو سوبيتشي",
-      "فيتوريو بوتسو"
+      "أولدريتش نييدلي",
+      "كارل رابان",
+      "فيتوريو بوتسو",
+      "هوغو مايسل"
     ],
-    "correct": 3
+    "correct": 2
   },
   {
     "category": "football",
     "difficulty": "hard",
     "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 1938؟",
     "options": [
-      "سيزار لويس مينوتي",
-      "إيمي جاكيه",
+      "هوغو مايسل",
       "سيب هيربرغر",
+      "كارل رابان",
       "فيتوريو بوتسو"
     ],
     "correct": 3
@@ -8118,22 +6318,22 @@ window.BSM_QUESTIONS = [
     "difficulty": "hard",
     "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 1950؟",
     "options": [
+      "جورج راينور",
       "خوان لوبيز",
-      "ديدييه ديشامب",
-      "مارشيلو ليبي",
-      "ألف رامزي"
+      "فلافيو كوستا",
+      "ميلوراد أرسينييفيتش"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "football",
     "difficulty": "hard",
     "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 1954؟",
     "options": [
-      "ألبرتو سوبيتشي",
-      "فيتوريو بوتسو",
+      "فيسنتي فيولا",
+      "جورج راينور",
       "سيب هيربرغر",
-      "فيسنتي ديل بوسكي"
+      "غوستاف شيبيش"
     ],
     "correct": 2
   },
@@ -8142,93 +6342,93 @@ window.BSM_QUESTIONS = [
     "difficulty": "hard",
     "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 1958؟",
     "options": [
+      "ألبرت باتو",
       "فيسنتي فيولا",
-      "ألبرتو سوبيتشي",
-      "إيمي جاكيه",
-      "فيسنتي ديل بوسكي"
+      "جورج راينور",
+      "سيب هيربرغر"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "football",
     "difficulty": "hard",
     "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 1962؟",
     "options": [
-      "ألف رامزي",
+      "خوان كارلوس لورنزو",
+      "جوزيف ماسوبوست",
       "أيموري موريرا",
-      "يواخيم لوف",
-      "ليونيل سكالوني"
+      "فيسنتي فيولا"
     ],
-    "correct": 1
+    "correct": 2
   },
   {
     "category": "football",
     "difficulty": "hard",
     "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 1966؟",
     "options": [
+      "فاليري لوبانوفسكي",
+      "أيموري موريرا",
       "ألف رامزي",
-      "كارلوس بيلاردو",
-      "خوان لوبيز",
-      "فيتوريو بوتسو"
+      "هيلموت شون"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "football",
     "difficulty": "hard",
     "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 1970؟",
     "options": [
-      "ليونيل سكالوني",
       "ماريو زاغالو",
-      "فيتوريو بوتسو",
-      "ألف رامزي"
+      "هيلموت شون",
+      "ألف رامزي",
+      "سيزار لويس مينوتي"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "category": "football",
     "difficulty": "hard",
     "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 1974؟",
     "options": [
+      "رينوس ميخيلز",
+      "فلاديسلاو زامودا",
       "هيلموت شون",
-      "لويز فيليبي سكولاري",
-      "سيب هيربرغر",
-      "سيزار لويس مينوتي"
+      "ماريو زاغالو"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "football",
     "difficulty": "hard",
     "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 1978؟",
     "options": [
-      "إيمي جاكيه",
-      "إنزو بيرزوت",
-      "ماريو زاغالو",
-      "سيزار لويس مينوتي"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "football",
-    "difficulty": "hard",
-    "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 1982؟",
-    "options": [
-      "إنزو بيرزوت",
-      "ليونيل سكالوني",
-      "ألبرتو سوبيتشي",
-      "فرانتس بيكنباور"
+      "سيزار لويس مينوتي",
+      "رينوس ميخيلز",
+      "هيلموت شون",
+      "إنزو بيرزوت"
     ],
     "correct": 0
   },
   {
     "category": "football",
     "difficulty": "hard",
+    "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 1982؟",
+    "options": [
+      "ميشيل هيدالغو",
+      "إنزو بيرزوت",
+      "تيلي سانتانا",
+      "يوب ديرفال"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
     "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 1986؟",
     "options": [
-      "فيسنتي فيولا",
-      "إنزو بيرزوت",
       "فرانتس بيكنباور",
+      "هنري ميشيل",
+      "بوبي روبسون",
       "كارلوس بيلاردو"
     ],
     "correct": 3
@@ -8238,106 +6438,106 @@ window.BSM_QUESTIONS = [
     "difficulty": "hard",
     "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 1990؟",
     "options": [
-      "لويز فيليبي سكولاري",
-      "يواخيم لوف",
-      "فرانتس بيكنباور",
-      "سيب هيربرغر"
+      "كارلوس بيلاردو",
+      "بوبي روبسون",
+      "أزيليو فيتشيني",
+      "فرانتس بيكنباور"
     ],
-    "correct": 2
+    "correct": 3
   },
   {
     "category": "football",
     "difficulty": "hard",
     "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 1994؟",
     "options": [
-      "خوان لوبيز",
       "كارلوس ألبرتو باريرا",
-      "يواخيم لوف",
-      "إنزو بيرزوت"
+      "أريغو ساكي",
+      "بورا ميلوتينوفيتش",
+      "ألفيو باسيلي"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "category": "football",
     "difficulty": "hard",
     "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 1998؟",
     "options": [
-      "إنزو بيرزوت",
-      "لويز فيليبي سكولاري",
-      "يواخيم لوف",
-      "إيمي جاكيه"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "football",
-    "difficulty": "hard",
-    "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 2002؟",
-    "options": [
-      "فيسنتي فيولا",
-      "لويز فيليبي سكولاري",
-      "ألف رامزي",
-      "كارلوس ألبرتو باريرا"
+      "سيزار لويس مينوتي",
+      "إيمي جاكيه",
+      "ماريو زاغالو",
+      "غلين هودل"
     ],
     "correct": 1
   },
   {
     "category": "football",
     "difficulty": "hard",
-    "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 2006؟",
+    "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 2002؟",
     "options": [
-      "مارشيلو ليبي",
-      "كارلوس بيلاردو",
-      "فيتوريو بوتسو",
-      "ألف رامزي"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "football",
-    "difficulty": "hard",
-    "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 2010؟",
-    "options": [
-      "فيسنتي ديل بوسكي",
-      "ألف رامزي",
-      "أيموري موريرا",
+      "رودي فولر",
+      "غوس هيدينك",
+      "مارسيلو بيلسا",
       "لويز فيليبي سكولاري"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "football",
-    "difficulty": "hard",
-    "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 2014؟",
-    "options": [
-      "يواخيم لوف",
-      "ديدييه ديشامب",
-      "كارلوس بيلاردو",
-      "ليونيل سكالوني"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "football",
-    "difficulty": "hard",
-    "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 2018؟",
-    "options": [
-      "يواخيم لوف",
-      "فرانتس بيكنباور",
-      "لويز فيليبي سكولاري",
-      "ديدييه ديشامب"
     ],
     "correct": 3
   },
   {
     "category": "football",
     "difficulty": "hard",
+    "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 2006؟",
+    "options": [
+      "ريمون دومينيك",
+      "يورغن كلينسمان",
+      "لويس فيليبي سكولاري",
+      "مارشيلو ليبي"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 2010؟",
+    "options": [
+      "يواخيم لوف",
+      "أوسكار تاباريز",
+      "فيسنتي ديل بوسكي",
+      "بيرت فان مارفيك"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 2014؟",
+    "options": [
+      "أليخاندرو سابيلا",
+      "لويس فيليبي سكولاري",
+      "لويس فان خال",
+      "يواخيم لوف"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
+    "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 2018؟",
+    "options": [
+      "روبرتو مارتينيز",
+      "غاريث ساوثغيت",
+      "ديدييه ديشامب",
+      "زلاتكو داليتش"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "football",
+    "difficulty": "hard",
     "question": "من كان مدرب المنتخب الفائز بكأس العالم للرجال عام 2022؟",
     "options": [
-      "كارلوس بيلاردو",
-      "ديدييه ديشامب",
+      "زلاتكو داليتش",
+      "وليد الركراكي",
       "ليونيل سكالوني",
-      "ألبرتو سوبيتشي"
+      "ديدييه ديشامب"
     ],
     "correct": 2
   },
@@ -8346,21 +6546,21 @@ window.BSM_QUESTIONS = [
     "difficulty": "hard",
     "question": "من فاز بجائزة الكرة الذهبية لأفضل لاعب في كأس العالم للرجال نسخة 1982؟",
     "options": [
-      "رونالدو نازاريو",
-      "زين الدين زيدان",
-      "روماريو",
-      "باولو روسي"
+      "باولو روسي",
+      "زيكو",
+      "كارل هاينتس رومينيغه",
+      "ميشيل بلاتيني"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "category": "football",
     "difficulty": "hard",
     "question": "من فاز بجائزة الكرة الذهبية لأفضل لاعب في كأس العالم للرجال نسخة 1986؟",
     "options": [
-      "رونالدو نازاريو",
-      "أوليفر كان",
-      "روماريو",
+      "غاري لينيكر",
+      "خورخي فالدانو",
+      "إميليو بوتراغينيو",
       "دييغو مارادونا"
     ],
     "correct": 3
@@ -8370,34 +6570,34 @@ window.BSM_QUESTIONS = [
     "difficulty": "hard",
     "question": "من فاز بجائزة الكرة الذهبية لأفضل لاعب في كأس العالم للرجال نسخة 1990؟",
     "options": [
-      "باولو روسي",
+      "أندرياس بريمه",
+      "دييغو مارادونا",
       "سالڤاتوري سكيلاتشي",
-      "زين الدين زيدان",
-      "دييغو فورلان"
+      "لوثار ماتيوس"
     ],
-    "correct": 1
+    "correct": 2
   },
   {
     "category": "football",
     "difficulty": "hard",
     "question": "من فاز بجائزة الكرة الذهبية لأفضل لاعب في كأس العالم للرجال نسخة 1994؟",
     "options": [
-      "دييغو فورلان",
-      "رونالدو نازاريو",
-      "باولو روسي",
-      "روماريو"
+      "روماريو",
+      "روبرتو باجيو",
+      "ستويتشكوف",
+      "بيبيتو"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "category": "football",
     "difficulty": "hard",
     "question": "من فاز بجائزة الكرة الذهبية لأفضل لاعب في كأس العالم للرجال نسخة 1998؟",
     "options": [
-      "ليونيل ميسي",
-      "زين الدين زيدان",
+      "دافور شوكر",
+      "ليليان تورام",
       "رونالدو نازاريو",
-      "باولو روسي"
+      "زين الدين زيدان"
     ],
     "correct": 2
   },
@@ -8406,9 +6606,9 @@ window.BSM_QUESTIONS = [
     "difficulty": "hard",
     "question": "من فاز بجائزة الكرة الذهبية لأفضل لاعب في كأس العالم للرجال نسخة 2002؟",
     "options": [
-      "باولو روسي",
-      "دييغو فورلان",
-      "سالڤاتوري سكيلاتشي",
+      "رونالدو نازاريو",
+      "ريفالدو",
+      "رونالدينيو",
       "أوليفر كان"
     ],
     "correct": 3
@@ -8418,22 +6618,22 @@ window.BSM_QUESTIONS = [
     "difficulty": "hard",
     "question": "من فاز بجائزة الكرة الذهبية لأفضل لاعب في كأس العالم للرجال نسخة 2006؟",
     "options": [
-      "باولو روسي",
-      "سالڤاتوري سكيلاتشي",
-      "زين الدين زيدان",
-      "روماريو"
+      "أندريا بيرلو",
+      "فابيو كانافارو",
+      "تييري هنري",
+      "زين الدين زيدان"
     ],
-    "correct": 2
+    "correct": 3
   },
   {
     "category": "football",
     "difficulty": "hard",
     "question": "من فاز بجائزة الكرة الذهبية لأفضل لاعب في كأس العالم للرجال نسخة 2010؟",
     "options": [
-      "أوليفر كان",
+      "أندريس إنييستا",
       "دييغو فورلان",
-      "روماريو",
-      "رونالدو نازاريو"
+      "توماس مولر",
+      "دافيد فيا"
     ],
     "correct": 1
   },
@@ -8442,34 +6642,34 @@ window.BSM_QUESTIONS = [
     "difficulty": "hard",
     "question": "من فاز بجائزة الكرة الذهبية لأفضل لاعب في كأس العالم للرجال نسخة 2014؟",
     "options": [
-      "ليونيل ميسي",
-      "دييغو فورلان",
-      "باولو روسي",
-      "رونالدو نازاريو"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "countries",
-    "difficulty": "easy",
-    "question": "ما عاصمة السعودية؟",
-    "options": [
-      "طوكيو",
-      "إسلام آباد",
-      "مدينة الكويت",
-      "الرياض"
+      "توماس مولر",
+      "آريين روبن",
+      "خافيير ماسكيرانو",
+      "ليونيل ميسي"
     ],
     "correct": 3
   },
   {
     "category": "countries",
     "difficulty": "easy",
+    "question": "ما عاصمة السعودية؟",
+    "options": [
+      "الدمام",
+      "جدة",
+      "الرياض",
+      "الطائف"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "countries",
+    "difficulty": "easy",
     "question": "ما عاصمة الكويت؟",
     "options": [
-      "كانبرا",
-      "دمشق",
+      "الجهراء",
+      "حولي",
       "مدينة الكويت",
-      "طرابلس"
+      "الأحمدي"
     ],
     "correct": 2
   },
@@ -8478,96 +6678,96 @@ window.BSM_QUESTIONS = [
     "difficulty": "easy",
     "question": "ما عاصمة البحرين؟",
     "options": [
-      "بغداد",
-      "الدوحة",
-      "مدينة الكويت",
-      "المنامة"
+      "المنامة",
+      "مدينة عيسى",
+      "المحرق",
+      "الرفاع"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "category": "countries",
     "difficulty": "easy",
     "question": "ما عاصمة قطر؟",
     "options": [
-      "باريس",
-      "كانبرا",
       "الدوحة",
-      "إسلام آباد"
+      "الوكرة",
+      "الخور",
+      "الريان"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "category": "countries",
     "difficulty": "easy",
     "question": "ما عاصمة الإمارات؟",
     "options": [
-      "روما",
-      "طوكيو",
-      "أنقرة",
-      "أبوظبي"
+      "العين",
+      "أبوظبي",
+      "دبي",
+      "الشارقة"
     ],
-    "correct": 3
+    "correct": 1
   },
   {
     "category": "countries",
     "difficulty": "easy",
     "question": "ما عاصمة عُمان؟",
     "options": [
-      "باريس",
-      "مسقط",
-      "موسكو",
-      "الرباط"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "countries",
-    "difficulty": "easy",
-    "question": "ما عاصمة مصر؟",
-    "options": [
-      "لشبونة",
-      "القاهرة",
-      "هلسنكي",
-      "مدينة الكويت"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "countries",
-    "difficulty": "easy",
-    "question": "ما عاصمة الأردن؟",
-    "options": [
-      "عمّان",
-      "الدوحة",
-      "هلسنكي",
-      "أنقرة"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "countries",
-    "difficulty": "easy",
-    "question": "ما عاصمة لبنان؟",
-    "options": [
-      "مسقط",
-      "بكين",
-      "أثينا",
-      "بيروت"
+      "نزوى",
+      "صلالة",
+      "صحار",
+      "مسقط"
     ],
     "correct": 3
   },
   {
     "category": "countries",
     "difficulty": "easy",
-    "question": "ما عاصمة سوريا؟",
+    "question": "ما عاصمة مصر؟",
     "options": [
-      "دمشق",
+      "الأقصر",
+      "الإسكندرية",
       "القاهرة",
-      "المنامة",
-      "بكين"
+      "المنصورة"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "countries",
+    "difficulty": "easy",
+    "question": "ما عاصمة الأردن؟",
+    "options": [
+      "الزرقاء",
+      "عمّان",
+      "العقبة",
+      "إربد"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "countries",
+    "difficulty": "easy",
+    "question": "ما عاصمة لبنان؟",
+    "options": [
+      "بيروت",
+      "صور",
+      "صيدا",
+      "طرابلس"
     ],
     "correct": 0
+  },
+  {
+    "category": "countries",
+    "difficulty": "easy",
+    "question": "ما عاصمة سوريا؟",
+    "options": [
+      "حلب",
+      "اللاذقية",
+      "حمص",
+      "دمشق"
+    ],
+    "correct": 3
   },
   {
     "category": "countries",
@@ -8575,9 +6775,9 @@ window.BSM_QUESTIONS = [
     "question": "ما عاصمة العراق؟",
     "options": [
       "بغداد",
-      "مدريد",
-      "طرابلس",
-      "برلين"
+      "البصرة",
+      "الموصل",
+      "أربيل"
     ],
     "correct": 0
   },
@@ -8586,36 +6786,36 @@ window.BSM_QUESTIONS = [
     "difficulty": "easy",
     "question": "ما عاصمة المغرب؟",
     "options": [
-      "باريس",
-      "لشبونة",
-      "بغداد",
-      "الرباط"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "countries",
-    "difficulty": "easy",
-    "question": "ما عاصمة الجزائر؟",
-    "options": [
-      "الجزائر",
-      "عمّان",
-      "الرياض",
-      "واشنطن العاصمة"
+      "الرباط",
+      "مراكش",
+      "فاس",
+      "الدار البيضاء"
     ],
     "correct": 0
   },
   {
     "category": "countries",
     "difficulty": "easy",
+    "question": "أي مدينة جزائرية تتخذها الدولة مقرًا للحكومة المركزية؟",
+    "options": [
+      "وهران",
+      "قسنطينة",
+      "عنابة",
+      "الجزائر العاصمة"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "countries",
+    "difficulty": "easy",
     "question": "ما عاصمة تونس؟",
     "options": [
-      "بغداد",
-      "بكين",
-      "تونس",
-      "طهران"
+      "القيروان",
+      "سوسة",
+      "صفاقس",
+      "تونس"
     ],
-    "correct": 2
+    "correct": 3
   },
   {
     "category": "countries",
@@ -8623,9 +6823,9 @@ window.BSM_QUESTIONS = [
     "question": "ما عاصمة ليبيا؟",
     "options": [
       "طرابلس",
-      "هانوي",
-      "أثينا",
-      "بكين"
+      "مصراتة",
+      "بنغازي",
+      "سبها"
     ],
     "correct": 0
   },
@@ -8634,12 +6834,12 @@ window.BSM_QUESTIONS = [
     "difficulty": "easy",
     "question": "ما عاصمة تركيا؟",
     "options": [
-      "الدوحة",
-      "واشنطن العاصمة",
-      "أوتاوا",
-      "أنقرة"
+      "أنقرة",
+      "إزمير",
+      "إسطنبول",
+      "أنطاليا"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "category": "countries",
@@ -8647,9 +6847,9 @@ window.BSM_QUESTIONS = [
     "question": "ما عاصمة إيران؟",
     "options": [
       "طهران",
-      "أثينا",
-      "مدينة الكويت",
-      "لندن"
+      "شيراز",
+      "تبريز",
+      "أصفهان"
     ],
     "correct": 0
   },
@@ -8659,9 +6859,9 @@ window.BSM_QUESTIONS = [
     "question": "ما عاصمة اليابان؟",
     "options": [
       "طوكيو",
-      "بكين",
-      "بانكوك",
-      "كانبرا"
+      "أوساكا",
+      "ناغويا",
+      "كيوتو"
     ],
     "correct": 0
   },
@@ -8670,105 +6870,105 @@ window.BSM_QUESTIONS = [
     "difficulty": "easy",
     "question": "ما عاصمة الصين؟",
     "options": [
-      "الجزائر",
-      "طوكيو",
+      "شنتشن",
       "بكين",
-      "واشنطن العاصمة"
+      "شنغهاي",
+      "غوانزو"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
     "category": "countries",
     "difficulty": "easy",
     "question": "ما عاصمة كوريا الجنوبية؟",
     "options": [
-      "واشنطن العاصمة",
       "سيول",
-      "مدينة الكويت",
-      "مانيلا"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "countries",
-    "difficulty": "easy",
-    "question": "ما عاصمة الهند؟",
-    "options": [
-      "باريس",
-      "نيودلهي",
-      "بانكوك",
-      "الجزائر"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "countries",
-    "difficulty": "easy",
-    "question": "ما عاصمة باكستان؟",
-    "options": [
-      "كانبرا",
-      "طرابلس",
-      "إسلام آباد",
-      "هانوي"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "countries",
-    "difficulty": "easy",
-    "question": "ما عاصمة تايلاند؟",
-    "options": [
-      "كوبنهاغن",
-      "طهران",
-      "كانبرا",
-      "بانكوك"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "countries",
-    "difficulty": "easy",
-    "question": "ما عاصمة فيتنام؟",
-    "options": [
-      "أوتاوا",
-      "روما",
-      "هانوي",
-      "أنقرة"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "countries",
-    "difficulty": "easy",
-    "question": "ما عاصمة الفلبين؟",
-    "options": [
-      "بيروت",
-      "مانيلا",
-      "أبوظبي",
-      "طرابلس"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "countries",
-    "difficulty": "easy",
-    "question": "ما عاصمة روسيا؟",
-    "options": [
-      "موسكو",
-      "نيودلهي",
-      "ستوكهولم",
-      "عمّان"
+      "إنتشون",
+      "بوسان",
+      "دايغو"
     ],
     "correct": 0
   },
   {
     "category": "countries",
     "difficulty": "easy",
+    "question": "ما عاصمة الهند؟",
+    "options": [
+      "تشيناي",
+      "مومباي",
+      "كولكاتا",
+      "نيودلهي"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "countries",
+    "difficulty": "easy",
+    "question": "ما عاصمة باكستان؟",
+    "options": [
+      "لاهور",
+      "إسلام آباد",
+      "بيشاور",
+      "كراتشي"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "countries",
+    "difficulty": "easy",
+    "question": "ما عاصمة تايلاند؟",
+    "options": [
+      "بانكوك",
+      "شيانغ ماي",
+      "بوكيت",
+      "باتايا"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "countries",
+    "difficulty": "easy",
+    "question": "ما عاصمة فيتنام؟",
+    "options": [
+      "هانوي",
+      "هوي",
+      "هو تشي منه",
+      "دا نانغ"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "countries",
+    "difficulty": "easy",
+    "question": "ما عاصمة الفلبين؟",
+    "options": [
+      "دافاو",
+      "باغيو",
+      "مانيلا",
+      "سيبو"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "countries",
+    "difficulty": "easy",
+    "question": "ما عاصمة روسيا؟",
+    "options": [
+      "قازان",
+      "سانت بطرسبرغ",
+      "موسكو",
+      "نوفوسيبيرسك"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "countries",
+    "difficulty": "easy",
     "question": "ما عاصمة فرنسا؟",
     "options": [
-      "طوكيو",
-      "طرابلس",
-      "الرياض",
+      "بوردو",
+      "مارسيليا",
+      "ليون",
       "باريس"
     ],
     "correct": 3
@@ -8779,9 +6979,9 @@ window.BSM_QUESTIONS = [
     "question": "ما عاصمة ألمانيا؟",
     "options": [
       "برلين",
-      "بيروت",
-      "بانكوك",
-      "المنامة"
+      "هامبورغ",
+      "فرانكفورت",
+      "ميونخ"
     ],
     "correct": 0
   },
@@ -8790,22 +6990,22 @@ window.BSM_QUESTIONS = [
     "difficulty": "easy",
     "question": "ما عاصمة إيطاليا؟",
     "options": [
-      "القاهرة",
-      "بكين",
       "روما",
-      "أثينا"
+      "فلورنسا",
+      "ميلانو",
+      "البندقية"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "category": "countries",
     "difficulty": "easy",
     "question": "ما عاصمة إسبانيا؟",
     "options": [
-      "بانكوك",
+      "إشبيلية",
       "مدريد",
-      "طرابلس",
-      "نيودلهي"
+      "فالنسيا",
+      "برشلونة"
     ],
     "correct": 1
   },
@@ -8814,10 +7014,10 @@ window.BSM_QUESTIONS = [
     "difficulty": "easy",
     "question": "ما عاصمة البرتغال؟",
     "options": [
-      "ستوكهولم",
-      "برلين",
+      "كويمبرا",
+      "بورتو",
       "لشبونة",
-      "روما"
+      "براغا"
     ],
     "correct": 2
   },
@@ -8826,84 +7026,84 @@ window.BSM_QUESTIONS = [
     "difficulty": "easy",
     "question": "ما عاصمة المملكة المتحدة؟",
     "options": [
-      "دمشق",
-      "هانوي",
       "لندن",
-      "بيروت"
+      "ليفربول",
+      "مانشستر",
+      "برمنغهام"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "category": "countries",
     "difficulty": "easy",
     "question": "ما عاصمة اليونان؟",
     "options": [
-      "أوسلو",
-      "دمشق",
-      "الرباط",
-      "أثينا"
+      "أثينا",
+      "لاريسا",
+      "سالونيك",
+      "باتراس"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "category": "countries",
     "difficulty": "easy",
     "question": "ما عاصمة السويد؟",
     "options": [
-      "بغداد",
-      "طهران",
       "ستوكهولم",
-      "أثينا"
+      "أوبسالا",
+      "مالمو",
+      "غوتنبرغ"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "category": "countries",
     "difficulty": "easy",
     "question": "ما عاصمة النرويج؟",
     "options": [
-      "لشبونة",
-      "عمّان",
-      "كانبرا",
-      "أوسلو"
+      "ستافنغر",
+      "تروندهايم",
+      "أوسلو",
+      "بيرغن"
     ],
-    "correct": 3
+    "correct": 2
   },
   {
     "category": "countries",
     "difficulty": "easy",
     "question": "ما عاصمة الدنمارك؟",
     "options": [
-      "موسكو",
-      "برلين",
-      "لندن",
-      "كوبنهاغن"
+      "آلبورغ",
+      "كوبنهاغن",
+      "آرهوس",
+      "أودنسه"
     ],
-    "correct": 3
+    "correct": 1
   },
   {
     "category": "countries",
     "difficulty": "easy",
     "question": "ما عاصمة فنلندا؟",
     "options": [
-      "موسكو",
-      "أبوظبي",
       "هلسنكي",
-      "واشنطن العاصمة"
+      "تامبيري",
+      "أولو",
+      "توركو"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "category": "countries",
     "difficulty": "easy",
     "question": "ما عاصمة أستراليا؟",
     "options": [
-      "موسكو",
-      "المنامة",
-      "كانبرا",
-      "بكين"
+      "سيدني",
+      "بريزبن",
+      "ملبورن",
+      "كانبرا"
     ],
-    "correct": 2
+    "correct": 3
   },
   {
     "category": "countries",
@@ -8911,9 +7111,9 @@ window.BSM_QUESTIONS = [
     "question": "ما عاصمة كندا؟",
     "options": [
       "أوتاوا",
-      "بغداد",
-      "مانيلا",
-      "لندن"
+      "فانكوفر",
+      "تورونتو",
+      "مونتريال"
     ],
     "correct": 0
   },
@@ -8922,94 +7122,94 @@ window.BSM_QUESTIONS = [
     "difficulty": "easy",
     "question": "ما عاصمة الولايات المتحدة؟",
     "options": [
+      "شيكاغو",
       "واشنطن العاصمة",
-      "نيودلهي",
-      "هلسنكي",
-      "الرباط"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "countries",
-    "difficulty": "medium",
-    "question": "ما العملة الوطنية في السعودية؟",
-    "options": [
-      "الوون الكوري الجنوبي",
-      "الروبية الهندية",
-      "الدرهم الإماراتي",
-      "الريال السعودي"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "countries",
-    "difficulty": "medium",
-    "question": "ما العملة الوطنية في الكويت؟",
-    "options": [
-      "الريال العُماني",
-      "البير الإثيوبي",
-      "الدينار الكويتي",
-      "الليرة التركية"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "countries",
-    "difficulty": "medium",
-    "question": "ما العملة الوطنية في البحرين؟",
-    "options": [
-      "الوون الكوري الجنوبي",
-      "الدينار البحريني",
-      "الروبية الإندونيسية",
-      "الليرة التركية"
+      "نيويورك",
+      "لوس أنجلوس"
     ],
     "correct": 1
   },
   {
     "category": "countries",
     "difficulty": "medium",
-    "question": "ما العملة الوطنية في قطر؟",
+    "question": "ما العملة الوطنية في السعودية؟",
     "options": [
-      "الدينار الليبي",
-      "الجنيه المصري",
-      "الراند الجنوب أفريقي",
-      "الريال القطري"
+      "الريال السعودي",
+      "الريال القطري",
+      "الريال العُماني",
+      "الريال الإيراني"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "countries",
+    "difficulty": "medium",
+    "question": "ما العملة الوطنية في الكويت؟",
+    "options": [
+      "الدينار البحريني",
+      "الدينار الأردني",
+      "الدينار العراقي",
+      "الدينار الكويتي"
     ],
     "correct": 3
+  },
+  {
+    "category": "countries",
+    "difficulty": "medium",
+    "question": "ما العملة الوطنية في البحرين؟",
+    "options": [
+      "الدينار البحريني",
+      "الدرهم الإماراتي",
+      "الدرهم المغربي",
+      "الريال القطري"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "countries",
+    "difficulty": "medium",
+    "question": "ما العملة الوطنية في قطر؟",
+    "options": [
+      "الريال القطري",
+      "الريال السعودي",
+      "الريال العُماني",
+      "الريال الإيراني"
+    ],
+    "correct": 0
   },
   {
     "category": "countries",
     "difficulty": "medium",
     "question": "ما العملة الوطنية في الإمارات؟",
     "options": [
-      "الأوقية الموريتانية",
-      "البير الإثيوبي",
+      "الريال القطري",
       "الدرهم الإماراتي",
-      "الليرة التركية"
+      "الدرهم المغربي",
+      "الدينار البحريني"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
     "category": "countries",
     "difficulty": "medium",
     "question": "ما العملة الوطنية في عُمان؟",
     "options": [
-      "النايرا النيجيرية",
-      "الأوقية الموريتانية",
-      "البيزو الفلبيني",
-      "الريال العُماني"
+      "الريال العُماني",
+      "الريال السعودي",
+      "الريال القطري",
+      "الريال الإيراني"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "category": "countries",
     "difficulty": "medium",
     "question": "ما العملة الوطنية في مصر؟",
     "options": [
-      "الدينار البحريني",
+      "الدينار الليبي",
       "الجنيه المصري",
-      "الرينغيت الماليزي",
-      "الريال الإيراني"
+      "الجنيه السوداني",
+      "الليرة اللبنانية"
     ],
     "correct": 1
   },
@@ -9018,57 +7218,57 @@ window.BSM_QUESTIONS = [
     "difficulty": "medium",
     "question": "ما العملة الوطنية في الأردن؟",
     "options": [
+      "الدينار العراقي",
       "الدينار الأردني",
-      "الريال الإيراني",
-      "الدينار البحريني",
-      "الرينغيت الماليزي"
+      "الدينار الكويتي",
+      "الدينار البحريني"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "countries",
     "difficulty": "medium",
     "question": "ما العملة الوطنية في المغرب؟",
     "options": [
-      "الجنيه المصري",
-      "الدرهم الإماراتي",
+      "الريال القطري",
       "الدرهم المغربي",
-      "الريال العُماني"
+      "الدرهم الإماراتي",
+      "الدينار البحريني"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
     "category": "countries",
     "difficulty": "medium",
     "question": "ما العملة الوطنية في الجزائر؟",
     "options": [
-      "الدونغ الفيتنامي",
-      "البات التايلاندي",
-      "الدينار الجزائري",
-      "الروبية الباكستانية"
+      "الدينار الكويتي",
+      "الدينار البحريني",
+      "الدينار الأردني",
+      "الدينار الجزائري"
     ],
-    "correct": 2
+    "correct": 3
   },
   {
     "category": "countries",
     "difficulty": "medium",
     "question": "ما العملة الوطنية في تونس؟",
     "options": [
-      "الريال العُماني",
-      "الرينغيت الماليزي",
-      "الدينار التونسي",
-      "الأوقية الموريتانية"
+      "الدينار الكويتي",
+      "الدينار البحريني",
+      "الدينار الأردني",
+      "الدينار التونسي"
     ],
-    "correct": 2
+    "correct": 3
   },
   {
     "category": "countries",
     "difficulty": "medium",
     "question": "ما العملة الوطنية في ليبيا؟",
     "options": [
-      "الدينار الكويتي",
-      "الروبية الهندية",
-      "الدونغ الفيتنامي",
+      "الجنيه المصري",
+      "الجنيه السوداني",
+      "الليرة اللبنانية",
       "الدينار الليبي"
     ],
     "correct": 3
@@ -9090,22 +7290,22 @@ window.BSM_QUESTIONS = [
     "difficulty": "medium",
     "question": "ما العملة الوطنية في تركيا؟",
     "options": [
-      "الدرهم الإماراتي",
-      "الدونغ الفيتنامي",
       "الليرة التركية",
-      "الرينغيت الماليزي"
+      "الليرة السورية",
+      "الليرة اللبنانية",
+      "الريال الإيراني"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "category": "countries",
     "difficulty": "medium",
     "question": "ما العملة الوطنية في إيران؟",
     "options": [
-      "الليرة التركية",
-      "الدرهم الإماراتي",
+      "الريال القطري",
+      "الريال العُماني",
       "الريال الإيراني",
-      "الدرهم المغربي"
+      "الريال السعودي"
     ],
     "correct": 2
   },
@@ -9115,9 +7315,9 @@ window.BSM_QUESTIONS = [
     "question": "ما العملة الوطنية في اليابان؟",
     "options": [
       "الين الياباني",
-      "الدينار الكويتي",
-      "البات التايلاندي",
-      "الروبية الهندية"
+      "الوون الكوري الجنوبي",
+      "اليوان الصيني",
+      "الدولار التايواني"
     ],
     "correct": 0
   },
@@ -9126,24 +7326,24 @@ window.BSM_QUESTIONS = [
     "difficulty": "medium",
     "question": "ما العملة الوطنية في الصين؟",
     "options": [
+      "الوون الكوري الجنوبي",
+      "الدولار التايواني",
       "اليوان الصيني",
-      "الروبية الهندية",
-      "النايرا النيجيرية",
-      "الجنيه المصري"
+      "الين الياباني"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "countries",
     "difficulty": "medium",
     "question": "ما العملة الوطنية في كوريا الجنوبية؟",
     "options": [
-      "الوون الكوري الجنوبي",
-      "الدينار الأردني",
-      "الأوقية الموريتانية",
-      "الجنيه المصري"
+      "الين الياباني",
+      "اليوان الصيني",
+      "الدولار التايواني",
+      "الوون الكوري الجنوبي"
     ],
-    "correct": 0
+    "correct": 3
   },
   {
     "category": "countries",
@@ -9151,9 +7351,9 @@ window.BSM_QUESTIONS = [
     "question": "ما العملة الوطنية في الهند؟",
     "options": [
       "الروبية الهندية",
-      "الروبية الباكستانية",
-      "الدينار الجزائري",
-      "الدينار البحريني"
+      "التاكا البنغلاديشية",
+      "الروبية السريلانكية",
+      "الروبية النيبالية"
     ],
     "correct": 0
   },
@@ -9162,46 +7362,46 @@ window.BSM_QUESTIONS = [
     "difficulty": "medium",
     "question": "ما العملة الوطنية في باكستان؟",
     "options": [
+      "الروبية النيبالية",
+      "الروبية السريلانكية",
       "الروبية الباكستانية",
-      "الجنيه المصري",
-      "اليوان الصيني",
-      "الروبية الإندونيسية"
+      "الروبية الهندية"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "countries",
     "difficulty": "medium",
     "question": "ما العملة الوطنية في بنغلاديش؟",
     "options": [
+      "الروبية النيبالية",
+      "الروبية الهندية",
       "التاكا البنغلاديشية",
-      "الدينار الليبي",
-      "الريال الإيراني",
-      "الدينار الجزائري"
+      "الروبية السريلانكية"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "countries",
     "difficulty": "medium",
     "question": "ما العملة الوطنية في نيبال؟",
     "options": [
-      "التاكا البنغلاديشية",
+      "الروبية السريلانكية",
+      "الروبية الهندية",
       "الروبية النيبالية",
-      "الروبية الباكستانية",
-      "الريال العُماني"
+      "التاكا البنغلاديشية"
     ],
-    "correct": 1
+    "correct": 2
   },
   {
     "category": "countries",
     "difficulty": "medium",
     "question": "ما العملة الوطنية في سريلانكا؟",
     "options": [
-      "الدينار الكويتي",
+      "الروبية الهندية",
       "الروبية السريلانكية",
-      "الدرهم المغربي",
-      "البيزو الفلبيني"
+      "التاكا البنغلاديشية",
+      "الروبية النيبالية"
     ],
     "correct": 1
   },
@@ -9210,12 +7410,12 @@ window.BSM_QUESTIONS = [
     "difficulty": "medium",
     "question": "ما العملة الوطنية في تايلاند؟",
     "options": [
-      "الدينار الليبي",
-      "الين الياباني",
-      "الدرهم الإماراتي",
-      "البات التايلاندي"
+      "البات التايلاندي",
+      "الدونغ الفيتنامي",
+      "الرينغيت الماليزي",
+      "البيزو الفلبيني"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "category": "countries",
@@ -9223,45 +7423,45 @@ window.BSM_QUESTIONS = [
     "question": "ما العملة الوطنية في فيتنام؟",
     "options": [
       "البيزو الفلبيني",
-      "الدينار التونسي",
       "الدونغ الفيتنامي",
-      "الروبية الإندونيسية"
+      "البات التايلاندي",
+      "الرينغيت الماليزي"
     ],
-    "correct": 2
+    "correct": 1
   },
   {
     "category": "countries",
     "difficulty": "medium",
     "question": "ما العملة الوطنية في الفلبين؟",
     "options": [
-      "الدينار الجزائري",
       "البات التايلاندي",
-      "البيزو الفلبيني",
-      "الرينغيت الماليزي"
+      "الدونغ الفيتنامي",
+      "الرينغيت الماليزي",
+      "البيزو الفلبيني"
     ],
-    "correct": 2
+    "correct": 3
   },
   {
     "category": "countries",
     "difficulty": "medium",
     "question": "ما العملة الوطنية في ماليزيا؟",
     "options": [
-      "الرينغيت الماليزي",
-      "الروبية السريلانكية",
+      "البات التايلاندي",
       "الدونغ الفيتنامي",
-      "الدينار التونسي"
+      "البيزو الفلبيني",
+      "الرينغيت الماليزي"
     ],
-    "correct": 0
+    "correct": 3
   },
   {
     "category": "countries",
     "difficulty": "medium",
     "question": "ما العملة الوطنية في إندونيسيا؟",
     "options": [
-      "الدينار الليبي",
-      "الدينار البحريني",
+      "الروبية الباكستانية",
+      "الروبية النيبالية",
       "الروبية الإندونيسية",
-      "الريال العُماني"
+      "الروبية الهندية"
     ],
     "correct": 2
   },
@@ -9270,34 +7470,34 @@ window.BSM_QUESTIONS = [
     "difficulty": "medium",
     "question": "ما العملة الوطنية في جنوب أفريقيا؟",
     "options": [
-      "الراند الجنوب أفريقي",
-      "الروبية الباكستانية",
-      "الدينار الجزائري",
-      "اليوان الصيني"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "countries",
-    "difficulty": "medium",
-    "question": "ما العملة الوطنية في نيجيريا؟",
-    "options": [
-      "الدينار الجزائري",
-      "الريال الإيراني",
-      "الأوقية الموريتانية",
-      "النايرا النيجيرية"
+      "النايرا النيجيرية",
+      "الشلن الكيني",
+      "البير الإثيوبي",
+      "الراند الجنوب أفريقي"
     ],
     "correct": 3
   },
   {
     "category": "countries",
     "difficulty": "medium",
+    "question": "ما العملة الوطنية في نيجيريا؟",
+    "options": [
+      "البير الإثيوبي",
+      "النايرا النيجيرية",
+      "الراند الجنوب أفريقي",
+      "الشلن الكيني"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "countries",
+    "difficulty": "medium",
     "question": "ما العملة الوطنية في كينيا؟",
     "options": [
-      "الريال الإيراني",
+      "البير الإثيوبي",
       "الشلن الكيني",
-      "الرينغيت الماليزي",
-      "الريال العُماني"
+      "الراند الجنوب أفريقي",
+      "النايرا النيجيرية"
     ],
     "correct": 1
   },
@@ -9306,348 +7506,348 @@ window.BSM_QUESTIONS = [
     "difficulty": "medium",
     "question": "ما العملة الوطنية في إثيوبيا؟",
     "options": [
-      "الدينار الكويتي",
-      "التاكا البنغلاديشية",
       "البير الإثيوبي",
-      "الأوقية الموريتانية"
+      "الراند الجنوب أفريقي",
+      "النايرا النيجيرية",
+      "الشلن الكيني"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "countries",
+    "difficulty": "hard",
+    "question": "ما عاصمة نيبال؟",
+    "options": [
+      "كاتماندو",
+      "بوخارا",
+      "لاليتبور",
+      "بهاراتبور"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "countries",
+    "difficulty": "hard",
+    "question": "ما عاصمة بوتان؟",
+    "options": [
+      "بوناخا",
+      "فونتشولينغ",
+      "تيمفو",
+      "بارو"
     ],
     "correct": 2
   },
   {
     "category": "countries",
     "difficulty": "hard",
-    "question": "ما عاصمة أنتيغوا وبربودا؟",
+    "question": "ما عاصمة كمبوديا؟",
     "options": [
-      "سوفا",
-      "كينغستون",
-      "أسمرة",
-      "سانت جونز"
+      "سيهانوكفيل",
+      "بنوم بنه",
+      "سييم ريب",
+      "باتامبانغ"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "countries",
+    "difficulty": "hard",
+    "question": "ما عاصمة لاوس؟",
+    "options": [
+      "فيينتيان",
+      "لوانغ برابانغ",
+      "سافاناخيت",
+      "باكسي"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "countries",
+    "difficulty": "hard",
+    "question": "ما عاصمة ميانمار؟",
+    "options": [
+      "يانغون",
+      "ماندالاي",
+      "باغان",
+      "نايبيداو"
     ],
     "correct": 3
   },
   {
     "category": "countries",
     "difficulty": "hard",
-    "question": "ما عاصمة دومينيكا؟",
+    "question": "ما عاصمة بنغلاديش؟",
     "options": [
-      "بورت أو برنس",
-      "نغيرولمود",
-      "آبيا",
-      "روسو"
+      "تشاتوغرام",
+      "خولنا",
+      "سيلهيت",
+      "دكا"
     ],
     "correct": 3
   },
   {
     "category": "countries",
     "difficulty": "hard",
-    "question": "ما عاصمة سانت كيتس ونيفيس؟",
+    "question": "ما عاصمة سريلانكا (العاصمة التشريعية)؟",
     "options": [
-      "باستير",
-      "تاراوا الجنوبية",
-      "روسو",
-      "بريدج تاون"
+      "كولومبو",
+      "كاندي",
+      "غالي",
+      "سري جاياواردنابورا كوتي"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "countries",
+    "difficulty": "hard",
+    "question": "ما عاصمة أفغانستان؟",
+    "options": [
+      "قندهار",
+      "هرات",
+      "مزار الشريف",
+      "كابل"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "countries",
+    "difficulty": "hard",
+    "question": "ما عاصمة ماليزيا؟",
+    "options": [
+      "كوالالمبور",
+      "إيبوه",
+      "جوهور بهرو",
+      "كوتشينغ"
     ],
     "correct": 0
   },
   {
     "category": "countries",
     "difficulty": "hard",
-    "question": "ما عاصمة سانت لوسيا؟",
+    "question": "ما عاصمة كينيا؟",
     "options": [
-      "كينغستاون",
-      "سانت جورجز",
-      "كاستريس",
-      "بورت أو برنس"
+      "كيسومو",
+      "ناكورو",
+      "نيروبي",
+      "مومباسا"
     ],
     "correct": 2
   },
   {
     "category": "countries",
     "difficulty": "hard",
-    "question": "ما عاصمة سانت فنسنت والغرينادين؟",
+    "question": "ما عاصمة تنزانيا؟",
     "options": [
-      "كوناكري",
-      "كينغستاون",
-      "آبيا",
-      "تاراوا الجنوبية"
+      "دار السلام",
+      "أروشا",
+      "موانزا",
+      "دودوما"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "countries",
+    "difficulty": "hard",
+    "question": "ما عاصمة غانا؟",
+    "options": [
+      "تاكورادي",
+      "أكرا",
+      "كوماسي",
+      "تامالي"
     ],
     "correct": 1
   },
   {
     "category": "countries",
     "difficulty": "hard",
-    "question": "ما عاصمة غرينادا؟",
+    "question": "ما عاصمة السنغال؟",
     "options": [
-      "هونيارا",
-      "ماجورو",
-      "سانت جورجز",
-      "ناساو"
+      "تييس",
+      "سانت لويس",
+      "كاولاك",
+      "داكار"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "countries",
+    "difficulty": "hard",
+    "question": "ما عاصمة نيجيريا؟",
+    "options": [
+      "كانو",
+      "إبادان",
+      "أبوجا",
+      "لاغوس"
     ],
     "correct": 2
   },
   {
     "category": "countries",
     "difficulty": "hard",
-    "question": "ما عاصمة باربادوس؟",
+    "question": "ما عاصمة أوغندا؟",
     "options": [
-      "بريدج تاون",
-      "كينغستاون",
-      "فونافوتي",
-      "ناساو"
+      "عنتيبي",
+      "جينجا",
+      "غولو",
+      "كمبالا"
     ],
-    "correct": 0
+    "correct": 3
   },
   {
     "category": "countries",
     "difficulty": "hard",
-    "question": "ما عاصمة جزر البهاما؟",
+    "question": "ما عاصمة رواندا؟",
     "options": [
-      "ناساو",
-      "كاستريس",
-      "آبيا",
-      "روسو"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "countries",
-    "difficulty": "hard",
-    "question": "ما عاصمة ترينيداد وتوباغو؟",
-    "options": [
-      "ناساو",
-      "نوكوالوفا",
-      "بورت أوف سبين",
-      "نغيرولمود"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "countries",
-    "difficulty": "hard",
-    "question": "ما عاصمة جامايكا؟",
-    "options": [
-      "ساو تومي",
-      "كينغستون",
-      "هونيارا",
-      "بورت أو برنس"
+      "روباڤو",
+      "كيغالي",
+      "بوتاري",
+      "موسانزي"
     ],
     "correct": 1
   },
   {
     "category": "countries",
     "difficulty": "hard",
-    "question": "ما عاصمة كوبا؟",
+    "question": "ما عاصمة زامبيا؟",
     "options": [
-      "سانت جونز",
-      "هافانا",
-      "نغيرولمود",
-      "نوكوالوفا"
+      "ندولا",
+      "كيتوي",
+      "ليفينغستون",
+      "لوساكا"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "countries",
+    "difficulty": "hard",
+    "question": "ما عاصمة زيمبابوي؟",
+    "options": [
+      "غويرو",
+      "هراري",
+      "بولاوايو",
+      "موتاري"
     ],
     "correct": 1
   },
   {
     "category": "countries",
     "difficulty": "hard",
-    "question": "ما عاصمة هايتي؟",
+    "question": "ما عاصمة موزمبيق؟",
     "options": [
-      "بورت أو برنس",
-      "بورت أوف سبين",
-      "أسمرة",
-      "هافانا"
+      "كيليماني",
+      "مابوتو",
+      "بيرا",
+      "نامبولا"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "countries",
+    "difficulty": "hard",
+    "question": "ما عاصمة أنغولا؟",
+    "options": [
+      "هوامبو",
+      "لوبانغو",
+      "لواندا",
+      "بنغيلا"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "countries",
+    "difficulty": "hard",
+    "question": "ما عاصمة مالي؟",
+    "options": [
+      "باماكو",
+      "تمبكتو",
+      "سيكاسو",
+      "سيغو"
     ],
     "correct": 0
   },
   {
     "category": "countries",
     "difficulty": "hard",
-    "question": "ما عاصمة جمهورية الدومينيكان؟",
+    "question": "ما عاصمة النيجر؟",
     "options": [
-      "بيساو",
-      "هافانا",
-      "سانتو دومينغو",
-      "آبيا"
+      "زيندر",
+      "مارادي",
+      "أغاديز",
+      "نيامي"
     ],
-    "correct": 2
+    "correct": 3
+  },
+  {
+    "category": "countries",
+    "difficulty": "hard",
+    "question": "ما عاصمة بوركينا فاسو؟",
+    "options": [
+      "بانفورا",
+      "واغادوغو",
+      "بوبو ديولاسو",
+      "كودوغو"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "countries",
+    "difficulty": "hard",
+    "question": "ما عاصمة نيوزيلندا؟",
+    "options": [
+      "أوكلاند",
+      "كرايستشرش",
+      "هاميلتون",
+      "ويلينغتون"
+    ],
+    "correct": 3
   },
   {
     "category": "countries",
     "difficulty": "hard",
     "question": "ما عاصمة فيجي؟",
     "options": [
-      "ناساو",
-      "سوفا",
-      "نوكوالوفا",
-      "سانتو دومينغو"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "countries",
-    "difficulty": "hard",
-    "question": "ما عاصمة ساموا؟",
-    "options": [
-      "آبيا",
-      "سانت جورجز",
-      "كاستريس",
-      "أديس أبابا"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "countries",
-    "difficulty": "hard",
-    "question": "ما عاصمة تونغا؟",
-    "options": [
-      "كينغستون",
-      "نوكوالوفا",
-      "روسو",
-      "آبيا"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "countries",
-    "difficulty": "hard",
-    "question": "ما عاصمة توفالو؟",
-    "options": [
-      "باستير",
-      "فونافوتي",
-      "بيساو",
-      "بورت أوف سبين"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "countries",
-    "difficulty": "hard",
-    "question": "ما عاصمة بالاو؟",
-    "options": [
-      "ماجورو",
-      "نغيرولمود",
-      "هونيارا",
+      "نادي",
+      "لاوتوكا",
+      "لاباسا",
       "سوفا"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "countries",
-    "difficulty": "hard",
-    "question": "ما عاصمة جزر مارشال؟",
-    "options": [
-      "ماجورو",
-      "سانتو دومينغو",
-      "باليكير",
-      "هونيارا"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "countries",
-    "difficulty": "hard",
-    "question": "ما عاصمة ولايات ميكرونيزيا المتحدة؟",
-    "options": [
-      "تاراوا الجنوبية",
-      "باليكير",
-      "نوكوالوفا",
-      "بورت أو برنس"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "countries",
-    "difficulty": "hard",
-    "question": "ما عاصمة جزر سليمان؟",
-    "options": [
-      "كينغستون",
-      "نغيرولمود",
-      "هونيارا",
-      "باستير"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "countries",
-    "difficulty": "hard",
-    "question": "ما عاصمة كيريباتي؟",
-    "options": [
-      "تاراوا الجنوبية",
-      "سانت جورجز",
-      "سانتو دومينغو",
-      "بورت أو برنس"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "countries",
-    "difficulty": "hard",
-    "question": "ما عاصمة غينيا؟",
-    "options": [
-      "سانت جونز",
-      "بيساو",
-      "أديس أبابا",
-      "كوناكري"
     ],
     "correct": 3
   },
   {
     "category": "countries",
     "difficulty": "hard",
-    "question": "ما عاصمة غينيا بيساو؟",
+    "question": "ما عاصمة جزر سليمان؟",
     "options": [
-      "بيساو",
       "هونيارا",
-      "آبيا",
-      "سانت جونز"
+      "غيزو",
+      "أوكي",
+      "نورو"
     ],
     "correct": 0
   },
   {
     "category": "countries",
     "difficulty": "hard",
-    "question": "ما عاصمة ساو تومي وبرينسيبي؟",
+    "question": "ما عاصمة فانواتو؟",
     "options": [
-      "أسمرة",
-      "ساو تومي",
-      "كوناكري",
-      "هونيارا"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "countries",
-    "difficulty": "hard",
-    "question": "ما عاصمة جنوب السودان؟",
-    "options": [
-      "جوبا",
-      "روسو",
-      "كينغستون",
-      "تاراوا الجنوبية"
+      "بورت فيلا",
+      "لوغانفيل",
+      "إيسانغيل",
+      "لاكاتورو"
     ],
     "correct": 0
   },
   {
     "category": "countries",
     "difficulty": "hard",
-    "question": "ما عاصمة إريتريا؟",
+    "question": "ما عاصمة بابوا غينيا الجديدة؟",
     "options": [
-      "كينغستاون",
-      "أسمرة",
-      "بورت أو برنس",
-      "سوفا"
+      "لاي",
+      "مادانغ",
+      "ماونت هاغن",
+      "بورت مورسبي"
     ],
-    "correct": 1
-  },
-  {
-    "category": "countries",
-    "difficulty": "hard",
-    "question": "ما عاصمة إثيوبيا؟",
-    "options": [
-      "ماجورو",
-      "بيساو",
-      "أديس أبابا",
-      "جوبا"
-    ],
-    "correct": 2
+    "correct": 3
   },
   {
     "category": "wrestling",
@@ -9868,14 +8068,14 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "easy",
-    "question": "ما اسم الحركة القاضية الشهيرة للمصارع دانيال براين، حركة الإخضاع المعروفة أيضًا باسم LeBell Lock؟",
+    "question": "ما اسم حركة الإخضاع الشهيرة لدانيال براين في WWE؟",
     "options": [
+      "STF",
+      "Figure-Four Leglock",
       "Yes Lock",
-      "RKO",
-      "Claymore",
-      "Stone Cold Stunner"
+      "Ankle Lock"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "wrestling",
@@ -9954,10 +8154,10 @@ window.BSM_QUESTIONS = [
     "difficulty": "easy",
     "question": "أي مصارع عُرف بلقب The Phenom؟",
     "options": [
-      "جون سينا",
+      "تربل إتش",
       "أندرتيكر",
-      "داستي رودز",
-      "ستون كولد ستيف أوستن"
+      "كين",
+      "شون مايكلز"
     ],
     "correct": 1
   },
@@ -9966,9 +8166,9 @@ window.BSM_QUESTIONS = [
     "difficulty": "easy",
     "question": "أي مصارع عُرف بلقب The Big Red Machine؟",
     "options": [
-      "إيه جي ستايلز",
-      "تيد ديبياسي",
-      "جيف هاردي",
+      "أندرتيكر",
+      "شون مايكلز",
+      "تربل إتش",
       "كين"
     ],
     "correct": 3
@@ -9978,34 +8178,34 @@ window.BSM_QUESTIONS = [
     "difficulty": "easy",
     "question": "أي مصارع عُرف بلقب The Cerebral Assassin؟",
     "options": [
-      "جون سينا",
-      "كين",
+      "تربل إتش",
       "أندرتيكر",
-      "تربل إتش"
+      "كين",
+      "شون مايكلز"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "category": "wrestling",
     "difficulty": "easy",
     "question": "أي مصارع عُرف بلقب The Heartbreak Kid؟",
     "options": [
-      "تيد ديبياسي",
-      "كورت أنجل",
-      "راندي سافاج",
-      "شون مايكلز"
+      "شون مايكلز",
+      "أندرتيكر",
+      "كين",
+      "تربل إتش"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "category": "wrestling",
     "difficulty": "easy",
     "question": "أي مصارع عُرف بلقب The Rated-R Superstar؟",
     "options": [
-      "جون سينا",
+      "شون مايكلز",
       "إيدج",
-      "بروك ليسنر",
-      "شون مايكلز"
+      "أندرتيكر",
+      "كين"
     ],
     "correct": 1
   },
@@ -10014,82 +8214,82 @@ window.BSM_QUESTIONS = [
     "difficulty": "easy",
     "question": "أي مصارع عُرف بلقب The Viper؟",
     "options": [
-      "غونثر",
-      "راندي أورتن",
-      "إيدج",
-      "بوبي لاشلي"
+      "أندرتيكر",
+      "كين",
+      "شون مايكلز",
+      "راندي أورتن"
     ],
-    "correct": 1
+    "correct": 3
   },
   {
     "category": "wrestling",
     "difficulty": "easy",
     "question": "أي مصارع عُرف بلقب The Animal؟",
     "options": [
-      "بروك ليسنر",
-      "غونثر",
-      "أندرتيكر",
-      "باتيستا"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "wrestling",
-    "difficulty": "easy",
-    "question": "أي مصارع عُرف بلقب The Beast Incarnate؟",
-    "options": [
-      "أندرتيكر",
-      "إيدج",
-      "داستي رودز",
-      "بروك ليسنر"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "wrestling",
-    "difficulty": "easy",
-    "question": "أي مصارع عُرف بلقب The Best in the World، صاحب Pipe Bomb عام 2011؟",
-    "options": [
-      "باتيستا",
-      "كين",
-      "تربل إتش",
-      "سي إم بانك"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "wrestling",
-    "difficulty": "easy",
-    "question": "أي مصارع عُرف بلقب The Phenomenal One؟",
-    "options": [
-      "بوبي لاشلي",
-      "بيغ شو",
       "شون مايكلز",
-      "إيه جي ستايلز"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "wrestling",
-    "difficulty": "easy",
-    "question": "أي مصارع عُرف بلقب The Olympic Hero؟",
-    "options": [
-      "سي إم بانك",
-      "كورت أنجل",
-      "إيدج",
-      "رودي بايبر"
+      "باتيستا",
+      "أندرتيكر",
+      "كين"
     ],
     "correct": 1
   },
   {
     "category": "wrestling",
     "difficulty": "easy",
-    "question": "أي مصارع عُرف بلقب The Excellence of Execution؟",
+    "question": "أي مصارع عُرف بلقب The Beast Incarnate؟",
+    "options": [
+      "بروك ليسنر",
+      "جون سينا",
+      "إيدج",
+      "راندي أورتن"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "question": "أي مصارع عُرف بلقب The Best in the World، صاحب Pipe Bomb عام 2011؟",
+    "options": [
+      "إيدج",
+      "راندي أورتن",
+      "سي إم بانك",
+      "جون سينا"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "question": "أي مصارع عُرف بلقب The Phenomenal One؟",
+    "options": [
+      "إيه جي ستايلز",
+      "جون سينا",
+      "إيدج",
+      "راندي أورتن"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "question": "أي مصارع عُرف بلقب The Olympic Hero؟",
     "options": [
       "كورت أنجل",
+      "جون سينا",
+      "إيدج",
+      "راندي أورتن"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "question": "أي مصارع عُرف بلقب The Excellence of Execution؟",
+    "options": [
+      "شون مايكلز",
       "بريت هارت",
-      "غونثر",
-      "بيغ شو"
+      "أندرتيكر",
+      "كين"
     ],
     "correct": 1
   },
@@ -10099,9 +8299,9 @@ window.BSM_QUESTIONS = [
     "question": "أي مصارع عُرف بلقب The Nature Boy، صاحب مسيرة Four Horsemen؟",
     "options": [
       "ريك فلير",
-      "كورت أنجل",
-      "تيد ديبياسي",
-      "أندرتيكر"
+      "أندرتيكر",
+      "شون مايكلز",
+      "بريت هارت"
     ],
     "correct": 0
   },
@@ -10110,36 +8310,36 @@ window.BSM_QUESTIONS = [
     "difficulty": "easy",
     "question": "أي مصارع عُرف بلقب Macho Man؟",
     "options": [
-      "بروك ليسنر",
-      "تربل إتش",
-      "إيه جي ستايلز",
-      "راندي سافاج"
+      "راندي سافاج",
+      "أندرتيكر",
+      "شون مايكلز",
+      "بريت هارت"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "category": "wrestling",
     "difficulty": "easy",
     "question": "أي مصارع عُرف بلقب The American Dream؟",
     "options": [
-      "سي إم بانك",
-      "رودي بايبر",
-      "بوبي لاشلي",
-      "داستي رودز"
+      "داستي رودز",
+      "أندرتيكر",
+      "شون مايكلز",
+      "بريت هارت"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "category": "wrestling",
     "difficulty": "easy",
     "question": "أي مصارع عُرف بلقب The Million Dollar Man؟",
     "options": [
-      "تيد ديبياسي",
       "شون مايكلز",
-      "ريك فلير",
-      "ذا روك"
+      "بريت هارت",
+      "تيد ديبياسي",
+      "أندرتيكر"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "wrestling",
@@ -10147,9 +8347,9 @@ window.BSM_QUESTIONS = [
     "question": "أي مصارع عُرف بلقب Rowdy؟",
     "options": [
       "رودي بايبر",
-      "باتيستا",
-      "سيزارو",
-      "كين"
+      "أندرتيكر",
+      "شون مايكلز",
+      "بريت هارت"
     ],
     "correct": 0
   },
@@ -10158,10 +8358,10 @@ window.BSM_QUESTIONS = [
     "difficulty": "easy",
     "question": "أي مصارع عُرف بلقب The Texas Rattlesnake؟",
     "options": [
-      "رودي بايبر",
-      "تيد ديبياسي",
+      "كين",
+      "شون مايكلز",
       "ستون كولد ستيف أوستن",
-      "راندي سافاج"
+      "أندرتيكر"
     ],
     "correct": 2
   },
@@ -10170,22 +8370,22 @@ window.BSM_QUESTIONS = [
     "difficulty": "easy",
     "question": "أي مصارع عُرف بلقب The People’s Champion، صاحب عبارة If you smell؟",
     "options": [
-      "بريت هارت",
       "ذا روك",
-      "سي إم بانك",
-      "بروك ليسنر"
+      "أندرتيكر",
+      "كين",
+      "شون مايكلز"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "category": "wrestling",
     "difficulty": "easy",
     "question": "أي مصارع عُرف بلقب The Doctor of Thuganomics؟",
     "options": [
-      "غونثر",
       "كين",
+      "شون مايكلز",
       "جون سينا",
-      "بروك ليسنر"
+      "أندرتيكر"
     ],
     "correct": 2
   },
@@ -10194,21 +8394,21 @@ window.BSM_QUESTIONS = [
     "difficulty": "easy",
     "question": "أي مصارع عُرف بلقب The Ring General؟",
     "options": [
-      "راندي أورتن",
-      "باتيستا",
-      "ذا روك",
-      "غونثر"
+      "غونثر",
+      "سي إم بانك",
+      "إيه جي ستايلز",
+      "راندي أورتن"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "category": "wrestling",
     "difficulty": "easy",
     "question": "أي مصارع عُرف بلقب The Swiss Superman؟",
     "options": [
-      "ذا روك",
-      "إيه جي ستايلز",
-      "ستون كولد ستيف أوستن",
+      "جون سينا",
+      "إيدج",
+      "راندي أورتن",
       "سيزارو"
     ],
     "correct": 3
@@ -10218,36 +8418,36 @@ window.BSM_QUESTIONS = [
     "difficulty": "easy",
     "question": "أي مصارع عُرف بلقب The Charismatic Enigma؟",
     "options": [
-      "ريك فلير",
       "جيف هاردي",
-      "تربل إتش",
-      "بوبي لاشلي"
+      "جون سينا",
+      "إيدج",
+      "راندي أورتن"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "category": "wrestling",
     "difficulty": "easy",
     "question": "أي مصارع عُرف بلقب The All Mighty؟",
     "options": [
-      "شون مايكلز",
       "بوبي لاشلي",
       "جون سينا",
-      "إيدج"
+      "إيدج",
+      "راندي أورتن"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "category": "wrestling",
     "difficulty": "easy",
     "question": "أي مصارع عُرف بلقب The World’s Largest Athlete؟",
     "options": [
-      "داستي رودز",
-      "ريك فلير",
       "بيغ شو",
-      "تربل إتش"
+      "أندرتيكر",
+      "كين",
+      "شون مايكلز"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "category": "wrestling",
@@ -10255,9 +8455,9 @@ window.BSM_QUESTIONS = [
     "question": "من فاز بمباراة رويال رامبل للرجال عام 1989؟",
     "options": [
       "بيغ جون ستاد",
-      "بروك ليسنر",
       "هالك هوغان",
-      "راندي أورتن"
+      "راندي سافاج",
+      "ريك فلير"
     ],
     "correct": 0
   },
@@ -10266,93 +8466,93 @@ window.BSM_QUESTIONS = [
     "difficulty": "medium",
     "question": "من فاز بمباراة رويال رامبل للرجال عام 1990؟",
     "options": [
-      "هالك هوغان",
-      "يوكوزونا",
-      "بريت هارت وليكس لوغر",
-      "أندرتيكر"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "wrestling",
-    "difficulty": "medium",
-    "question": "من فاز بمباراة رويال رامبل للرجال عام 1991؟",
-    "options": [
-      "ري ميستيريو",
-      "هالك هوغان",
-      "بروك ليسنر",
-      "تربل إتش"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "wrestling",
-    "difficulty": "medium",
-    "question": "من فاز بمباراة رويال رامبل للرجال عام 1993؟",
-    "options": [
-      "يوكوزونا",
-      "بريت هارت وليكس لوغر",
-      "ستون كولد ستيف أوستن",
-      "كريس بنوا"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "wrestling",
-    "difficulty": "medium",
-    "question": "من فاز بمباراة رويال رامبل للرجال عام 1994، حيث أُعلن فوز مشترك؟",
-    "options": [
-      "بريت هارت وليكس لوغر",
-      "يوكوزونا",
-      "كريس بنوا",
-      "إيدج"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "wrestling",
-    "difficulty": "medium",
-    "question": "من فاز بمباراة رويال رامبل للرجال عام 1995؟",
-    "options": [
-      "ألبرتو دل ريو",
-      "شون مايكلز",
-      "إيدج",
-      "شيمس"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "wrestling",
-    "difficulty": "medium",
-    "question": "من فاز بمباراة رويال رامبل للرجال عام 1996؟",
-    "options": [
-      "تربل إتش",
-      "هالك هوغان",
-      "شيمس",
-      "شون مايكلز"
+      "راندي سافاج",
+      "ريك فلير",
+      "سيد جاستس",
+      "هالك هوغان"
     ],
     "correct": 3
   },
   {
     "category": "wrestling",
     "difficulty": "medium",
-    "question": "من فاز بمباراة رويال رامبل للرجال عام 1997؟",
+    "question": "من فاز بمباراة رويال رامبل للرجال عام 1991؟",
     "options": [
-      "ستون كولد ستيف أوستن",
+      "ريك فلير",
+      "سيد جاستس",
       "هالك هوغان",
-      "إيدج",
-      "باتيستا"
+      "راندي سافاج"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "question": "من فاز بمباراة رويال رامبل للرجال عام 1993؟",
+    "options": [
+      "بريت هارت",
+      "ليكس لوغر",
+      "شون مايكلز",
+      "يوكوزونا"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "question": "من فاز بمباراة رويال رامبل للرجال عام 1994، حيث أُعلن فوز مشترك؟",
+    "options": [
+      "ليكس لوغر",
+      "بريت هارت وليكس لوغر",
+      "يوكوزونا",
+      "بريت هارت"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "question": "من فاز بمباراة رويال رامبل للرجال عام 1995؟",
+    "options": [
+      "شون مايكلز",
+      "يوكوزونا",
+      "بريت هارت",
+      "ليكس لوغر"
     ],
     "correct": 0
   },
   {
     "category": "wrestling",
     "difficulty": "medium",
+    "question": "من فاز بمباراة رويال رامبل للرجال عام 1996؟",
+    "options": [
+      "شون مايكلز",
+      "يوكوزونا",
+      "بريت هارت",
+      "ليكس لوغر"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "question": "من فاز بمباراة رويال رامبل للرجال عام 1997؟",
+    "options": [
+      "مانكايند",
+      "ستون كولد ستيف أوستن",
+      "ذا روك",
+      "أندرتيكر"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
     "question": "من فاز بمباراة رويال رامبل للرجال عام 1998؟",
     "options": [
-      "ألبرتو دل ريو",
-      "باتيستا",
-      "هالك هوغان",
+      "ذا روك",
+      "أندرتيكر",
+      "مانكايند",
       "ستون كولد ستيف أوستن"
     ],
     "correct": 3
@@ -10362,58 +8562,58 @@ window.BSM_QUESTIONS = [
     "difficulty": "medium",
     "question": "من فاز بمباراة رويال رامبل للرجال عام 1999؟",
     "options": [
-      "بريت هارت وليكس لوغر",
-      "يوكوزونا",
       "فينس مكمان",
-      "باتيستا"
+      "ستون كولد ستيف أوستن",
+      "ذا روك",
+      "أندرتيكر"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "category": "wrestling",
     "difficulty": "medium",
     "question": "من فاز بمباراة رويال رامبل للرجال عام 2000؟",
     "options": [
-      "شون مايكلز",
-      "تربل إتش",
-      "بيغ جون ستاد",
-      "ذا روك"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "wrestling",
-    "difficulty": "medium",
-    "question": "من فاز بمباراة رويال رامبل للرجال عام 2001؟",
-    "options": [
-      "هالك هوغان",
+      "أندرتيكر",
+      "ذا روك",
       "ستون كولد ستيف أوستن",
-      "ألبرتو دل ريو",
-      "بيغ جون ستاد"
+      "تربل إتش"
     ],
     "correct": 1
   },
   {
     "category": "wrestling",
     "difficulty": "medium",
+    "question": "من فاز بمباراة رويال رامبل للرجال عام 2001؟",
+    "options": [
+      "ستون كولد ستيف أوستن",
+      "ذا روك",
+      "تربل إتش",
+      "أندرتيكر"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
     "question": "من فاز بمباراة رويال رامبل للرجال عام 2002؟",
     "options": [
-      "بروك ليسنر",
-      "بريت هارت وليكس لوغر",
-      "يوكوزونا",
-      "تربل إتش"
+      "أندرتيكر",
+      "تربل إتش",
+      "ذا روك",
+      "ستون كولد ستيف أوستن"
     ],
-    "correct": 3
+    "correct": 1
   },
   {
     "category": "wrestling",
     "difficulty": "medium",
     "question": "من فاز بمباراة رويال رامبل للرجال عام 2003؟",
     "options": [
-      "ستون كولد ستيف أوستن",
-      "كريس بنوا",
+      "باتيستا",
+      "جون سينا",
       "بروك ليسنر",
-      "ذا روك"
+      "كريس بنوا"
     ],
     "correct": 2
   },
@@ -10422,96 +8622,96 @@ window.BSM_QUESTIONS = [
     "difficulty": "medium",
     "question": "من فاز بمباراة رويال رامبل للرجال عام 2004؟",
     "options": [
-      "بيغ جون ستاد",
-      "يوكوزونا",
-      "شيمس",
-      "كريس بنوا"
+      "كريس بنوا",
+      "بروك ليسنر",
+      "باتيستا",
+      "جون سينا"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "category": "wrestling",
     "difficulty": "medium",
     "question": "من فاز بمباراة رويال رامبل للرجال عام 2005؟",
     "options": [
+      "كريس بنوا",
       "جون سينا",
       "باتيستا",
-      "هالك هوغان",
-      "يوكوزونا"
+      "بروك ليسنر"
     ],
-    "correct": 1
+    "correct": 2
   },
   {
     "category": "wrestling",
     "difficulty": "medium",
     "question": "من فاز بمباراة رويال رامبل للرجال عام 2006؟",
     "options": [
-      "شون مايكلز",
+      "جون سينا",
+      "راندي أورتن",
       "ري ميستيريو",
-      "كريس بنوا",
-      "بيغ جون ستاد"
+      "أندرتيكر"
     ],
-    "correct": 1
+    "correct": 2
   },
   {
     "category": "wrestling",
     "difficulty": "medium",
     "question": "من فاز بمباراة رويال رامبل للرجال عام 2007؟",
     "options": [
-      "شيمس",
-      "ألبرتو دل ريو",
-      "يوكوزونا",
-      "أندرتيكر"
+      "جون سينا",
+      "راندي أورتن",
+      "أندرتيكر",
+      "ري ميستيريو"
     ],
-    "correct": 3
+    "correct": 2
   },
   {
     "category": "wrestling",
     "difficulty": "medium",
     "question": "من فاز بمباراة رويال رامبل للرجال عام 2008؟",
     "options": [
-      "باتيستا",
-      "كريس بنوا",
-      "أندرتيكر",
-      "جون سينا"
+      "راندي أورتن",
+      "جون سينا",
+      "ري ميستيريو",
+      "أندرتيكر"
     ],
-    "correct": 3
+    "correct": 1
   },
   {
     "category": "wrestling",
     "difficulty": "medium",
     "question": "من فاز بمباراة رويال رامبل للرجال عام 2009؟",
     "options": [
+      "أندرتيكر",
+      "جون سينا",
       "راندي أورتن",
-      "إيدج",
-      "فينس مكمان",
-      "بريت هارت وليكس لوغر"
+      "ري ميستيريو"
     ],
-    "correct": 0
+    "correct": 2
   },
   {
     "category": "wrestling",
     "difficulty": "medium",
     "question": "من فاز بمباراة رويال رامبل للرجال عام 2010؟",
     "options": [
+      "جون سينا",
       "إيدج",
-      "بريت هارت وليكس لوغر",
-      "فينس مكمان",
-      "بيغ جون ستاد"
+      "ألبرتو دل ريو",
+      "شيمس"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "category": "wrestling",
     "difficulty": "medium",
     "question": "من فاز بمباراة رويال رامبل للرجال عام 2011؟",
     "options": [
-      "راندي أورتن",
+      "شيمس",
+      "جون سينا",
       "ألبرتو دل ريو",
-      "هالك هوغان",
-      "يوكوزونا"
+      "إيدج"
     ],
-    "correct": 1
+    "correct": 2
   },
   {
     "category": "wrestling",
@@ -10519,8 +8719,8 @@ window.BSM_QUESTIONS = [
     "question": "من فاز بمباراة رويال رامبل للرجال عام 2012؟",
     "options": [
       "إيدج",
-      "ري ميستيريو",
-      "تربل إتش",
+      "ألبرتو دل ريو",
+      "جون سينا",
       "شيمس"
     ],
     "correct": 3
@@ -10530,24 +8730,24 @@ window.BSM_QUESTIONS = [
     "difficulty": "medium",
     "question": "من فاز بمباراة رويال رامبل للرجال عام 2013؟",
     "options": [
-      "ستون كولد ستيف أوستن",
-      "هالك هوغان",
+      "جون سينا",
       "إيدج",
-      "جون سينا"
+      "ألبرتو دل ريو",
+      "شيمس"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "category": "wrestling",
     "difficulty": "medium",
     "question": "من فاز بمباراة رويال رامبل للرجال عام 2014؟",
     "options": [
-      "فينس مكمان",
-      "كريس بنوا",
-      "راندي أورتن",
-      "باتيستا"
+      "شيمس",
+      "باتيستا",
+      "إيدج",
+      "ألبرتو دل ريو"
     ],
-    "correct": 3
+    "correct": 1
   },
   {
     "category": "wrestling",
@@ -10615,9 +8815,9 @@ window.BSM_QUESTIONS = [
     "question": "من المصارع المطابق لهذا الإنجاز في NJPW؟ أول حامل لبطولة IWGP للوزن الثقيل بصيغتها المعتمدة عام 1987",
     "options": [
       "أنطونيو إينوكي",
-      "كوتا إيبوشي",
-      "كازوتشيكا أوكادا",
-      "إم في بي"
+      "تاتسومي فوجينامي",
+      "ريكي تشوشو",
+      "أكيرا مايدا"
     ],
     "correct": 0
   },
@@ -10626,9 +8826,9 @@ window.BSM_QUESTIONS = [
     "difficulty": "hard",
     "question": "من المصارع المطابق لهذا الإنجاز في NJPW؟ أول حامل لبطولة IWGP إنتركونتيننتال عام 2011",
     "options": [
-      "كازوتشيكا أوكادا",
-      "كينّي أوميغا",
-      "أنطونيو إينوكي",
+      "شينسكي ناكامورا",
+      "هيروشي تاناهاشي",
+      "هيروكي غوتو",
       "إم في بي"
     ],
     "correct": 3
@@ -10638,48 +8838,48 @@ window.BSM_QUESTIONS = [
     "difficulty": "hard",
     "question": "من المصارع المطابق لهذا الإنجاز في NJPW؟ أول حامل لبطولة IWGP الولايات المتحدة عام 2017",
     "options": [
-      "أنطونيو إينوكي",
-      "كوتا إيبوشي",
-      "كينّي أوميغا",
-      "إم في بي"
+      "هيروشي تاناهاشي",
+      "كازوتشيكا أوكادا",
+      "توموهيرو إيشي",
+      "كينّي أوميغا"
     ],
-    "correct": 2
+    "correct": 3
   },
   {
     "category": "wrestling",
     "difficulty": "hard",
     "question": "من المصارع المطابق لهذا الإنجاز في NJPW؟ أول حامل لبطولة IWGP العالمية للوزن الثقيل عند توحيد اللقبين عام 2021",
     "options": [
-      "كينّي أوميغا",
-      "كوتا إيبوشي",
+      "تتسويا نايتو",
       "كازوتشيكا أوكادا",
-      "أنطونيو إينوكي"
+      "ويل أوسبري",
+      "كوتا إيبوشي"
     ],
-    "correct": 1
+    "correct": 3
   },
   {
     "category": "wrestling",
     "difficulty": "hard",
     "question": "من المصارع المطابق لهذا الإنجاز في NJPW؟ الفائز ببطولة G1 Climax عام 2012",
     "options": [
-      "أنطونيو إينوكي",
       "كازوتشيكا أوكادا",
-      "إم في بي",
-      "كينّي أوميغا"
+      "هيروشي تاناهاشي",
+      "شينسكي ناكامورا",
+      "توغي ماكابي"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "category": "wrestling",
     "difficulty": "hard",
     "question": "من المصارع المطابق لهذا الإنجاز في AEW؟ أول بطل All-Atlantic عام 2022 قبل تغيير اسم اللقب إلى International",
     "options": [
-      "كريستيان كيج",
-      "إيدي كينغستون",
-      "براين كيج",
-      "باك"
+      "باك",
+      "جون موكسلي",
+      "كيني أوميغا",
+      "مالاكاي بلاك"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "category": "wrestling",
@@ -10687,9 +8887,9 @@ window.BSM_QUESTIONS = [
     "question": "من المصارع المطابق لهذا الإنجاز في AEW؟ منحه تاز بطولة FTW في يوليو 2020",
     "options": [
       "براين كيج",
-      "باك",
-      "إيدي كينغستون",
-      "كريستيان كيج"
+      "جون موكسلي",
+      "داربي ألين",
+      "كودي رودز"
     ],
     "correct": 0
   },
@@ -10698,57 +8898,81 @@ window.BSM_QUESTIONS = [
     "difficulty": "hard",
     "question": "من المصارع المطابق لهذا الإنجاز في AEW؟ انتزع بطولة Impact العالمية من كينّي أوميغا في أول حلقة Rampage عام 2021",
     "options": [
-      "باك",
-      "إيدي كينغستون",
-      "براين كيج",
-      "كريستيان كيج"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "wrestling",
-    "difficulty": "hard",
-    "question": "من المصارع المطابق لهذا الإنجاز في AEW؟ فاز ببطولة Continental Classic الأولى عام 2023",
-    "options": [
-      "باك",
-      "إيدي كينغستون",
-      "براين كيج",
-      "كريستيان كيج"
+      "هانغمان آدم بيج",
+      "كريستيان كيج",
+      "جون موكسلي",
+      "كيني أوميغا"
     ],
     "correct": 1
   },
   {
     "category": "wrestling",
     "difficulty": "hard",
+    "question": "من المصارع المطابق لهذا الإنجاز في AEW؟ فاز ببطولة Continental Classic الأولى عام 2023",
+    "options": [
+      "جون موكسلي",
+      "برايان دانيلسون",
+      "سويرف ستريكلاند",
+      "إيدي كينغستون"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
     "question": "من المصارع المطابق لهذا الإنجاز في AEW؟ انتزع بطولة AEW العالمية من هانغمان آدم بيج في Double or Nothing 2022",
     "options": [
-      "سي إم بانك",
-      "إيدي كينغستون",
-      "براين كيج",
-      "كريستيان كيج"
+      "جون موكسلي",
+      "برايان دانيلسون",
+      "إم جي إف",
+      "سي إم بانك"
     ],
-    "correct": 0
+    "correct": 3
   },
   {
     "category": "wrestling",
     "difficulty": "hard",
     "question": "من المصارع المطابق لهذا الإنجاز في TNA؟ فاز بأول بطولة King of the Mountain في Slammiversary 2015",
     "options": [
-      "مستر أندرسون",
       "كورت أنجل",
-      "جيف جاريت",
-      "كريس سابين"
+      "بوبي رود",
+      "إريك يونغ",
+      "جيف جاريت"
     ],
-    "correct": 2
+    "correct": 3
   },
   {
     "category": "wrestling",
     "difficulty": "hard",
     "question": "من المصارع المطابق لهذا الإنجاز في TNA؟ فاز بأول بطولة Impact Grand عام 2016",
     "options": [
+      "إيدي إدواردز",
+      "درو غالاوي",
       "آرون ريكس",
-      "مستر أندرسون",
+      "موس"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "question": "من المصارع المطابق لهذا الإنجاز في TNA؟ هزم بولي راي على البطولة العالمية في Destination X 2013",
+    "options": [
+      "إيه جي ستايلز",
+      "أوستن أيريز",
       "كريس سابين",
+      "بولي راي"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "question": "من المصارع المطابق لهذا الإنجاز في TNA؟ انتزع البطولة العالمية من ستينغ في Slammiversary 2011",
+    "options": [
+      "مستر أندرسون",
+      "ستينغ",
+      "بوبي رود",
       "كورت أنجل"
     ],
     "correct": 0
@@ -10756,36 +8980,12 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "question": "من المصارع المطابق لهذا الإنجاز في TNA؟ هزم بولي راي على البطولة العالمية في Destination X 2013",
-    "options": [
-      "آرون ريكس",
-      "كورت أنجل",
-      "جيف جاريت",
-      "كريس سابين"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "wrestling",
-    "difficulty": "hard",
-    "question": "من المصارع المطابق لهذا الإنجاز في TNA؟ انتزع البطولة العالمية من ستينغ في Slammiversary 2011",
-    "options": [
-      "آرون ريكس",
-      "كورت أنجل",
-      "مستر أندرسون",
-      "كريس سابين"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "wrestling",
-    "difficulty": "hard",
     "question": "من المصارع المطابق لهذا الإنجاز في TNA؟ احتفظ بالبطولة العالمية أمام بوبي رود في Bound for Glory 2011",
     "options": [
       "كورت أنجل",
-      "جيف جاريت",
-      "مستر أندرسون",
-      "آرون ريكس"
+      "بوبي رود",
+      "جيمس ستورم",
+      "إيه جي ستايلز"
     ],
     "correct": 0
   },
@@ -10794,34 +8994,34 @@ window.BSM_QUESTIONS = [
     "difficulty": "hard",
     "question": "من المصارع المطابق لهذا الوصف في WCW؟ آخر حامل لبطولة الولايات المتحدة قبل شراء WWE للاتحاد عام 2001",
     "options": [
-      "شين هيلمز",
-      "ريك فلير",
-      "باري ويندهام",
-      "بوكر تي"
+      "بوكر تي",
+      "جيف جاريت",
+      "لانس ستورم",
+      "دايموند دالاس بيج"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "category": "wrestling",
     "difficulty": "hard",
     "question": "من المصارع المطابق لهذا الوصف في WCW؟ آخر حامل لبطولة الوزن الخفيف Cruiserweight قبل شراء WWE للاتحاد عام 2001",
     "options": [
-      "بوكر تي",
-      "ريك فلير",
       "شين هيلمز",
-      "ريك رود"
+      "تشافو غيريرو",
+      "بيلي كيدمان",
+      "ري ميستيريو"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "category": "wrestling",
     "difficulty": "hard",
     "question": "من المصارع المطابق لهذا الوصف في WCW؟ أول من حمل بطولة WCW International World Heavyweight عام 1993",
     "options": [
-      "بوكر تي",
-      "ريك فلير",
+      "داستن رودز",
+      "فيندر",
       "ريك رود",
-      "باري ويندهام"
+      "ريك فلير"
     ],
     "correct": 2
   },
@@ -10830,10 +9030,10 @@ window.BSM_QUESTIONS = [
     "difficulty": "hard",
     "question": "من المصارع المطابق لهذا الوصف في WCW؟ احتفظ ببطولة الولايات المتحدة أمام بام بام بيغلو في Starrcade 1988",
     "options": [
-      "بوكر تي",
+      "ليكس لوغر",
       "باري ويندهام",
-      "ريك فلير",
-      "شين هيلمز"
+      "ستينغ",
+      "ريك شتاينر"
     ],
     "correct": 1
   },
@@ -10842,11 +9042,3761 @@ window.BSM_QUESTIONS = [
     "difficulty": "hard",
     "question": "من المصارع المطابق لهذا الوصف في WCW؟ هزم راندي سافاج على بطولة WCW العالمية في ختام Starrcade 1995",
     "options": [
-      "بوكر تي",
-      "شين هيلمز",
+      "راندي سافاج",
+      "ليكس لوغر",
       "ريك فلير",
-      "باري ويندهام"
+      "ستينغ"
     ],
     "correct": 2
+  },
+  {
+    "category": "gaming",
+    "question": "في أي إصدار من FIFA ظهر FUT Champions لأول مرة؟",
+    "options": [
+      "FIFA 16",
+      "FIFA 17",
+      "FIFA 15",
+      "FIFA 18"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "question": "في GTA V، من أفراد الثلاثي الذي يعود إلى لوس سانتوس بعد سنوات من الاختفاء؟",
+    "options": [
+      "لامار ديفيس",
+      "تريفور فيليبس",
+      "مايكل دي سانتا",
+      "فرانكلين كلينتون"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "question": "في أي جزء من Call of Duty ظهر طور الزومبي لأول مرة؟",
+    "options": [
+      "Modern Warfare 2",
+      "Black Ops II",
+      "Ghosts",
+      "World at War"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "question": "ما الاسم الحركي لسايمون رايلي في Modern Warfare؟",
+    "options": [
+      "Soap",
+      "Gaz",
+      "Ghost",
+      "Roach"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "question": "من أبطال GTA V الثلاثة؟",
+    "options": [
+      "نيكو وجوني ولويس",
+      "آرثر وجون وداتش",
+      "مايكل وتريفور وفرانكلين",
+      "سي جي وتومي وكلود"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "question": "في أي عام صدرت Red Dead Redemption 2؟",
+    "options": [
+      "2016",
+      "2019",
+      "2017",
+      "2018"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "question": "ما اسم منطقة البداية المفتوحة في Elden Ring؟",
+    "options": [
+      "Altus Plateau",
+      "Limgrave",
+      "Caelid",
+      "Liurnia"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "question": "ما اسم المدينة المنكوبة في Resident Evil 2؟",
+    "options": [
+      "Terragrigia",
+      "Raccoon City",
+      "Rockfort Island",
+      "Tall Oaks"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "question": "في GTA V، من الشخص الذي يعمل مع فرانكلين في استعادة السيارات ببداية القصة؟",
+    "options": [
+      "ليستر كريست",
+      "ديف نورتون",
+      "تريفور فيليبس",
+      "لامار ديفيس"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "question": "من بطل God of War في الأجزاء الإغريقية والنوردية؟",
+    "options": [
+      "بالدور",
+      "ثور",
+      "كريتوس",
+      "أتريوس"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "question": "في Sekiro، أي اسم ينادي به كورو حارسه الشينوبي غالبًا؟",
+    "options": [
+      "غينيتشيرو",
+      "إيشين",
+      "وولف",
+      "أوول"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "question": "في Halo: Combat Evolved، ما اسم الذكاء الاصطناعي الذي يرافق ماستر تشيف؟",
+    "options": [
+      "سيرينا",
+      "رولاند",
+      "إيزابيل",
+      "كورتانا"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "question": "في Assassin’s Creed II، من عمّ إيتزيو الذي يستقبله في مونتيريجيوني؟",
+    "options": [
+      "جيوفاني أوديتوري",
+      "فدريكو أوديتوري",
+      "لورينزو دي ميديشي",
+      "ماريو أوديتوري"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "question": "في Uncharted 4، من شقيق ناثان دريك الذي يعود إلى حياته بعد غياب طويل؟",
+    "options": [
+      "ريف أدلر",
+      "هنري إيفري",
+      "سام دريك",
+      "فيكتور سوليفان"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "question": "في أي لعبة ظهر طور Battle Royale باسم Warzone؟",
+    "options": [
+      "Call of Duty: Infinite Warfare",
+      "Call of Duty: Modern Warfare 2019",
+      "Call of Duty: WWII",
+      "Call of Duty: Ghosts"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "question": "ما اسم العالم السفلي في Minecraft؟",
+    "options": [
+      "End",
+      "Nether",
+      "Overworld",
+      "Aether"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "question": "في Bloodborne، من الشخصية التي تخبر الصياد عن الكنيسة والدم قرب بداية يارنام؟",
+    "options": [
+      "إيلين",
+      "غيرمان",
+      "جيلبرت",
+      "ألفريد"
+    ],
+    "correct": 2,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "question": "في Elden Ring، من يمنح اللاعب صفارة استدعاء الحصان الطيفي تورنت؟",
+    "options": [
+      "راني",
+      "فيا",
+      "روديريكا",
+      "ميلينا"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "question": "في Bloodborne، ما اسم المدينة التي تبدأ فيها أحداث اللعبة الرئيسية؟",
+    "options": [
+      "بوليتاريا",
+      "يارنام",
+      "لوردان",
+      "درانغليك"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "question": "في Bloodborne، ما المكان الذي يستخدمه الصياد لترقية مستواه عند الدمية؟",
+    "options": [
+      "كابوس مينسيس",
+      "حلم الصياد",
+      "يارنام القديمة",
+      "قاعة المحاضرات"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "question": "في Red Dead Redemption 2، ما اسم ابن جون وأبيغيل؟",
+    "options": [
+      "جاك مارستون",
+      "شون ماكغواير",
+      "ليني سامرز",
+      "كيران دافي"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "question": "في Resident Evil 4، ما اسم العميلة الغامضة التي تظهر لليون خلال مهمته؟",
+    "options": [
+      "ميا وينترز",
+      "ريبيكا تشامبرز",
+      "شيري بيركين",
+      "آدا وونغ"
+    ],
+    "correct": 3,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "question": "في God of War (2018)، ما اسم الأخوين القزمين اللذين يصنعان العتاد لكريتوس؟",
+    "options": [
+      "فري وفريا",
+      "بروك وسندري",
+      "ماغني ومودي",
+      "سكول وهاتي"
+    ],
+    "correct": 1,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "question": "في God of War (2018)، ما اسم رأس الحكيم الذي يرافق كريتوس وأتريوس؟",
+    "options": [
+      "ميمير",
+      "ثور",
+      "بالدور",
+      "هايمدال"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "question": "في The Last of Us، ما اسم المنظمة التي تسعى إيلي للوصول إليها في الجزء الأول؟",
+    "options": [
+      "اليراعات",
+      "الذئاب",
+      "السيرافيت",
+      "الراتلرز"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "question": "في The Last of Us Part II، ما اسم صديقة إيلي التي ترافقها إلى سياتل؟",
+    "options": [
+      "دينا",
+      "رايلي",
+      "تيس",
+      "مارلين"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "question": "في Minecraft، ما المادة التي يحتاجها اللاعب لصنع إطار بوابة Nether المعتادة؟",
+    "options": [
+      "السبج",
+      "الأندسايت",
+      "الكوارتز",
+      "الديوريت"
+    ],
+    "correct": 0,
+    "difficulty": "easy"
+  },
+  {
+    "category": "gaming",
+    "difficulty": "easy",
+    "question": "في Red Dead Redemption 2، من قائد عصابة فان دير ليند؟",
+    "options": [
+      "داتش فان دير ليند",
+      "آرثر مورغان",
+      "مايكا بيل",
+      "هوزيا ماثيوز"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "gaming",
+    "difficulty": "easy",
+    "question": "في Red Dead Redemption 2، من الذي يساعد جون على بناء منزله في الخاتمة؟",
+    "options": [
+      "أنجيلو برونتي",
+      "تشارلز سميث",
+      "مايكا بيل",
+      "كولم أودريسكول"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "gaming",
+    "difficulty": "easy",
+    "question": "في Resident Evil 2، من الشابة التي تبحث عن شقيقها كريس؟",
+    "options": [
+      "أنيت بيركن",
+      "شيري بيركن",
+      "كلير ريدفيلد",
+      "آدا وونغ"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "gaming",
+    "difficulty": "easy",
+    "question": "في Resident Evil 4، من الشخصية التي كُلّف ليون بإنقاذها؟",
+    "options": [
+      "إنغريد هانيغان",
+      "آدا وونغ",
+      "أشلي بيركن",
+      "آشلي غراهام"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "gaming",
+    "difficulty": "easy",
+    "question": "في The Last of Us، من شقيق جوئيل؟",
+    "options": [
+      "هنري",
+      "بيل",
+      "تومي",
+      "ديفيد"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "gaming",
+    "difficulty": "easy",
+    "question": "في The Last of Us Part II، من الشخصية التي ترافق آبي وتخشى المرتفعات؟",
+    "options": [
+      "أوين",
+      "ماني",
+      "يارا",
+      "ليف"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "gaming",
+    "difficulty": "easy",
+    "question": "في God of War Ragnarök، من والد ثور؟",
+    "options": [
+      "أودين",
+      "بالدور",
+      "هايمدال",
+      "تير"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "gaming",
+    "difficulty": "easy",
+    "question": "في God of War (2018)، من الذي يُعرف بالغريب ويهاجم منزل كريتوس؟",
+    "options": [
+      "ماغني",
+      "بالدور",
+      "مودي",
+      "ثور"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "gaming",
+    "difficulty": "easy",
+    "question": "في Elden Ring، من الزعيم الذي يواجهه اللاعب في قلعة ستورمفيل؟",
+    "options": [
+      "مورغوت",
+      "رادان",
+      "غودريك المطعّم",
+      "مارغيت"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "gaming",
+    "difficulty": "easy",
+    "question": "في Elden Ring، من شقيق مالينيا الذي تسعى للوصول إليه؟",
+    "options": [
+      "ميكيلا",
+      "رايكارد",
+      "غودوين",
+      "رادان"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "gaming",
+    "difficulty": "easy",
+    "question": "في The Witcher 3، من ابنة الإمبراطور إمهير التي يبحث عنها جيرالت؟",
+    "options": [
+      "كيرا ميتز",
+      "تريس",
+      "سيري",
+      "ينيفر"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "gaming",
+    "difficulty": "easy",
+    "question": "في The Witcher 3، من الساحرة التي يلتقيها جيرالت في فيلين ضمن مهمة Hunting a Witch؟",
+    "options": [
+      "كيرا ميتز",
+      "تريس ميرغولد",
+      "فيليبا إيلهارت",
+      "ينيفر"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "gaming",
+    "difficulty": "easy",
+    "question": "في Uncharted 4، من شقيق ناثان دريك؟",
+    "options": [
+      "سولي",
+      "ريف أدلر",
+      "هيكتور ألكازار",
+      "سام دريك"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "gaming",
+    "difficulty": "easy",
+    "question": "في Uncharted 2، من خصم ناثان الذي يبحث عن شامبالا؟",
+    "options": [
+      "غابرييل رومان",
+      "ريف أدلر",
+      "هاري فلين",
+      "لازاريفيتش"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "gaming",
+    "difficulty": "easy",
+    "question": "في Ghost of Tsushima، من عم جين ساكاي؟",
+    "options": [
+      "ريوزو",
+      "كينجي",
+      "إيشيكاوا",
+      "اللورد شيمورا"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "gaming",
+    "difficulty": "easy",
+    "question": "في Ghost of Tsushima، من المرأة التي تساعد جين على الهرب من الأسر؟",
+    "options": [
+      "فونا",
+      "يونا",
+      "ماساكو",
+      "تومويه"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "gaming",
+    "difficulty": "easy",
+    "question": "في Call of Duty: Modern Warfare (2007)، من قائد فريق SAS الذي يضم سوب؟",
+    "options": [
+      "غوست",
+      "غريغز",
+      "غاز",
+      "كابتن برايس"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "gaming",
+    "difficulty": "easy",
+    "question": "في Call of Duty: Modern Warfare 2 (2009)، من الذي يخون فرقة 141؟",
+    "options": [
+      "ماكاروف",
+      "سوب",
+      "الجنرال شيبرد",
+      "برايس"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "gaming",
+    "difficulty": "easy",
+    "question": "في FIFA 17، من بطل طور The Journey؟",
+    "options": [
+      "كيم هانتر",
+      "أليكس هانتر",
+      "داني ويليامز",
+      "جيم هانتر"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "gaming",
+    "difficulty": "easy",
+    "question": "في FIFA 18، من صديق أليكس هانتر الذي يصبح شخصية قابلة للعب لاحقًا في The Journey؟",
+    "options": [
+      "كيم هانتر",
+      "مايكل تايلور",
+      "داني ويليامز",
+      "جيم هانتر"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "gaming",
+    "difficulty": "easy",
+    "question": "في Resident Evil Village، من المرأة التي تحكم القلعة؟",
+    "options": [
+      "ميراندا",
+      "ميا وينترز",
+      "دونا بينيفينتو",
+      "ألسينا ديميتريسكو"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "gaming",
+    "difficulty": "easy",
+    "question": "في Skyrim، من زعيم جماعة الرفاق في وايترن؟",
+    "options": [
+      "فاركاس",
+      "كودلاك وايتمان",
+      "آيلا",
+      "فيلكاس"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "gaming",
+    "difficulty": "easy",
+    "question": "في Cyberpunk 2077، من الشخصية التي يظهر وعيها داخل رأس V؟",
+    "options": [
+      "جوني سيلفرهاند",
+      "دكستر ديشاون",
+      "جاكي ويلز",
+      "تاكيـمورا"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "gaming",
+    "question": "في أي إصدار من FIFA ظهر طور The Journey لأول مرة؟",
+    "options": [
+      "FIFA 17",
+      "FIFA 18",
+      "FIFA 19",
+      "FIFA 16"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Ultimate Team، ما الطور الذي يعتمد على اختيار تشكيلة مؤقتة بنظام اختيار اللاعبين؟",
+    "options": [
+      "Champions",
+      "Draft",
+      "Rivals",
+      "Squad Battles"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "ما اسم خريطة الزومبي الأولى في World at War؟",
+    "options": [
+      "Kino der Toten",
+      "Nacht der Untoten",
+      "Der Riese",
+      "Origins"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في أي جزء من GTA ظهرت مدينة Vice City أول مرة بوصفها الموقع الرئيسي؟",
+    "options": [
+      "GTA III",
+      "GTA IV",
+      "GTA V",
+      "GTA Vice City"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في أي مدينة تدور GTA IV أساسًا؟",
+    "options": [
+      "Vice City",
+      "Liberty City",
+      "San Fierro",
+      "Los Santos"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Batman: Arkham Knight، من مساعد باتمان الذي يُختطف خلال أحداث القصة؟",
+    "options": [
+      "ديك غرايسون",
+      "جيسون تود",
+      "ألفريد",
+      "تيم دريك"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "من هو الزعيم الذي يحكم قلعة Stormveil في Elden Ring؟",
+    "options": [
+      "غودريك",
+      "رادان",
+      "مورغوت",
+      "ريكارد"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Resident Evil، ما اسم الشركة التي طوّرت فيروس T ضمن سلسلة التجارب الأصلية؟",
+    "options": [
+      "Umbrella",
+      "Tricell",
+      "WilPharma",
+      "TerraSave"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في The Witcher 3، أي زعيم من عصابة Novigrad يُعرف بأنه تاجر معلومات؟",
+    "options": [
+      "جونيور",
+      "كليفر",
+      "ملك المتسولين",
+      "سيغيسموند ديكسترا"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "ما اسم ابن كريتوس في God of War 2018؟",
+    "options": [
+      "أتريوس",
+      "ماجني",
+      "تير",
+      "مودي"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "ما اسم الجزيرة التي تدور فيها Ghost of Tsushima؟",
+    "options": [
+      "تسوشيما",
+      "أوكيناوا",
+      "كيوشو",
+      "هوكايدو"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Mass Effect 2، ما اسم سفينة القائد شيبرد بعد إعادة بنائها لدى سيربيروس؟",
+    "options": [
+      "Destiny Ascension",
+      "Quarian Liveship",
+      "Normandy SR-2",
+      "Tempest"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في أي مدينة تدور معظم أحداث Assassin's Creed Unity؟",
+    "options": [
+      "روما",
+      "لندن",
+      "فلورنسا",
+      "باريس"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "ما اسم ابنة جوئيل في بداية The Last of Us؟",
+    "options": [
+      "إيلي",
+      "سارة",
+      "آبي",
+      "دينا"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Rocket League، كم لاعبًا يضم الفريق الواحد في طور 3v3 القياسي؟",
+    "options": [
+      "5",
+      "3",
+      "2",
+      "4"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في أي لعبة تتقاتل فرق Terrorists وCounter-Terrorists؟",
+    "options": [
+      "Overwatch",
+      "Valorant",
+      "Rainbow Six Extraction",
+      "Counter-Strike"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Cyberpunk 2077، من صديق V الذي يرافقه في عملية سرقة شريحة Relic؟",
+    "options": [
+      "فيكتور فيكتور",
+      "جاكي ويلز",
+      "تاكيمورا",
+      "دكستر ديشاون"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Elden Ring، ما اسم القلعة الواقعة في إقليم Limgrave ويحكمها غودريك؟",
+    "options": [
+      "Castle Sol",
+      "Caria Manor",
+      "Redmane Castle",
+      "Stormveil Castle"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Elden Ring، ما اسم المهرجان القتالي الذي يُقام في قلعة Redmane؟",
+    "options": [
+      "مهرجان مالينيا",
+      "مهرجان غودريك",
+      "مهرجان مورغوت",
+      "مهرجان رادان"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Elden Ring، أي شخصية تتحول إلى Goddess of Rot في المرحلة الثانية من مواجهتها؟",
+    "options": [
+      "رينالا",
+      "ميلينا",
+      "مالينيا",
+      "راني"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Elden Ring، أين يواجه اللاعب رينالا ملكة البدر؟",
+    "options": [
+      "قلعة سول",
+      "قلعة ستورمفيل",
+      "منزل البركان",
+      "أكاديمية رايا لوكاريا"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Sekiro، أين يلتقي الذئب جينيتشيرو لأول مرة قبل خسارة ذراعه؟",
+    "options": [
+      "معبد سينبو",
+      "خزان أشينا",
+      "قلعة أشينا",
+      "ضيعة هيراتا"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Dark Souls، ما اسم المدينة التي يصل إليها اللاعب بعد عبور حصن سين؟",
+    "options": [
+      "أولاسيل",
+      "أنور لوندو",
+      "إيريثيل",
+      "نيو لوندو"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Dark Souls III، ما اسم مقر رفع المستوى الذي توجد فيه حارسة النار؟",
+    "options": [
+      "مقبرة الرماد",
+      "كاتدرائية الأعماق",
+      "ضريح رابطة النار",
+      "قلعة لوثريك"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Red Dead Redemption 2، ما اسم البلدة التي تصل إليها عصابة فان دير ليند بعد مغادرة الجبال الثلجية؟",
+    "options": [
+      "أرماديلو",
+      "سان دوني",
+      "فالنتاين",
+      "بلاك ووتر"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Red Dead Redemption 2، ما اسم الجزيرة التي يصل إليها عدد من أفراد العصابة بعد حادث السفينة؟",
+    "options": [
+      "كليمينز بوينت",
+      "غوارما",
+      "غريت بلينز",
+      "سيزيكا"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في The Witcher 3، ما اسم الشاعر وصديق جيرالت المعروف بالإنجليزية باسم Dandelion؟",
+    "options": [
+      "زولتان",
+      "فيسيمير",
+      "إيمير",
+      "ياسكير"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في The Witcher 3، ما اسم الجزر التي يحكمها كراخ أن كرايت؟",
+    "options": [
+      "نوفِيغراد",
+      "فيلين",
+      "توسان",
+      "سكيليغه"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Resident Evil 2، من الشرطي الذي يساعد ليون أو كلير عند دخولهما مركز الشرطة؟",
+    "options": [
+      "روبرت كيندو",
+      "بن برتولوتشي",
+      "مارفن براناغ",
+      "براين آيرونز"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Resident Evil 7، ما اسم العائلة التي يحتجز أفرادها إيثان في لويزيانا؟",
+    "options": [
+      "عائلة بيركين",
+      "عائلة سبنسر",
+      "عائلة بيكر",
+      "عائلة ريدفيلد"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Resident Evil Village، من التاجر الذي يسمح لإيثان بشراء العتاد وترقية الأسلحة؟",
+    "options": [
+      "كريس ريدفيلد",
+      "دونا بينيفينتو",
+      "الدوق",
+      "كارل هايزنبرغ"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Ghost of Tsushima، ما اسم القائد المغولي الذي يقود الغزو؟",
+    "options": [
+      "ريوزو",
+      "خوتون خان",
+      "اللورد شيمورا",
+      "اللورد ناغاو"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في The Last of Us Part II، ما اسم الجماعة التي تتخذ من سياتل مقرًا وتُختصر WLF؟",
+    "options": [
+      "اليراعات",
+      "السيرافيت",
+      "الفيدرا",
+      "جبهة تحرير واشنطن"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Uncharted 4، ما اسم القرصان الذي يبحث ناثان دريك عن كنزه؟",
+    "options": [
+      "فرانسيس دريك",
+      "هنري إيفري",
+      "هنري مورغان",
+      "إدوارد تيتش"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Uncharted 2، ما اسم المدينة الأسطورية التي يسعى ناثان للوصول إليها؟",
+    "options": [
+      "إيرام ذات العماد",
+      "ليبرتاليا",
+      "إلدورادو",
+      "شامبالا"
+    ],
+    "correct": 3,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Portal 2، من الذكاء الاصطناعي الذي يستعيد السيطرة على منشأة Aperture بعد ويتلي؟",
+    "options": [
+      "Atlas",
+      "GLaDOS",
+      "Wheatley",
+      "Cave Johnson"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Portal 2، ما اسم النواة الآلية التي يرافقها اللاعب في بداية اللعبة؟",
+    "options": [
+      "ويتلي",
+      "بي-بودي",
+      "غلاDOS",
+      "أطلس"
+    ],
+    "correct": 0,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Skyrim، من الجماعة التي تعلّم الدوفاكين الصيحات على جبل هاي هروثغار؟",
+    "options": [
+      "أكاديمية وينترهولد",
+      "شفرات الإمبراطورية",
+      "اللحى الرمادية",
+      "الرفاق"
+    ],
+    "correct": 2,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Assassin's Creed Origins، ما اسم زوجة بايك التي تشاركه تأسيس تنظيم المخفيين؟",
+    "options": [
+      "إيفي",
+      "آيا",
+      "صوفيا",
+      "كاساندرا"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Metal Gear Solid 3، ما الاسم الحركي لمرشدة نيكيد سنيك التي تواجهه قرب نهاية اللعبة؟",
+    "options": [
+      "ذا فيوري",
+      "ذا بوس",
+      "ذا إند",
+      "ذا باين"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "question": "في Hollow Knight، ما اسم المملكة القديمة التي يستكشفها الفارس تحت الأرض؟",
+    "options": [
+      "ديبنيست",
+      "هالوونست",
+      "غرينباث",
+      "سيتي أوف تيرز"
+    ],
+    "correct": 1,
+    "difficulty": "medium"
+  },
+  {
+    "category": "gaming",
+    "difficulty": "medium",
+    "question": "في GTA San Andreas، من شقيق سي جي؟",
+    "options": [
+      "سيزار",
+      "سويت",
+      "بيغ سموك",
+      "رايدر"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "gaming",
+    "difficulty": "medium",
+    "question": "في GTA IV، من ابن عم نيكو بيليك؟",
+    "options": [
+      "ديميتري راسكالوف",
+      "بروسي كيبوتز",
+      "ليتل جاكوب",
+      "رومان بيليك"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "gaming",
+    "difficulty": "medium",
+    "question": "في Red Dead Redemption الأولى، من عميل الحكومة الذي يجبر جون على ملاحقة أفراد عصابته السابقة؟",
+    "options": [
+      "أندرو ميلتون",
+      "ليفيتيكوس كورنوال",
+      "إدغار روس",
+      "آرتشر فوردهام"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "gaming",
+    "difficulty": "medium",
+    "question": "في God of War (2018)، من أم أتريوس؟",
+    "options": [
+      "فاي",
+      "سيغن",
+      "فريا",
+      "هيل"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "gaming",
+    "difficulty": "medium",
+    "question": "في The Last of Us، من قائد اليراعات التي يعرفها جوئيل؟",
+    "options": [
+      "مارلين",
+      "ماريا",
+      "رايلي",
+      "تيس"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "gaming",
+    "difficulty": "medium",
+    "question": "في Elden Ring، من الذي يمنح اللاعب الحصان تورنت؟",
+    "options": [
+      "ميلينا",
+      "راني",
+      "رينالا",
+      "هيتا"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "gaming",
+    "difficulty": "medium",
+    "question": "في Resident Evil 7، من الابن الذي يهوى صناعة الفخاخ في عائلة بيكر؟",
+    "options": [
+      "جاك",
+      "لوكاس",
+      "إيثان",
+      "كريس"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "gaming",
+    "difficulty": "medium",
+    "question": "في The Witcher 3، من صاحب الحانة والشاعر المقرب من جيرالت؟",
+    "options": [
+      "ديكسترا",
+      "زولتان",
+      "ياسكير",
+      "لامبرت"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "gaming",
+    "difficulty": "medium",
+    "question": "في Ghost of Tsushima، من قائد قبعات القش الذي كان صديق جين؟",
+    "options": [
+      "كينجي",
+      "شيمورا",
+      "تاكا",
+      "ريوزو"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "gaming",
+    "question": "في FIFA 17، من المنافس وصديق أليكس هانتر الذي قد ينتقل لنادٍ منافس في The Journey؟",
+    "options": [
+      "غاريث ووكر",
+      "داني ويليامز",
+      "جيم هانتر",
+      "كيم هانتر"
+    ],
+    "correct": 0,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في Call of Duty: Modern Warfare 2 (2009)، ما اسم المطار الذي تجري فيه مهمة No Russian؟",
+    "options": [
+      "شيريميتيفو",
+      "فنوكوفو",
+      "دوموديدوفو",
+      "زاخاييف الدولي"
+    ],
+    "correct": 3,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في Call of Duty: Modern Warfare (2007)، ما اسم الشاب SAS الذي يتحكم به اللاعب؟",
+    "options": [
+      "جون ماكتافيش",
+      "جون برايس",
+      "غاز",
+      "غريغز"
+    ],
+    "correct": 0,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في GTA San Andreas، من ضابط الشرطة الفاسد الذي يبتز سي جي؟",
+    "options": [
+      "جيمي هيرنانديز",
+      "رالف بندلبري",
+      "فرانك تينبيني",
+      "إيدي بولاسكي"
+    ],
+    "correct": 2,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في Red Dead Redemption 2، من عضوة العصابة التي تصبح صائدة جوائز لاحقًا؟",
+    "options": [
+      "تيلي جاكسون",
+      "ماري بيث غاسكيل",
+      "سادي أدلر",
+      "أبيغيل روبرتس"
+    ],
+    "correct": 2,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في Elden Ring، من يمنح اللاعب جرس استدعاء الأرواح عندما يلتقي به في كنيسة إيله؟",
+    "options": [
+      "ميلينا",
+      "فيا",
+      "هيتا",
+      "راني"
+    ],
+    "correct": 3,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في Resident Evil 4، من الباحث السابق الذي يساعد ليون في كشف الطفيليات؟",
+    "options": [
+      "رامون سالازار",
+      "أوزموند سادلر",
+      "بيتوريس مينديز",
+      "لويس سيرا"
+    ],
+    "correct": 3,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في Resident Evil 7، من رئيس عائلة بيكر الذي يلاحق إيثان في بداية اللعبة؟",
+    "options": [
+      "لوكاس بيكر",
+      "مارغريت بيكر",
+      "جو بيكر",
+      "جاك بيكر"
+    ],
+    "correct": 3,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في The Witcher 3، من يترأس جماعة الساحرات التي تحاول سيري الاستفادة من معرفتها؟",
+    "options": [
+      "فيليبا إيلهارت",
+      "تريس ميريغولد",
+      "كيرا ميتز",
+      "فرينغيلا فيغو"
+    ],
+    "correct": 0,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في God of War Ragnarök، ما اسم الرمح الذي يحصل عليه كريتوس في سفارتالفهايم؟",
+    "options": [
+      "دراوبنير",
+      "ليفياثان",
+      "ميولنير",
+      "غونغنير"
+    ],
+    "correct": 0,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في Ghost of Tsushima، من صديق جين الذي يقود جماعة قبعات القش؟",
+    "options": [
+      "ريوزو",
+      "إيشيكاوا",
+      "نوريـو",
+      "كينجي"
+    ],
+    "correct": 0,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في Skyrim، ما الغرض الذي يطلبه حكماء غراي بيردز من الدراغونبورن إحضاره من أوستينغراف؟",
+    "options": [
+      "مخطوطة إلدر",
+      "تاج بارينزياه",
+      "قناع كوناريك",
+      "قرن يورغن ويندكولر"
+    ],
+    "correct": 3,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في Horizon Zero Dawn، من المرأة الحكيمة التي تدافع عن ألوي في طقوس Nora؟",
+    "options": [
+      "سونا",
+      "فالا",
+      "تيرسا",
+      "لانسرا"
+    ],
+    "correct": 2,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في Tomb Raider (2013)، من صديقة لارا التي تسعى لإنقاذها من طقوس جزيرة ياماتاي؟",
+    "options": [
+      "سام نيشيمورا",
+      "راييس",
+      "آنا",
+      "تراينتي"
+    ],
+    "correct": 0,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في Minecraft، أي مادة تُستخدم لإصلاح أداة الإليترا على السندان؟",
+    "options": [
+      "غشاء الفانتوم",
+      "غبار الريدستون",
+      "قضيب البليز",
+      "لؤلؤة الإندر"
+    ],
+    "correct": 0,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في Valorant، أي عميلة تستخدم كرة علاج وقوة الإحياء؟",
+    "options": [
+      "Sage",
+      "Skye",
+      "Reyna",
+      "Jett"
+    ],
+    "correct": 0,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في Sekiro، ما المورد الذي تستهلكه أدوات اليد الصناعية عند استخدامها عادةً؟",
+    "options": [
+      "الشعارات الروحية",
+      "أكياس المال",
+      "حبوب العلاج",
+      "قصاصات الحديد"
+    ],
+    "correct": 0,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في Dark Souls، من يحرس جرس الصحوة فوق كنيسة الموتى الأحياء؟",
+    "options": [
+      "حراس الهاوية",
+      "شياطين الثور",
+      "غرغولا الجرس",
+      "فرسان الفضة"
+    ],
+    "correct": 2,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في Red Dead Redemption 2، من وكيل بينكرتون الذي يلاحق عصابة داتش باستمرار؟",
+    "options": [
+      "أنجيلو برونتي",
+      "أندرو ميلتون",
+      "كولم أودريسكول",
+      "ليفيتيكوس كورنوال"
+    ],
+    "correct": 1,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في Red Dead Redemption 2، ما اسم المعسكر الذي تقيم فيه العصابة قرب رودس؟",
+    "options": [
+      "بيفر هولو",
+      "كولتر",
+      "كليمينز بوينت",
+      "هورسشو أوفرلوك"
+    ],
+    "correct": 2,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في The Witcher 3، من الساحرة التي يبحث عنها جيرالت قرب قرية Midcopse في مهمة Hunting a Witch؟",
+    "options": [
+      "فرينغيلا فيغو",
+      "فيليبا إيلهارت",
+      "كيرا ميتز",
+      "تريس ميريغولد"
+    ],
+    "correct": 2,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في The Witcher 3: Blood and Wine، ما اسم دوقة توسان التي تكلف جيرالت بالتحقيق في جرائم الوحش؟",
+    "options": [
+      "سيانا",
+      "فيليبا إيلهارت",
+      "رينفري",
+      "آنا هنرييتا"
+    ],
+    "correct": 3,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في God of War Ragnarök، ما اسم الذئب الذي ينقل أتريوس روحه لاحقًا إلى جسد غارم؟",
+    "options": [
+      "فنرير",
+      "هاتي",
+      "غرايدونغر",
+      "سكول"
+    ],
+    "correct": 0,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في Ghost of Tsushima، ما اسم الشاب الحداد الذي يساعد المقاومة وهو شقيق يونا؟",
+    "options": [
+      "إيشيكاوا",
+      "نوريـو",
+      "تاكا",
+      "ريوزو"
+    ],
+    "correct": 2,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في Ghost of Tsushima، من الحداد الذي يصنع خطاف التسلق لجين؟",
+    "options": [
+      "إيشيكاوا",
+      "تاكا",
+      "كينجي",
+      "ريوزو"
+    ],
+    "correct": 1,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في Fallout: New Vegas، ما اسم الفندق والكازينو الذي يقيم فيه السيد هاوس؟",
+    "options": [
+      "لاكي 38",
+      "غومورا",
+      "ذا توبس",
+      "ألترا لوكس"
+    ],
+    "correct": 0,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في Skyrim، من التنين الذي يقابله اللاعب على قمة حنجرة العالم؟",
+    "options": [
+      "ألدوين",
+      "أودافينغ",
+      "دورنيهفير",
+      "بارثورناكس"
+    ],
+    "correct": 3,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في Assassin's Creed II، ما اسم شقيق إيتزيو الأصغر الذي يُعدم مع والده؟",
+    "options": [
+      "بيتروتشيو",
+      "ليوناردو",
+      "ماكيافيلي",
+      "بارتولوميو"
+    ],
+    "correct": 0,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في Metal Gear Solid، ما اسم الجزيرة التي تقع فيها منشأة التخلص من الأسلحة النووية؟",
+    "options": [
+      "غروزني غراد",
+      "بيغ شِل",
+      "شادو موزِس",
+      "مازر بيس"
+    ],
+    "correct": 2,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "difficulty": "hard",
+    "question": "في Sekiro، من الشاب الذي يحميه الذئب؟",
+    "options": [
+      "كورو",
+      "غينيتشيرو",
+      "أوول",
+      "إيشين"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "gaming",
+    "difficulty": "hard",
+    "question": "في GTA V، من الشخصية التي تخطط لعمليات السطو وتساعد الثلاثي؟",
+    "options": [
+      "ستيف هينز",
+      "ليستر كريست",
+      "ديف نورتون",
+      "لامار ديفيس"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "gaming",
+    "difficulty": "hard",
+    "question": "في Red Dead Redemption 2، من الذي يُشتبه في خيانته للعصابة قرب نهاية القصة؟",
+    "options": [
+      "خافيير إسكويلا",
+      "تشارلز سميث",
+      "بيل ويليامسون",
+      "مايكا بيل"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "gaming",
+    "difficulty": "hard",
+    "question": "في The Last of Us Part II، من والد آبي الذي كان جراحًا مع اليراعات؟",
+    "options": [
+      "ماني ألفاريز",
+      "جيري أندرسون",
+      "آيزاك ديكسون",
+      "أوين مور"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "gaming",
+    "difficulty": "hard",
+    "question": "في Resident Evil 2، من والد شيري بيركن؟",
+    "options": [
+      "روبرت كيندو",
+      "ليون كينيدي",
+      "ويليام بيركن",
+      "براين آيرونز"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "gaming",
+    "difficulty": "hard",
+    "question": "في God of War Ragnarök، من ابنة ثور التي تصادق أتريوس؟",
+    "options": [
+      "ثرود",
+      "أنغربودا",
+      "سيف",
+      "فريا"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "gaming",
+    "difficulty": "hard",
+    "question": "في Uncharted 4، من زوجة ناثان دريك؟",
+    "options": [
+      "إيلينا فيشر",
+      "ماريسا تشيس",
+      "نادين روس",
+      "كلوي فريزر"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "gaming",
+    "difficulty": "hard",
+    "question": "في The Witcher 3، من زعيم الـ Wild Hunt؟",
+    "options": [
+      "أفالاخ",
+      "إيريدين",
+      "كارانثير",
+      "إيمليـرث"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "gaming",
+    "difficulty": "hard",
+    "question": "في FIFA 17، من جد أليكس هانتر الذي كان لاعب كرة قدم؟",
+    "options": [
+      "جيم هانتر",
+      "غاريث ووكر",
+      "مايكل تايلور",
+      "داني ويليامز"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "gaming",
+    "difficulty": "hard",
+    "question": "في Call of Duty: Modern Warfare 2 (2009)، من الذي يقتل غوست وروتش؟",
+    "options": [
+      "زاخاييف",
+      "رُوَس",
+      "الجنرال شيبرد",
+      "ماكاروف"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "gaming",
+    "difficulty": "hard",
+    "question": "في GTA V، من يملك شركة سحب السيارات التي يعمل فيها فرانكلين ولامار؟",
+    "options": [
+      "مارتن مادرازو",
+      "ديف نورتون",
+      "سيميون يتاريان",
+      "ليستر كريست"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "gaming",
+    "difficulty": "hard",
+    "question": "في Elden Ring، من الزعيم الذي يقاتل اللاعب فوق حصان صغير في ساحة صحراوية؟",
+    "options": [
+      "مورغوت",
+      "رايكارد",
+      "غودريك",
+      "الجنرال رادان"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "gaming",
+    "difficulty": "hard",
+    "question": "في Red Dead Redemption 2، من زوجة جون مارستون؟",
+    "options": [
+      "سادي",
+      "أبيغيل",
+      "ماري بيث",
+      "تيلي"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "gaming",
+    "difficulty": "hard",
+    "question": "في Resident Evil 4، من الزعيم الذي يقود طائفة لوس إيلومينادوس؟",
+    "options": [
+      "لويس سيرا",
+      "أوزموند سادلر",
+      "رامون سالازار",
+      "بيتوريس مينديز"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "gaming",
+    "question": "في The Last of Us، من الفتاة التي كانت صديقة إيلي قبل أحداث اللعبة؟",
+    "options": [
+      "سارة",
+      "تيس",
+      "رايلي",
+      "مارلين"
+    ],
+    "correct": 2,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في Red Dead Redemption 2، من المصارع القديم الذي يتكرر تذمره من ألم الظهر داخل العصابة؟",
+    "options": [
+      "القس سوانسون",
+      "العم",
+      "بيرسون",
+      "هوزيا"
+    ],
+    "correct": 1,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "ما اسم عملة شراء اللاعبين في Ultimate Team؟",
+    "options": [
+      "FC Points",
+      "FIFA Points",
+      "Coins",
+      "Draft Tokens"
+    ],
+    "correct": 2,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في Resident Evil 4، من التاجر الذي يبيع ليون الأسلحة في النسخة الأصلية؟",
+    "options": [
+      "بيتوريس مينديز",
+      "التاجر الغامض",
+      "رامون سالازار",
+      "لويس سيرا"
+    ],
+    "correct": 1,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في GTA San Andreas، من زعيم عصابة Grove Street Families وشقيق سي جي؟",
+    "options": [
+      "سيزار",
+      "بيغ سموك",
+      "رايدر",
+      "سويت"
+    ],
+    "correct": 3,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في The Last of Us Part II، من قائد جبهة تحرير واشنطن؟",
+    "options": [
+      "تومي",
+      "جيسي",
+      "آيزاك ديكسون",
+      "أوين مور"
+    ],
+    "correct": 2,
+    "difficulty": "hard"
+  },
+  {
+    "category": "gaming",
+    "question": "في God of War Ragnarök، من الذي يصنع الرمح دراوبنير لكريتوس؟",
+    "options": [
+      "فريا",
+      "سيدة الحدادة",
+      "بروك",
+      "سندري"
+    ],
+    "correct": 1,
+    "difficulty": "hard"
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من فاز بلقب WWF في WrestleMania III بعد مواجهة أندريه العملاق؟",
+    "options": [
+      "هالك هوغان",
+      "راندي سافاج",
+      "رودي بايبر",
+      "كينغ كونغ بندي"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من فاز ببطولة WWF للمرة الأولى في WrestleMania IV عام 1988؟",
+    "options": [
+      "راندي سافاج",
+      "تيد ديبياسي",
+      "هالك هوغان",
+      "أندريه العملاق"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من أطاح بهالك هوغان في WrestleMania VI وانتزع بطولة WWF عام 1990؟",
+    "options": [
+      "راندي سافاج",
+      "سارجنت سلوتر",
+      "ألتيميت واريور",
+      "ريك رود"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من انتزع بطولة WWF من بريت هارت في WrestleMania IX عام 1993 قبل تدخل هوغان؟",
+    "options": [
+      "يوكوزونا",
+      "شون مايكلز",
+      "ريزر رامون",
+      "مستر بيرفكت"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من فاز على يوكوزونا في الحدث الرئيسي لـWrestleMania X عام 1994؟",
+    "options": [
+      "أندرتيكر",
+      "شون مايكلز",
+      "بريت هارت",
+      "ليكس لوغر"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من انتزع بطولة WWF من ديزل في Survivor Series عام 1995؟",
+    "options": [
+      "بريت هارت",
+      "شون مايكلز",
+      "أندرتيكر",
+      "سايكو سيد"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من واجه بريت هارت في مباراة الرجل الحديدي الشهيرة في WrestleMania XII عام 1996؟",
+    "options": [
+      "ديزل",
+      "شون مايكلز",
+      "أندرتيكر",
+      "ستون كولد"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من فاز ببطولة WWF في WrestleMania XIV عام 1998 بعد مواجهة شون مايكلز؟",
+    "options": [
+      "كين",
+      "ستون كولد ستيف أوستن",
+      "ذا روك",
+      "أندرتيكر"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من هزم ذا روك في WrestleMania XV عام 1999 ليفوز ببطولة WWF؟",
+    "options": [
+      "مانكايند",
+      "بيغ شو",
+      "ستون كولد ستيف أوستن",
+      "تربل إتش"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من فاز بمواجهة بطولة WWF الرباعية في WrestleMania 2000؟",
+    "options": [
+      "ذا روك",
+      "ميك فولي",
+      "بيغ شو",
+      "تربل إتش"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من غدر بذا روك وانضم لفينس مكمان في نهاية WrestleMania X-Seven؟",
+    "options": [
+      "تربل إتش",
+      "كورت أنجل",
+      "أندرتيكر",
+      "ستون كولد ستيف أوستن"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من خسر بطولة WWE أمام بروك ليسنر في SummerSlam 2002؟",
+    "options": [
+      "ذا روك",
+      "أندرتيكر",
+      "كورت أنجل",
+      "تربل إتش"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من هزمه بروك ليسنر ليفوز ببطولة WWE في WrestleMania XIX عام 2003؟",
+    "options": [
+      "كورت أنجل",
+      "بيغ شو",
+      "أندرتيكر",
+      "إيدج"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من جعل تربل إتش يستسلم في مباراة WrestleMania XX الثلاثية عام 2004؟",
+    "options": [
+      "إيدج",
+      "راندي أورتن",
+      "كريس بنوا",
+      "شون مايكلز"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من انتزع بطولة العالم للوزن الثقيل من تربل إتش في WrestleMania 21؟",
+    "options": [
+      "جون سينا",
+      "باتيستا",
+      "راندي أورتن",
+      "شون مايكلز"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من خسر أمام جون سينا في WrestleMania 21 على بطولة WWE؟",
+    "options": [
+      "جون برادشو ليفيلد",
+      "كورت أنجل",
+      "إيدج",
+      "كريس جيريكو"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من شارك ري ميستيريو وكورت أنجل في ثلاثية بطولة العالم في WrestleMania 22؟",
+    "options": [
+      "شون مايكلز",
+      "راندي أورتن",
+      "إيدج",
+      "باتيستا"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من هزم أوماغا في WrestleMania 23 ضمن مباراة معركة المليارديرات؟",
+    "options": [
+      "باتيستا",
+      "بوبي لاشلي",
+      "جون سينا",
+      "كريس جيريكو"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من تقابل مع ريك فلير في مباراة اعتزاله في WrestleMania XXIV؟",
+    "options": [
+      "شون مايكلز",
+      "تربل إتش",
+      "أندرتيكر",
+      "جون سينا"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من هزم إيدج وبيغ شو في مباراة ثلاثية على بطولة العالم في WrestleMania 25؟",
+    "options": [
+      "سي إم بانك",
+      "جيف هاردي",
+      "راي ميستيريو",
+      "جون سينا"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من أنهى مسيرة شون مايكلز في WrestleMania 26 عام 2010؟",
+    "options": [
+      "أندرتيكر",
+      "تربل إتش",
+      "جون سينا",
+      "كريس جيريكو"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من واجه ذا ميز على بطولة WWE في الحدث الرئيسي لـWrestleMania 27؟",
+    "options": [
+      "جون سينا",
+      "راندي أورتن",
+      "سي إم بانك",
+      "جون موريسون"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من هزم جون سينا في الحدث الرئيسي لـWrestleMania 28 عام 2012؟",
+    "options": [
+      "تربل إتش",
+      "ذا روك",
+      "بروك ليسنر",
+      "سي إم بانك"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من خسر أمام جون سينا في مباراة العودة على بطولة WWE في WrestleMania 29؟",
+    "options": [
+      "ذا روك",
+      "بروك ليسنر",
+      "راندي أورتن",
+      "سي إم بانك"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من كسر سلسلة أندرتيكر في WrestleMania XXX؟",
+    "options": [
+      "تربل إتش",
+      "براي وايت",
+      "بروك ليسنر",
+      "سي إم بانك"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من صرف حقيبة Money in the Bank أثناء الحدث الرئيسي في WrestleMania 31؟",
+    "options": [
+      "دين أمبروز",
+      "دولف زيغلر",
+      "راندي أورتن",
+      "سيث رولينز"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من تغلب على تربل إتش ليفوز ببطولة WWE في WrestleMania 32؟",
+    "options": [
+      "بروك ليسنر",
+      "رومن رينز",
+      "دين أمبروز",
+      "سيث رولينز"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من واجه أندرتيكر في الحدث الرئيسي لـWrestleMania 33؟",
+    "options": [
+      "رومن رينز",
+      "جون سينا",
+      "بروك ليسنر",
+      "براي وايت"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من هزم بروك ليسنر ليصبح البطل الموحد في WrestleMania 38؟",
+    "options": [
+      "سيث رولينز",
+      "رومن رينز",
+      "درو ماكنتاير",
+      "بوبي لاشلي"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من هزم رومن رينز لينهي عهده الطويل ببطولة WWE في WrestleMania XL؟",
+    "options": [
+      "كودي رودز",
+      "سيث رولينز",
+      "جاي أوسو",
+      "درو ماكنتاير"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من قاد فريق The Shield رفقة رومن رينز وسيث رولينز؟",
+    "options": [
+      "إيه جي ستايلز",
+      "كيفن أوينز",
+      "دين أمبروز",
+      "براي وايت"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من كان أول قائد لفريق The Judgment Day قبل إبعاده عام 2022؟",
+    "options": [
+      "فين بالور",
+      "داميان بريست",
+      "دومينيك ميستيريو",
+      "إيدج"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من انضم إلى The Judgment Day بعد مهاجمة إيدج عام 2022؟",
+    "options": [
+      "سي إم بانك",
+      "شينسكي ناكامورا",
+      "فين بالور",
+      "سامي زين"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من أسس فريق The Wyatt Family في WWE؟",
+    "options": [
+      "إريك روان",
+      "برون سترومان",
+      "براي وايت",
+      "لوك هاربر"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من كان العضو الثالث في فريق New Day مع كوفي كينغستون وبيغ إي؟",
+    "options": [
+      "آر تروث",
+      "سيدريك ألكسندر",
+      "تايتوس أونيل",
+      "إكزافيير وودز"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من خاض مباراة القفص ضد أندرتيكر في King of the Ring 1998؟",
+    "options": [
+      "كين",
+      "تربل إتش",
+      "ذا روك",
+      "مانكايند"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من فاز ببطولة WWE في Survivor Series 2002 داخل أول Elimination Chamber؟",
+    "options": [
+      "شون مايكلز",
+      "تربل إتش",
+      "كريس جيريكو",
+      "كين"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من صرف حقيبة Money in the Bank لينتزع بطولة WWE من جون سينا في New Year’s Revolution 2006؟",
+    "options": [
+      "روب فان دام",
+      "سي إم بانك",
+      "كين",
+      "إيدج"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من صرف أول حقيبة Money in the Bank بنجاح عام 2006؟",
+    "options": [
+      "روب فان دام",
+      "سي إم بانك",
+      "كين",
+      "إيدج"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من فاز على جون سينا في Money in the Bank 2011 وخرج ببطولة WWE؟",
+    "options": [
+      "سي إم بانك",
+      "ألبرتو دل ريو",
+      "إيدج",
+      "دانيال براين"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من صاحب عبارة YES! الذي فاز بالبطولة في WrestleMania XXX؟",
+    "options": [
+      "دانيال براين",
+      "سي إم بانك",
+      "جون سينا",
+      "دولف زيغلر"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من هزم جون سينا في SummerSlam 2013 ليفوز ببطولة WWE قبل صرف أورتن الحقيبة؟",
+    "options": [
+      "سي إم بانك",
+      "تربل إتش",
+      "شيمس",
+      "دانيال براين"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من كان الحكم الخاص الذي ساعد راندي أورتن على صرف الحقيبة في SummerSlam 2013؟",
+    "options": [
+      "فينس مكمان",
+      "شون مايكلز",
+      "جون لورينايتس",
+      "تربل إتش"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من صرف حقيبته على دانيال براين وانتزع بطولة WWE في SummerSlam 2013؟",
+    "options": [
+      "راندي أورتن",
+      "جون سينا",
+      "شيمس",
+      "دولف زيغلر"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من انتزع بطولة العالم للوزن الثقيل من ألبرتو دل ريو بعد WrestleMania 29 بصرف الحقيبة؟",
+    "options": [
+      "شيمس",
+      "دولف زيغلر",
+      "جاك سواغر",
+      "مارك هنري"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من كان ضمن Evolution مع ريك فلير وتربل إتش وباتيستا؟",
+    "options": [
+      "راندي أورتن",
+      "جون سينا",
+      "كودي رودز",
+      "تيد ديبياسي الابن"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من فاز على سي إم بانك في Royal Rumble 2013 لينهي عهده ببطولة WWE؟",
+    "options": [
+      "جون سينا",
+      "بروك ليسنر",
+      "كريس جيريكو",
+      "ذا روك"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من كان أول بطل WWE بعد انفصال علامتي RAW وSmackDown في 2016؟",
+    "options": [
+      "راندي أورتن",
+      "رومن رينز",
+      "دين أمبروز",
+      "سيث رولينز"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من انتزع بطولة WWE من دين أمبروز في Backlash 2016؟",
+    "options": [
+      "جون سينا",
+      "راندي أورتن",
+      "براي وايت",
+      "إيه جي ستايلز"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من فاز ببطولة WWE من جون سينا في Elimination Chamber 2017؟",
+    "options": [
+      "راندي أورتن",
+      "إيه جي ستايلز",
+      "دين أمبروز",
+      "براي وايت"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من فاز ببطولة WWE العالمية في WrestleMania 35 أمام بروك ليسنر؟",
+    "options": [
+      "رومن رينز",
+      "فين بالور",
+      "درو ماكنتاير",
+      "سيث رولينز"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من فاز بلقب WWE على بروك ليسنر في WrestleMania 36 دون جمهور؟",
+    "options": [
+      "سيث رولينز",
+      "بوبي لاشلي",
+      "راندي أورتن",
+      "درو ماكنتاير"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من فاز على راندي أورتن لانتزاع بطولة WWE في RAW عام 2020؟",
+    "options": [
+      "إيه جي ستايلز",
+      "سيث رولينز",
+      "درو ماكنتاير",
+      "ذا ميز"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من فاز بحقيبة Money in the Bank لعام 2019 ثم صرفها في Extreme Rules بعد أسابيع؟",
+    "options": [
+      "بروك ليسنر",
+      "براون سترومان",
+      "بارون كوربن",
+      "داميان سانداو"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من صرف حقيبة Money in the Bank ليفوز ببطولة العالم في WrestleMania 31؟",
+    "options": [
+      "داميان بريست",
+      "سيث رولينز",
+      "دولف زيغلر",
+      "إيدج"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من صرف حقيبة Money in the Bank خلال WrestleMania XL ضد درو ماكنتاير؟",
+    "options": [
+      "فين بالور",
+      "إل إيه نايت",
+      "داميان بريست",
+      "سيث رولينز"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من أحرز بطولة القارات في WrestleMania XL وأنهى عهد غونثر الطويل؟",
+    "options": [
+      "تشاد غيبل",
+      "كيفن أوينز",
+      "جاي أوسو",
+      "سامي زين"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من انتزع بطولة WWE من كوفي كينغستون خلال حلقة SmackDown عام 2019؟",
+    "options": [
+      "راندي أورتن",
+      "دانيال براين",
+      "سيث رولينز",
+      "بروك ليسنر"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من هزم دانيال براين ليفوز ببطولة WWE في WrestleMania 35؟",
+    "options": [
+      "راندي أورتن",
+      "كوفي كينغستون",
+      "إيه جي ستايلز",
+      "رومان رينز"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من هزم بيغ إي على بطولة WWE في Day 1 عام 2022؟",
+    "options": [
+      "كيفن أوينز",
+      "بروك ليسنر",
+      "سيث رولينز",
+      "بوبي لاشلي"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من انتزع بطولة WWE من بروك ليسنر في WrestleMania 38؟",
+    "options": [
+      "درو ماكنتاير",
+      "بوبي لاشلي",
+      "رومن رينز",
+      "سيث رولينز"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من عاد إلى WWE في WrestleMania 38 كخصم مفاجئ لسيث رولينز؟",
+    "options": [
+      "سي إم بانك",
+      "جون سينا",
+      "كودي رودز",
+      "بري وايت"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من حصل على جائزة ملك الحلبة لعام 2024 بعد مواجهة راندي أورتن؟",
+    "options": [
+      "إل إيه نايت",
+      "سامي زين",
+      "جاي أوسو",
+      "غونثر"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من واجه رومن رينز في نزال Tribal Combat في SummerSlam 2023؟",
+    "options": [
+      "سامي زين",
+      "جاي أوسو",
+      "جيمي أوسو",
+      "سولو سيكوا"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من فاز على رومن رينز في Royal Rumble 2022 نتيجة عدم الأهلية؟",
+    "options": [
+      "سيث رولينز",
+      "كيفن أوينز",
+      "درو ماكنتاير",
+      "براي وايت"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من اتحد مع كيفن أوينز للفوز ببطولة الفرق من الأوسوز في WrestleMania 39؟",
+    "options": [
+      "سيث رولينز",
+      "سامي زين",
+      "جوني غارغانو",
+      "تشاد غيبل"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من جرى تقديمه كزعيم Bloodline في بداياته مع بول هيمان؟",
+    "options": [
+      "جيمي أوسو",
+      "رومن رينز",
+      "جاي أوسو",
+      "سولو سيكوا"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من كان اسم والد كودي رودز الشهير في المصارعة؟",
+    "options": [
+      "ريك فلير",
+      "بوب أورتن",
+      "تيري فانك",
+      "داستي رودز"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من شارك راندي أورتن في فريق Rated-RKO؟",
+    "options": [
+      "كريستيان",
+      "جون سينا",
+      "شون مايكلز",
+      "إيدج"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من كان شريك ذا روك في فريق Rock ’n’ Sock Connection؟",
+    "options": [
+      "تربل إتش",
+      "كريس جيريكو",
+      "مانكايند",
+      "ستون كولد"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من كان شريك شون مايكلز في DX عند تأسيس المجموعة عام 1997؟",
+    "options": [
+      "تشاينا",
+      "إكس باك",
+      "تربل إتش",
+      "شين مكمان"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من فاز ببطولة العالم بعد هزيمة هالك هوغان في Starrcade 1997؟",
+    "options": [
+      "ستينغ",
+      "ريك فلير",
+      "ليكس لوغر",
+      "سكوت هول"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من واجه هالك هوغان في عرض Bash at the Beach 1994 على بطولة WCW؟",
+    "options": [
+      "فيندر",
+      "ريك فلير",
+      "ستينغ",
+      "ليكس لوغر"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من دافع بنجاح عن بطولة WCW أمام دايموند دالاس بيج في Halloween Havoc 1998؟",
+    "options": [
+      "بريت هارت",
+      "كيفن ناش",
+      "غولدبيرغ",
+      "هالك هوغان"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من أنهى سلسلة غولدبيرغ بلا هزيمة في WCW Starrcade 1998؟",
+    "options": [
+      "كيفن ناش",
+      "هالك هوغان",
+      "سكوت هول",
+      "ستينغ"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من دخل nWo بصفته العضو الثالث في Bash at the Beach 1996؟",
+    "options": [
+      "ستينغ",
+      "راندي سافاج",
+      "ريك فلير",
+      "هالك هوغان"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من كان أول من يظهر من Outsiders في WCW Nitro عام 1996؟",
+    "options": [
+      "سكوت هول",
+      "كيفن ناش",
+      "هالك هوغان",
+      "إريك بيشوف"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من كان شريك سكوت هول ضمن Outsiders؟",
+    "options": [
+      "كيفن ناش",
+      "هالك هوغان",
+      "سينكس",
+      "سيد فيشس"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من اشتهر في WCW بحركة Diamond Cutter؟",
+    "options": [
+      "كيفن ناش",
+      "ستينغ",
+      "بوكر تي",
+      "دايموند دالاس بيج"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من كان الخصم الأساسي لستينغ في مواجهة Starrcade 1997؟",
+    "options": [
+      "بريت هارت",
+      "هالك هوغان",
+      "ريك فلير",
+      "كيفن ناش"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من حاز بطولة WCW العالمية بعد Starrcade 1999 ضد غولدبيرغ؟",
+    "options": [
+      "جيف جاريت",
+      "بريت هارت",
+      "ستينغ",
+      "كيفن ناش"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من كان شريك ستيفي راي في فريق Harlem Heat؟",
+    "options": [
+      "سكوت شتاينر",
+      "بوكر تي",
+      "ستينغ",
+      "دايموند دالاس بيج"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من فاز ببطولة King of Cable بعد هزيمة فيدر في Starrcade 1992؟",
+    "options": [
+      "ستينغ",
+      "رون سيمونز",
+      "ريك رود",
+      "باري ويندهام"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من عُرف باسم Big Poppa Pump بعد تحوله إلى مسيرة فردية في WCW؟",
+    "options": [
+      "كيفن ناش",
+      "سيد فيشس",
+      "سكوت شتاينر",
+      "ريك شتاينر"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من كان شريك سكوت شتاينر في فريق Steiner Brothers؟",
+    "options": [
+      "ستيفي راي",
+      "ريك شتاينر",
+      "ليكس لوغر",
+      "بوكر تي"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من هزم ريك فلير ليفوز ببطولة NWA العالمية عام 1986 في Great American Bash؟",
+    "options": [
+      "باري ويندهام",
+      "داستي رودز",
+      "ستينغ",
+      "ليكس لوغر"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من المصارع المعروف في ECW بلقب The Whole F’n Show؟",
+    "options": [
+      "تومي دريمر",
+      "سابو",
+      "تاز",
+      "روب فان دام"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من كان خصم روب فان دام في نزال One Night Stand 2006 على بطولة WWE؟",
+    "options": [
+      "جون سينا",
+      "إيدج",
+      "كورت أنجل",
+      "راي ميستيريو"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من انتزع لقب ECW عن روب فان دام في صيف 2006؟",
+    "options": [
+      "سابو",
+      "تومي دريمر",
+      "سي إم بانك",
+      "بيغ شو"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من اشتهر في ECW باسم The Human Suplex Machine؟",
+    "options": [
+      "مايك أوسم",
+      "تاز",
+      "ساموا جو",
+      "سابو"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من اشتهر في ECW باسم The Innovator of Violence؟",
+    "options": [
+      "ساندمان",
+      "تومي دريمر",
+      "ريفن",
+      "سابو"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من كان بطل ECW الذي خسر البطولة أمام بوبي لاشلي في December to Dismember 2006؟",
+    "options": [
+      "بيغ شو",
+      "سي إم بانك",
+      "روب فان دام",
+      "سابو"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من كان شريك ديفون دادلي في فريق Dudley Boyz؟",
+    "options": [
+      "بوبا راي دادلي",
+      "سبايك دادلي",
+      "روب فان دام",
+      "تومي دريمر"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من فاز بمواجهة ثلاثية على بطولة X Division في Unbreakable 2005؟",
+    "options": [
+      "كورت أنجل",
+      "إيه جي ستايلز",
+      "ساموا جو",
+      "كريستوفر دانيلز"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من انتزع بطولة TNA العالمية من كورت أنجل في Lockdown 2008؟",
+    "options": [
+      "كريستوفر دانيلز",
+      "كريستيان كيج",
+      "ساموا جو",
+      "إيه جي ستايلز"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من كان أول بطل عالم لاتحاد TNA بعد إطلاق البطولة رسميًا باسم TNA عام 2007؟",
+    "options": [
+      "إيه جي ستايلز",
+      "كورت أنجل",
+      "ساموا جو",
+      "ستينغ"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من هزم جيف جاريت ليصبح بطل NWA في Bound for Glory 2006؟",
+    "options": [
+      "كورت أنجل",
+      "ستينغ",
+      "أبيس",
+      "ساموا جو"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من احتفظ ببطولة TNA العالمية أمام ستينغ في Bound for Glory 2009؟",
+    "options": [
+      "إيه جي ستايلز",
+      "كورت أنجل",
+      "ساموا جو",
+      "كريستوفر دانيلز"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من واجه كورت أنجل في نزال التقاعد بمهرجان WrestleMania 35؟",
+    "options": [
+      "تشاد غيبل",
+      "درو ماكنتاير",
+      "بارون كوربن",
+      "جون سينا"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من فاز ببطولة NWA للوزن الثقيل في أول عرض أسبوعي لـTNA عام 2002؟",
+    "options": [
+      "كين شامروك",
+      "جيف جاريت",
+      "آر تروث",
+      "كورت أنجل"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من هزم بولي راي ليفوز ببطولة TNA العالمية في Destination X عام 2013؟",
+    "options": [
+      "كريس سابين",
+      "إيه جي ستايلز",
+      "ساموا جو",
+      "أوستن أيريز"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من فاز بمواجهة Ultimate X على لقب X Division في Bound for Glory 2013؟",
+    "options": [
+      "ساموا جو",
+      "أوستن أيريز",
+      "كريس سابين",
+      "مانيـك"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من كان شريك مات هاردي الشهير في فريق Hardy Boyz؟",
+    "options": [
+      "روب فان دام",
+      "جيف هاردي",
+      "كريستيان",
+      "إيدج"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من أسس فريق Aces & Eights كزعيم معروف بلقب Bully Ray في TNA؟",
+    "options": [
+      "مستر أندرسون",
+      "دي لو براون",
+      "بولي راي",
+      "ديفون"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من واجه ستينغ في أول نزال له باتحاد WWE في WrestleMania 31؟",
+    "options": [
+      "أندرتيكر",
+      "جون سينا",
+      "سيث رولينز",
+      "تربل إتش"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من أصبح أول بطل AEW World Championship في All Out 2019؟",
+    "options": [
+      "جون موكسلي",
+      "كودي رودز",
+      "كريس جيريكو",
+      "كيني أوميغا"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من واجه جون موكسلي على لقب AEW العالمية في عرض All Out 2020؟",
+    "options": [
+      "برايان كيج",
+      "إم جي إف",
+      "كيني أوميغا",
+      "كريس جيريكو"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من انتزع بطولة AEW العالمية من جون موكسلي في Winter Is Coming 2020؟",
+    "options": [
+      "هانغمان آدم بيج",
+      "إم جي إف",
+      "كريس جيريكو",
+      "كيني أوميغا"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من انتزع بطولة AEW العالمية من كيني أوميغا في Full Gear 2021؟",
+    "options": [
+      "جون موكسلي",
+      "برايان دانيلسون",
+      "سي إم بانك",
+      "هانغمان آدم بيج"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من انتزع بطولة AEW العالمية من هانغمان آدم بيج في Double or Nothing 2022؟",
+    "options": [
+      "سي إم بانك",
+      "كيني أوميغا",
+      "جون موكسلي",
+      "إم جي إف"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من انتزع بطولة AEW العالمية من جون موكسلي في Full Gear 2022؟",
+    "options": [
+      "كيني أوميغا",
+      "سي إم بانك",
+      "كريس جيريكو",
+      "إم جي إف"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من هزم إم جي إف ليفوز ببطولة AEW العالمية في Worlds End 2023؟",
+    "options": [
+      "ساموا جو",
+      "جون موكسلي",
+      "داربي ألين",
+      "آدم كول"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من هزم ساموا جو ليفوز ببطولة AEW العالمية في Dynasty 2024؟",
+    "options": [
+      "داربي ألين",
+      "هانغمان آدم بيج",
+      "سويرف ستريكلاند",
+      "ويل أوسبري"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من هزم سويرف ستريكلاند في All In 2024 لينتزع بطولة AEW العالمية؟",
+    "options": [
+      "إم جي إف",
+      "برايان دانيلسون",
+      "ويل أوسبري",
+      "جون موكسلي"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WWE",
+    "question": "من واجه كريس جيريكو في أول مباراة بطولة عالمية لـAEW بعرض All Out 2019؟",
+    "options": [
+      "باك",
+      "هانغمان آدم بيج",
+      "كيني أوميغا",
+      "جون موكسلي"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WWE",
+    "question": "من فاز بأول بطولة TNT لاتحاد AEW في Double or Nothing 2020؟",
+    "options": [
+      "كودي رودز",
+      "لانس آرتشر",
+      "داربي ألين",
+      "برودي لي"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WWE",
+    "question": "من انتزع بطولة TNT من كودي رودز في أغسطس 2020؟",
+    "options": [
+      "برودي لي",
+      "داربي ألين",
+      "سامّي غيفارا",
+      "ميرو"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WCW",
+    "question": "من كان شريك كيني أوميغا في فريق The Golden Lovers؟",
+    "options": [
+      "هيروشي تاناهاشي",
+      "كوتا إيبوشي",
+      "كازوتشيكا أوكادا",
+      "تتسويا نايتو"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WCW",
+    "question": "من كان شريك كيني أوميغا في فريق AEW الزوجي المتوج باللقب عام 2020؟",
+    "options": [
+      "مات جاكسون",
+      "نيك جاكسون",
+      "كودي رودز",
+      "هانغمان آدم بيج"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WCW",
+    "question": "من يشكّل فريق Young Bucks مع مات جاكسون؟",
+    "options": [
+      "آدم كول",
+      "كيني أوميغا",
+      "كريستوفر دانيلز",
+      "نيك جاكسون"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "WCW",
+    "question": "من شكّل فريق FTR في AEW رفقة كاش ويلر؟",
+    "options": [
+      "مات جاكسون",
+      "سي إم بانك",
+      "داكس هاروود",
+      "نيك جاكسون"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "WCW",
+    "question": "من احتفظ ببطولة IWGP للوزن الثقيل ضد تاناهاشي في Wrestle Kingdom 10؟",
+    "options": [
+      "كازوتشيكا أوكادا",
+      "كيني أوميغا",
+      "تتسويا نايتو",
+      "شينسكي ناكامورا"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "WCW",
+    "question": "من انتزع بطولة IWGP للوزن الثقيل من كازوتشيكا أوكادا في Dominion عام 2018؟",
+    "options": [
+      "تتسويا نايتو",
+      "هيروشي تاناهاشي",
+      "كوتا إيبوشي",
+      "كيني أوميغا"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "NWA",
+    "question": "من كان أول قائد لفريق Bullet Club في NJPW عام 2013؟",
+    "options": [
+      "كيني أوميغا",
+      "جاي وايت",
+      "برنس ديفيت",
+      "إيه جي ستايلز"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "NWA",
+    "question": "من أصبح قائد Bullet Club بعد مغادرة برنس ديفيت عام 2014؟",
+    "options": [
+      "إيه جي ستايلز",
+      "كيني أوميغا",
+      "جاي وايت",
+      "كارل أندرسون"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "NWA",
+    "question": "من انتزع قيادة Bullet Club من إيه جي ستايلز مطلع 2016؟",
+    "options": [
+      "برنس ديفيت",
+      "تاما تونغا",
+      "كيني أوميغا",
+      "جاي وايت"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "ECW",
+    "question": "من اشتهر في NJPW بلقب The Rainmaker؟",
+    "options": [
+      "شينسكي ناكامورا",
+      "كازوتشيكا أوكادا",
+      "تتسويا نايتو",
+      "هيروشي تاناهاشي"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "ECW",
+    "question": "من اشتهر في NJPW بلقب The Ace؟",
+    "options": [
+      "تتسويا نايتو",
+      "كوتا إيبوشي",
+      "هيروشي تاناهاشي",
+      "كازوتشيكا أوكادا"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "ECW",
+    "question": "من تزعم فريق Los Ingobernables de Japon في NJPW؟",
+    "options": [
+      "شينسكي ناكامورا",
+      "مينورو سوزوكي",
+      "كازوتشيكا أوكادا",
+      "تتسويا نايتو"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "ECW",
+    "question": "من فاز بنهائي G1 Climax 2016 ليصبح أول أجنبي يفوز بالبطولة؟",
+    "options": [
+      "إيه جي ستايلز",
+      "زاك سابر جونيور",
+      "ويل أوسبري",
+      "كيني أوميغا"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "ECW",
+    "question": "من انتزع أول بطولة IWGP US من كيني أوميغا في عام 2018؟",
+    "options": [
+      "جاي وايت",
+      "كودي رودز",
+      "ويل أوسبري",
+      "جوس روبنسون"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "ECW",
+    "question": "من هزم كيني أوميغا في نهائي G1 Climax 2017؟",
+    "options": [
+      "هيروشي تاناهاشي",
+      "كازوتشيكا أوكادا",
+      "كوتا إيبوشي",
+      "تتسويا نايتو"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "AEW",
+    "question": "من فاز ببطولة New Japan Cup عام 2018؟",
+    "options": [
+      "كازوتشيكا أوكادا",
+      "تتسويا نايتو",
+      "زاك سابر جونيور",
+      "هيروشي تاناهاشي"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "AEW",
+    "question": "من واجه ويل أوسبري في نهائي Best of the Super Juniors 2019؟",
+    "options": [
+      "شينغو تاكاغي",
+      "ريو لي",
+      "هيوكي تاكاهاشي",
+      "إل ديسبيرادو"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "AEW",
+    "question": "من انتزع بطولة IWGP من كازوتشيكا أوكادا في Wrestle Kingdom 14؟",
+    "options": [
+      "كوتا إيبوشي",
+      "جاي وايت",
+      "هيروشي تاناهاشي",
+      "تتسويا نايتو"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "AEW",
+    "question": "من اشتهر في NJPW بلقب King of Strong Style؟",
+    "options": [
+      "تتسويا نايتو",
+      "شينسكي ناكامورا",
+      "كازوتشيكا أوكادا",
+      "مينورو سوزوكي"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "AEW",
+    "question": "من واجه جون سينا على بطولة WWE في SummerSlam 2016 وانتزع منه الفوز؟",
+    "options": [
+      "دين أمبروز",
+      "سيث رولينز",
+      "إيه جي ستايلز",
+      "سي إم بانك"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "AEW",
+    "question": "من فاز ببطولة Royal Rumble للرجال عام 2023 بعد دخوله رقم 30؟",
+    "options": [
+      "غونثر",
+      "سيث رولينز",
+      "لوغان بول",
+      "كودي رودز"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "AEW",
+    "question": "من فاز ببطولة Royal Rumble للرجال عام 2024 للمرة الثانية على التوالي؟",
+    "options": [
+      "جاي أوسو",
+      "كودي رودز",
+      "سي إم بانك",
+      "درو ماكنتاير"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "AEW",
+    "question": "من خسر بطولة WWE أمام كودي رودز في WrestleMania XL؟",
+    "options": [
+      "رومن رينز",
+      "سيث رولينز",
+      "درو ماكنتاير",
+      "داميان بريست"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "AEW",
+    "question": "من انتزع بطولة NXT من آدم كول في عرض Great American Bash 2020؟",
+    "options": [
+      "فين بالور",
+      "توماسو تشامبا",
+      "كيث لي",
+      "جوني غارغانو"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "AEW",
+    "question": "من كان خصم جوني غارغانو في نزال NXT TakeOver: New Orleans على شرط الاستعادة للاتحاد؟",
+    "options": [
+      "توماسو تشامبا",
+      "آدم كول",
+      "أليستر بلاك",
+      "أندرادي"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "AEW",
+    "question": "من كان أول بطل NXT على الإطلاق عام 2012؟",
+    "options": [
+      "فين بالور",
+      "سيث رولينز",
+      "بيغ إي",
+      "بو دالاس"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "AEW",
+    "question": "من فاز بمواجهة NXT TakeOver: Brooklyn 2015 على بطولة NXT ضد كيفن أوينز؟",
+    "options": [
+      "سامي زين",
+      "تايلر بريز",
+      "فين بالور",
+      "ساموا جو"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "AEW",
+    "question": "من احتفظ ببطولة NXT أمام فين بالور في TakeOver: The End عام 2016؟",
+    "options": [
+      "ساموا جو",
+      "شينسكي ناكامورا",
+      "بوبي رود",
+      "أندرادي"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "AEW",
+    "question": "من فاز ببطولة NXT من بوبي رود في TakeOver: Brooklyn III عام 2017؟",
+    "options": [
+      "آدم كول",
+      "أليستر بلاك",
+      "جوني غارغانو",
+      "درو ماكنتاير"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "AEW",
+    "question": "من احتفظ ببطولة NXT أمام جوني غارغانو في Brooklyn 4 عام 2018؟",
+    "options": [
+      "أندرادي",
+      "توماسو تشامبا",
+      "آدم كول",
+      "أليستر بلاك"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "easy",
+    "federation": "TNA",
+    "question": "من واجه سامي زين في NXT TakeOver: R Evolution 2014 على بطولة NXT؟",
+    "options": [
+      "كيفن أوينز",
+      "تايسون كيد",
+      "سيزارو",
+      "أدريان نيفيل"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "medium",
+    "federation": "TNA",
+    "question": "من هزم سامي زين في NXT TakeOver: Rival 2015 ليأخذ اللقب؟",
+    "options": [
+      "فين بالور",
+      "بو دالاس",
+      "كيفن أوينز",
+      "أدريان نيفيل"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "wrestling",
+    "difficulty": "hard",
+    "federation": "TNA",
+    "question": "من انتزع بطولة NXT من كيث لي في TakeOver XXX عام 2020؟",
+    "options": [
+      "داميان بريست",
+      "كاريون كروس",
+      "آدم كول",
+      "جوني غارغانو"
+    ],
+    "correct": 1
   }
 ];
