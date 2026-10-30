@@ -709,14 +709,14 @@ window.BSM_QUESTIONS = [
   },
   {
     "category": "countries",
-    "question": "ما عاصمة بنما؟",
+    "question": "أي قناة مائية تربط المحيط الهادئ بالأطلسي عبر أمريكا الوسطى؟",
     "options": [
-      "كولون",
-      "دافيد",
-      "سانتياغو دي فيراغواس",
-      "مدينة بنما"
+      "قناة بنما",
+      "قناة السويس",
+      "قناة كيل",
+      "قناة كورنث"
     ],
-    "correct": 3,
+    "correct": 0,
     "difficulty": "hard"
   },
   {
@@ -733,14 +733,14 @@ window.BSM_QUESTIONS = [
   },
   {
     "category": "countries",
-    "question": "ما عاصمة غواتيمالا؟",
+    "question": "أي حضارة قديمة ارتبطت بموقع تيكال الأثري في غواتيمالا؟",
     "options": [
-      "إسكينتلا",
-      "مدينة غواتيمالا",
-      "كيتزالتينانغو",
-      "أنتيغوا غواتيمالا"
+      "الأزتك",
+      "الإنكا",
+      "المايا",
+      "الأولمك"
     ],
-    "correct": 1,
+    "correct": 2,
     "difficulty": "medium"
   },
   {
@@ -757,14 +757,14 @@ window.BSM_QUESTIONS = [
   },
   {
     "category": "countries",
-    "question": "ما عاصمة السلفادور؟",
+    "question": "أي دولة في أمريكا الوسطى تقع فيها بحيرة إيلوبانغو؟",
     "options": [
-      "سويابانغو",
-      "سان سلفادور",
-      "سانتا آنا",
-      "سان ميغيل"
+      "السلفادور",
+      "هندوراس",
+      "نيكاراغوا",
+      "غواتيمالا"
     ],
-    "correct": 1,
+    "correct": 0,
     "difficulty": "hard"
   },
   {
@@ -6664,14 +6664,14 @@ window.BSM_QUESTIONS = [
   {
     "category": "countries",
     "difficulty": "easy",
-    "question": "ما عاصمة الكويت؟",
+    "question": "في أي مدينة كويتية يقع قصر السيف التاريخي؟",
     "options": [
-      "الجهراء",
-      "حولي",
       "مدينة الكويت",
-      "الأحمدي"
+      "الجهراء",
+      "الأحمدي",
+      "حولي"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "category": "countries",
@@ -6796,26 +6796,26 @@ window.BSM_QUESTIONS = [
   {
     "category": "countries",
     "difficulty": "easy",
-    "question": "أي مدينة جزائرية تتخذها الدولة مقرًا للحكومة المركزية؟",
+    "question": "أي مدينة جزائرية تُعرف باسم مدينة الجسور المعلّقة؟",
     "options": [
       "وهران",
       "قسنطينة",
       "عنابة",
-      "الجزائر العاصمة"
+      "تلمسان"
     ],
-    "correct": 3
+    "correct": 1
   },
   {
     "category": "countries",
     "difficulty": "easy",
-    "question": "ما عاصمة تونس؟",
+    "question": "أي مدينة تونسية تشتهر بجامع عقبة بن نافع؟",
     "options": [
       "القيروان",
+      "تونس",
       "سوسة",
-      "صفاقس",
-      "تونس"
+      "صفاقس"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "category": "countries",
@@ -7132,386 +7132,386 @@ window.BSM_QUESTIONS = [
   {
     "category": "countries",
     "difficulty": "medium",
-    "question": "ما العملة الوطنية في السعودية؟",
+    "question": "في أي دولة تقع مدينة البتراء الأثرية؟",
     "options": [
-      "الريال السعودي",
-      "الريال القطري",
-      "الريال العُماني",
-      "الريال الإيراني"
+      "لبنان",
+      "الأردن",
+      "العراق",
+      "سوريا"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "countries",
+    "difficulty": "medium",
+    "question": "أي مدينة أردنية تقع على ساحل البحر الأحمر؟",
+    "options": [
+      "العقبة",
+      "إربد",
+      "جرش",
+      "الزرقاء"
     ],
     "correct": 0
   },
   {
     "category": "countries",
     "difficulty": "medium",
-    "question": "ما العملة الوطنية في الكويت؟",
+    "question": "أي بحر يفصل بين شبه الجزيرة العربية وشمال شرقي أفريقيا؟",
     "options": [
-      "الدينار البحريني",
-      "الدينار الأردني",
-      "الدينار العراقي",
-      "الدينار الكويتي"
+      "بحر العرب",
+      "البحر المتوسط",
+      "البحر الأسود",
+      "البحر الأحمر"
     ],
     "correct": 3
   },
   {
     "category": "countries",
     "difficulty": "medium",
-    "question": "ما العملة الوطنية في البحرين؟",
+    "question": "ما المضيق الذي يفصل سلطنة عُمان عن إيران عند مدخل الخليج؟",
     "options": [
-      "الدينار البحريني",
-      "الدرهم الإماراتي",
-      "الدرهم المغربي",
-      "الريال القطري"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "countries",
-    "difficulty": "medium",
-    "question": "ما العملة الوطنية في قطر؟",
-    "options": [
-      "الريال القطري",
-      "الريال السعودي",
-      "الريال العُماني",
-      "الريال الإيراني"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "countries",
-    "difficulty": "medium",
-    "question": "ما العملة الوطنية في الإمارات؟",
-    "options": [
-      "الريال القطري",
-      "الدرهم الإماراتي",
-      "الدرهم المغربي",
-      "الدينار البحريني"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "countries",
-    "difficulty": "medium",
-    "question": "ما العملة الوطنية في عُمان؟",
-    "options": [
-      "الريال العُماني",
-      "الريال السعودي",
-      "الريال القطري",
-      "الريال الإيراني"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "countries",
-    "difficulty": "medium",
-    "question": "ما العملة الوطنية في مصر؟",
-    "options": [
-      "الدينار الليبي",
-      "الجنيه المصري",
-      "الجنيه السوداني",
-      "الليرة اللبنانية"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "countries",
-    "difficulty": "medium",
-    "question": "ما العملة الوطنية في الأردن؟",
-    "options": [
-      "الدينار العراقي",
-      "الدينار الأردني",
-      "الدينار الكويتي",
-      "الدينار البحريني"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "countries",
-    "difficulty": "medium",
-    "question": "ما العملة الوطنية في المغرب؟",
-    "options": [
-      "الريال القطري",
-      "الدرهم المغربي",
-      "الدرهم الإماراتي",
-      "الدينار البحريني"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "countries",
-    "difficulty": "medium",
-    "question": "ما العملة الوطنية في الجزائر؟",
-    "options": [
-      "الدينار الكويتي",
-      "الدينار البحريني",
-      "الدينار الأردني",
-      "الدينار الجزائري"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "countries",
-    "difficulty": "medium",
-    "question": "ما العملة الوطنية في تونس؟",
-    "options": [
-      "الدينار الكويتي",
-      "الدينار البحريني",
-      "الدينار الأردني",
-      "الدينار التونسي"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "countries",
-    "difficulty": "medium",
-    "question": "ما العملة الوطنية في ليبيا؟",
-    "options": [
-      "الجنيه المصري",
-      "الجنيه السوداني",
-      "الليرة اللبنانية",
-      "الدينار الليبي"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "countries",
-    "difficulty": "medium",
-    "question": "ما العملة الوطنية في موريتانيا؟",
-    "options": [
-      "الدينار التونسي",
-      "الأوقية الموريتانية",
-      "اليوان الصيني",
-      "الشلن الكيني"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "countries",
-    "difficulty": "medium",
-    "question": "ما العملة الوطنية في تركيا؟",
-    "options": [
-      "الليرة التركية",
-      "الليرة السورية",
-      "الليرة اللبنانية",
-      "الريال الإيراني"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "countries",
-    "difficulty": "medium",
-    "question": "ما العملة الوطنية في إيران؟",
-    "options": [
-      "الريال القطري",
-      "الريال العُماني",
-      "الريال الإيراني",
-      "الريال السعودي"
+      "مضيق باب المندب",
+      "مضيق جبل طارق",
+      "مضيق هرمز",
+      "مضيق البوسفور"
     ],
     "correct": 2
   },
   {
     "category": "countries",
     "difficulty": "medium",
-    "question": "ما العملة الوطنية في اليابان؟",
+    "question": "في أي مدينة مصرية يقع معبد الكرنك؟",
     "options": [
-      "الين الياباني",
-      "الوون الكوري الجنوبي",
-      "اليوان الصيني",
-      "الدولار التايواني"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "countries",
-    "difficulty": "medium",
-    "question": "ما العملة الوطنية في الصين؟",
-    "options": [
-      "الوون الكوري الجنوبي",
-      "الدولار التايواني",
-      "اليوان الصيني",
-      "الين الياباني"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "countries",
-    "difficulty": "medium",
-    "question": "ما العملة الوطنية في كوريا الجنوبية؟",
-    "options": [
-      "الين الياباني",
-      "اليوان الصيني",
-      "الدولار التايواني",
-      "الوون الكوري الجنوبي"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "countries",
-    "difficulty": "medium",
-    "question": "ما العملة الوطنية في الهند؟",
-    "options": [
-      "الروبية الهندية",
-      "التاكا البنغلاديشية",
-      "الروبية السريلانكية",
-      "الروبية النيبالية"
-    ],
-    "correct": 0
-  },
-  {
-    "category": "countries",
-    "difficulty": "medium",
-    "question": "ما العملة الوطنية في باكستان؟",
-    "options": [
-      "الروبية النيبالية",
-      "الروبية السريلانكية",
-      "الروبية الباكستانية",
-      "الروبية الهندية"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "countries",
-    "difficulty": "medium",
-    "question": "ما العملة الوطنية في بنغلاديش؟",
-    "options": [
-      "الروبية النيبالية",
-      "الروبية الهندية",
-      "التاكا البنغلاديشية",
-      "الروبية السريلانكية"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "countries",
-    "difficulty": "medium",
-    "question": "ما العملة الوطنية في نيبال؟",
-    "options": [
-      "الروبية السريلانكية",
-      "الروبية الهندية",
-      "الروبية النيبالية",
-      "التاكا البنغلاديشية"
-    ],
-    "correct": 2
-  },
-  {
-    "category": "countries",
-    "difficulty": "medium",
-    "question": "ما العملة الوطنية في سريلانكا؟",
-    "options": [
-      "الروبية الهندية",
-      "الروبية السريلانكية",
-      "التاكا البنغلاديشية",
-      "الروبية النيبالية"
+      "أسوان",
+      "الأقصر",
+      "الإسكندرية",
+      "الجيزة"
     ],
     "correct": 1
   },
   {
     "category": "countries",
     "difficulty": "medium",
-    "question": "ما العملة الوطنية في تايلاند؟",
+    "question": "في أي دولة تقع مدينة جرش الأثرية؟",
     "options": [
-      "البات التايلاندي",
-      "الدونغ الفيتنامي",
-      "الرينغيت الماليزي",
-      "البيزو الفلبيني"
+      "الأردن",
+      "سوريا",
+      "لبنان",
+      "العراق"
     ],
     "correct": 0
   },
   {
     "category": "countries",
     "difficulty": "medium",
-    "question": "ما العملة الوطنية في فيتنام؟",
+    "question": "في أي مدينة مغربية يقع مسجد الحسن الثاني؟",
     "options": [
-      "البيزو الفلبيني",
-      "الدونغ الفيتنامي",
-      "البات التايلاندي",
-      "الرينغيت الماليزي"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "countries",
-    "difficulty": "medium",
-    "question": "ما العملة الوطنية في الفلبين؟",
-    "options": [
-      "البات التايلاندي",
-      "الدونغ الفيتنامي",
-      "الرينغيت الماليزي",
-      "البيزو الفلبيني"
+      "الرباط",
+      "فاس",
+      "مراكش",
+      "الدار البيضاء"
     ],
     "correct": 3
   },
   {
     "category": "countries",
     "difficulty": "medium",
-    "question": "ما العملة الوطنية في ماليزيا؟",
+    "question": "أي نهر يمر بوسط العاصمة العراقية بغداد؟",
     "options": [
-      "البات التايلاندي",
-      "الدونغ الفيتنامي",
-      "البيزو الفلبيني",
-      "الرينغيت الماليزي"
-    ],
-    "correct": 3
-  },
-  {
-    "category": "countries",
-    "difficulty": "medium",
-    "question": "ما العملة الوطنية في إندونيسيا؟",
-    "options": [
-      "الروبية الباكستانية",
-      "الروبية النيبالية",
-      "الروبية الإندونيسية",
-      "الروبية الهندية"
+      "الفرات",
+      "النيل",
+      "دجلة",
+      "الأردن"
     ],
     "correct": 2
   },
   {
     "category": "countries",
     "difficulty": "medium",
-    "question": "ما العملة الوطنية في جنوب أفريقيا؟",
+    "question": "أي مدينة إسبانية تضم قصر الحمراء؟",
     "options": [
-      "النايرا النيجيرية",
-      "الشلن الكيني",
-      "البير الإثيوبي",
-      "الراند الجنوب أفريقي"
+      "إشبيلية",
+      "غرناطة",
+      "قرطبة",
+      "طليطلة"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "countries",
+    "difficulty": "medium",
+    "question": "أي نهر يمر بمدينة باريس؟",
+    "options": [
+      "السين",
+      "اللوار",
+      "الرون",
+      "الغارون"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "countries",
+    "difficulty": "medium",
+    "question": "أي نهر يمر بمدينة لندن؟",
+    "options": [
+      "السيفرن",
+      "الترينت",
+      "الميرسي",
+      "التايمز"
     ],
     "correct": 3
   },
   {
     "category": "countries",
     "difficulty": "medium",
-    "question": "ما العملة الوطنية في نيجيريا؟",
+    "question": "أي نهر يمر بمدينة بودابست؟",
     "options": [
-      "البير الإثيوبي",
-      "النايرا النيجيرية",
-      "الراند الجنوب أفريقي",
-      "الشلن الكيني"
+      "الراين",
+      "الإلبه",
+      "الدانوب",
+      "الفيستولا"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "countries",
+    "difficulty": "medium",
+    "question": "في أي دولة تقع آثار ماتشو بيتشو؟",
+    "options": [
+      "بوليفيا",
+      "بيرو",
+      "الإكوادور",
+      "كولومبيا"
     ],
     "correct": 1
   },
   {
     "category": "countries",
     "difficulty": "medium",
-    "question": "ما العملة الوطنية في كينيا؟",
+    "question": "أي دولة تشترك مع بيرو في بحيرة تيتيكاكا؟",
     "options": [
-      "البير الإثيوبي",
-      "الشلن الكيني",
-      "الراند الجنوب أفريقي",
-      "النايرا النيجيرية"
-    ],
-    "correct": 1
-  },
-  {
-    "category": "countries",
-    "difficulty": "medium",
-    "question": "ما العملة الوطنية في إثيوبيا؟",
-    "options": [
-      "البير الإثيوبي",
-      "الراند الجنوب أفريقي",
-      "النايرا النيجيرية",
-      "الشلن الكيني"
+      "بوليفيا",
+      "تشيلي",
+      "الإكوادور",
+      "كولومبيا"
     ],
     "correct": 0
+  },
+  {
+    "category": "countries",
+    "difficulty": "medium",
+    "question": "في أي دولة يقع مسطح سالار دي أويوني الملحي؟",
+    "options": [
+      "تشيلي",
+      "الأرجنتين",
+      "بيرو",
+      "بوليفيا"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "countries",
+    "difficulty": "medium",
+    "question": "أي دولة تضم معبد أنغكور وات؟",
+    "options": [
+      "تايلاند",
+      "لاوس",
+      "كمبوديا",
+      "فيتنام"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "countries",
+    "difficulty": "medium",
+    "question": "في أي دولة يقع معبد بوروبودور البوذي؟",
+    "options": [
+      "ماليزيا",
+      "إندونيسيا",
+      "تايلاند",
+      "كمبوديا"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "countries",
+    "difficulty": "medium",
+    "question": "في أي جزيرة يابانية يقع جبل فوجي؟",
+    "options": [
+      "هونشو",
+      "هوكايدو",
+      "كيوشو",
+      "شيكوكو"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "countries",
+    "difficulty": "medium",
+    "question": "في أي ولاية أسترالية يقع الحاجز المرجاني العظيم؟",
+    "options": [
+      "نيو ساوث ويلز",
+      "فيكتوريا",
+      "أستراليا الغربية",
+      "كوينزلاند"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "countries",
+    "difficulty": "medium",
+    "question": "ما أكبر جزيرة في البحر المتوسط من حيث المساحة؟",
+    "options": [
+      "سردينيا",
+      "قبرص",
+      "صقلية",
+      "كريت"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "countries",
+    "difficulty": "medium",
+    "question": "أي حضارة جعلت من مدينة كوسكو مركزًا لإمبراطوريتها؟",
+    "options": [
+      "الأزتك",
+      "الإنكا",
+      "المايا",
+      "الأولمك"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "countries",
+    "difficulty": "medium",
+    "question": "أي دولة تضم مدينة سمرقند التاريخية؟",
+    "options": [
+      "أوزبكستان",
+      "طاجيكستان",
+      "تركمانستان",
+      "قرغيزستان"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "countries",
+    "difficulty": "medium",
+    "question": "أي دولة تضم مدينة تمبكتو التاريخية؟",
+    "options": [
+      "النيجر",
+      "تشاد",
+      "موريتانيا",
+      "مالي"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "countries",
+    "difficulty": "medium",
+    "question": "في أي مدينة روسية تقع كاتدرائية القديس باسيل؟",
+    "options": [
+      "سانت بطرسبرغ",
+      "قازان",
+      "موسكو",
+      "نوفوسيبيرسك"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "countries",
+    "difficulty": "medium",
+    "question": "أي إقليم إيطالي تقع فيه مدينة نابولي؟",
+    "options": [
+      "لاتسيو",
+      "كامبانيا",
+      "توسكانا",
+      "صقلية"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "countries",
+    "difficulty": "medium",
+    "question": "في أي إقليم إسباني تقع مدينة برشلونة؟",
+    "options": [
+      "كتالونيا",
+      "الأندلس",
+      "غاليسيا",
+      "فالنسيا"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "countries",
+    "difficulty": "medium",
+    "question": "أي دولة تقع فيها مدينة وادي حلفا؟",
+    "options": [
+      "مصر",
+      "ليبيا",
+      "تشاد",
+      "السودان"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "countries",
+    "difficulty": "medium",
+    "question": "في أي دولة تقع منطقة وادي رم الصحراوية؟",
+    "options": [
+      "السعودية",
+      "الإمارات",
+      "الأردن",
+      "عُمان"
+    ],
+    "correct": 2
+  },
+  {
+    "category": "countries",
+    "difficulty": "medium",
+    "question": "في أي دولة يقع جبل كليمنجارو؟",
+    "options": [
+      "كينيا",
+      "تنزانيا",
+      "أوغندا",
+      "رواندا"
+    ],
+    "correct": 1
+  },
+  {
+    "category": "countries",
+    "difficulty": "medium",
+    "question": "في أي دولة تقع جزيرة سومطرة؟",
+    "options": [
+      "إندونيسيا",
+      "ماليزيا",
+      "الفلبين",
+      "بروناي"
+    ],
+    "correct": 0
+  },
+  {
+    "category": "countries",
+    "difficulty": "medium",
+    "question": "في أي دولة تقع شلالات إيغوازو على الحدود مع البرازيل؟",
+    "options": [
+      "أوروغواي",
+      "بيرو",
+      "باراغواي",
+      "الأرجنتين"
+    ],
+    "correct": 3
+  },
+  {
+    "category": "countries",
+    "difficulty": "medium",
+    "question": "أي مدينة سودانية تقع عند التقاء النيلين الأزرق والأبيض؟",
+    "options": [
+      "مدني",
+      "عطبرة",
+      "الخرطوم",
+      "بورتسودان"
+    ],
+    "correct": 2
   },
   {
     "category": "countries",
@@ -8812,7 +8812,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "question": "من المصارع المطابق لهذا الإنجاز في NJPW؟ أول حامل لبطولة IWGP للوزن الثقيل بصيغتها المعتمدة عام 1987",
+    "question": "من كان أول حامل لبطولة IWGP للوزن الثقيل بصيغتها المعتمدة عام 1987؟",
     "options": [
       "أنطونيو إينوكي",
       "تاتسومي فوجينامي",
@@ -8824,7 +8824,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "question": "من المصارع المطابق لهذا الإنجاز في NJPW؟ أول حامل لبطولة IWGP إنتركونتيننتال عام 2011",
+    "question": "من كان أول حامل لبطولة IWGP إنتركونتيننتال عام 2011؟",
     "options": [
       "شينسكي ناكامورا",
       "هيروشي تاناهاشي",
@@ -8836,7 +8836,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "question": "من المصارع المطابق لهذا الإنجاز في NJPW؟ أول حامل لبطولة IWGP الولايات المتحدة عام 2017",
+    "question": "من كان أول حامل لبطولة IWGP الولايات المتحدة عام 2017؟",
     "options": [
       "هيروشي تاناهاشي",
       "كازوتشيكا أوكادا",
@@ -8848,7 +8848,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "question": "من المصارع المطابق لهذا الإنجاز في NJPW؟ أول حامل لبطولة IWGP العالمية للوزن الثقيل عند توحيد اللقبين عام 2021",
+    "question": "من أصبح أول حامل لبطولة IWGP العالمية للوزن الثقيل بعد توحيد اللقبين عام 2021؟",
     "options": [
       "تتسويا نايتو",
       "كازوتشيكا أوكادا",
@@ -8860,7 +8860,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "question": "من المصارع المطابق لهذا الإنجاز في NJPW؟ الفائز ببطولة G1 Climax عام 2012",
+    "question": "من فاز ببطولة G1 Climax عام 2012؟",
     "options": [
       "كازوتشيكا أوكادا",
       "هيروشي تاناهاشي",
@@ -8872,7 +8872,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "question": "من المصارع المطابق لهذا الإنجاز في AEW؟ أول بطل All-Atlantic عام 2022 قبل تغيير اسم اللقب إلى International",
+    "question": "من توّج بأول بطولة AEW All-Atlantic عام 2022؟",
     "options": [
       "باك",
       "جون موكسلي",
@@ -8884,7 +8884,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "question": "من المصارع المطابق لهذا الإنجاز في AEW؟ منحه تاز بطولة FTW في يوليو 2020",
+    "question": "من المصارع الذي منحه تاز بطولة FTW في يوليو 2020؟",
     "options": [
       "براين كيج",
       "جون موكسلي",
@@ -8896,7 +8896,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "question": "من المصارع المطابق لهذا الإنجاز في AEW؟ انتزع بطولة Impact العالمية من كينّي أوميغا في أول حلقة Rampage عام 2021",
+    "question": "من انتزع بطولة Impact العالمية من كينّي أوميغا في الحلقة الأولى من AEW Rampage عام 2021؟",
     "options": [
       "هانغمان آدم بيج",
       "كريستيان كيج",
@@ -8908,7 +8908,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "question": "من المصارع المطابق لهذا الإنجاز في AEW؟ فاز ببطولة Continental Classic الأولى عام 2023",
+    "question": "من فاز بأول بطولة AEW Continental Classic عام 2023؟",
     "options": [
       "جون موكسلي",
       "برايان دانيلسون",
@@ -8920,7 +8920,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "question": "من المصارع المطابق لهذا الإنجاز في AEW؟ انتزع بطولة AEW العالمية من هانغمان آدم بيج في Double or Nothing 2022",
+    "question": "من المصارع الذي ظهر في AEW Rampage: The First Dance عام 2021 بعد غياب سنوات عن الحلبة؟",
     "options": [
       "جون موكسلي",
       "برايان دانيلسون",
@@ -8932,7 +8932,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "question": "من المصارع المطابق لهذا الإنجاز في TNA؟ فاز بأول بطولة King of the Mountain في Slammiversary 2015",
+    "question": "من فاز بأول بطولة King of the Mountain في عرض Slammiversary 2015؟",
     "options": [
       "كورت أنجل",
       "بوبي رود",
@@ -8944,7 +8944,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "question": "من المصارع المطابق لهذا الإنجاز في TNA؟ فاز بأول بطولة Impact Grand عام 2016",
+    "question": "من توّج بأول بطولة Impact Grand عام 2016؟",
     "options": [
       "إيدي إدواردز",
       "درو غالاوي",
@@ -8956,7 +8956,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "question": "من المصارع المطابق لهذا الإنجاز في TNA؟ هزم بولي راي على البطولة العالمية في Destination X 2013",
+    "question": "من هزم بولي راي لينتزع لقب TNA العالمي في Destination X عام 2013؟",
     "options": [
       "إيه جي ستايلز",
       "أوستن أيريز",
@@ -8968,7 +8968,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "question": "من المصارع المطابق لهذا الإنجاز في TNA؟ انتزع البطولة العالمية من ستينغ في Slammiversary 2011",
+    "question": "من انتزع بطولة TNA العالمية من ستينغ في Slammiversary عام 2011؟",
     "options": [
       "مستر أندرسون",
       "ستينغ",
@@ -8980,7 +8980,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "question": "من المصارع المطابق لهذا الإنجاز في TNA؟ احتفظ بالبطولة العالمية أمام بوبي رود في Bound for Glory 2011",
+    "question": "من احتفظ ببطولة TNA العالمية أمام بوبي رود في Bound for Glory عام 2011؟",
     "options": [
       "كورت أنجل",
       "بوبي رود",
@@ -8992,7 +8992,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "question": "من المصارع المطابق لهذا الوصف في WCW؟ آخر حامل لبطولة الولايات المتحدة قبل شراء WWE للاتحاد عام 2001",
+    "question": "من كان آخر حامل لبطولة الولايات المتحدة في WCW قبل شراء الاتحاد عام 2001؟",
     "options": [
       "بوكر تي",
       "جيف جاريت",
@@ -9004,7 +9004,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "question": "من المصارع المطابق لهذا الوصف في WCW؟ آخر حامل لبطولة الوزن الخفيف Cruiserweight قبل شراء WWE للاتحاد عام 2001",
+    "question": "من كان آخر حامل لبطولة الوزن الخفيف في WCW قبل شراء الاتحاد عام 2001؟",
     "options": [
       "شين هيلمز",
       "تشافو غيريرو",
@@ -9016,7 +9016,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "question": "من المصارع المطابق لهذا الوصف في WCW؟ أول من حمل بطولة WCW International World Heavyweight عام 1993",
+    "question": "من كان أول حامل لبطولة WCW International World Heavyweight عام 1993؟",
     "options": [
       "داستن رودز",
       "فيندر",
@@ -9028,7 +9028,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "question": "من المصارع المطابق لهذا الوصف في WCW؟ احتفظ ببطولة الولايات المتحدة أمام بام بام بيغلو في Starrcade 1988",
+    "question": "من احتفظ ببطولة الولايات المتحدة أمام بام بام بيغلو في Starrcade عام 1988؟",
     "options": [
       "ليكس لوغر",
       "باري ويندهام",
@@ -9040,7 +9040,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "question": "من المصارع المطابق لهذا الوصف في WCW؟ هزم راندي سافاج على بطولة WCW العالمية في ختام Starrcade 1995",
+    "question": "من هزم راندي سافاج لينتزع بطولة WCW العالمية في Starrcade عام 1995؟",
     "options": [
       "راندي سافاج",
       "ليكس لوغر",
@@ -9819,12 +9819,12 @@ window.BSM_QUESTIONS = [
   },
   {
     "category": "gaming",
-    "question": "في Rocket League، كم لاعبًا يضم الفريق الواحد في طور 3v3 القياسي؟",
+    "question": "في Rocket League، ما اسم الطور الذي يستبدل الكرة بقرص هوكي؟",
     "options": [
-      "5",
-      "3",
-      "2",
-      "4"
+      "Hoops",
+      "Snow Day",
+      "Dropshot",
+      "Rumble"
     ],
     "correct": 1,
     "difficulty": "medium"
@@ -11724,7 +11724,7 @@ window.BSM_QUESTIONS = [
     "category": "wrestling",
     "difficulty": "medium",
     "federation": "WWE",
-    "question": "من كان اسم والد كودي رودز الشهير في المصارعة؟",
+    "question": "من المصارع الملقب بـ«الحلم الأمريكي» والذي درّب عددًا كبيرًا من نجوم WWE؟",
     "options": [
       "ريك فلير",
       "بوب أورتن",
@@ -11788,7 +11788,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "easy",
-    "federation": "WWE",
+    "federation": "WCW",
     "question": "من واجه هالك هوغان في عرض Bash at the Beach 1994 على بطولة WCW؟",
     "options": [
       "فيندر",
@@ -11801,7 +11801,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "medium",
-    "federation": "WWE",
+    "federation": "WCW",
     "question": "من دافع بنجاح عن بطولة WCW أمام دايموند دالاس بيج في Halloween Havoc 1998؟",
     "options": [
       "بريت هارت",
@@ -11814,7 +11814,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "federation": "WWE",
+    "federation": "WCW",
     "question": "من أنهى سلسلة غولدبيرغ بلا هزيمة في WCW Starrcade 1998؟",
     "options": [
       "كيفن ناش",
@@ -11840,7 +11840,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "medium",
-    "federation": "WWE",
+    "federation": "WCW",
     "question": "من كان أول من يظهر من Outsiders في WCW Nitro عام 1996؟",
     "options": [
       "سكوت هول",
@@ -11866,7 +11866,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "easy",
-    "federation": "WWE",
+    "federation": "WCW",
     "question": "من اشتهر في WCW بحركة Diamond Cutter؟",
     "options": [
       "كيفن ناش",
@@ -11892,7 +11892,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "federation": "WWE",
+    "federation": "WCW",
     "question": "من حاز بطولة WCW العالمية بعد Starrcade 1999 ضد غولدبيرغ؟",
     "options": [
       "جيف جاريت",
@@ -11931,7 +11931,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "federation": "WWE",
+    "federation": "WCW",
     "question": "من عُرف باسم Big Poppa Pump بعد تحوله إلى مسيرة فردية في WCW؟",
     "options": [
       "كيفن ناش",
@@ -11945,7 +11945,7 @@ window.BSM_QUESTIONS = [
     "category": "wrestling",
     "difficulty": "easy",
     "federation": "WWE",
-    "question": "من كان شريك سكوت شتاينر في فريق Steiner Brothers؟",
+    "question": "من المصارع الذي انقلب عليه سكوت شتاينر خلال مواجهة فريقه ضد The Outsiders في SuperBrawl VIII عام 1998؟",
     "options": [
       "ستيفي راي",
       "ريك شتاينر",
@@ -12049,7 +12049,7 @@ window.BSM_QUESTIONS = [
     "category": "wrestling",
     "difficulty": "hard",
     "federation": "WWE",
-    "question": "من كان شريك ديفون دادلي في فريق Dudley Boyz؟",
+    "question": "من كان شريك ديفون دادلي في المواجهة الشهيرة ضد هاردي بويز وإيدج وكريستيان في WrestleMania X-Seven؟",
     "options": [
       "بوبا راي دادلي",
       "سبايك دادلي",
@@ -12179,7 +12179,7 @@ window.BSM_QUESTIONS = [
     "category": "wrestling",
     "difficulty": "easy",
     "federation": "WWE",
-    "question": "من كان شريك مات هاردي الشهير في فريق Hardy Boyz؟",
+    "question": "من شارك مات هاردي في الفوز ببطولة الفرق في WrestleMania 33 بعد عودتهما المفاجئة؟",
     "options": [
       "روب فان دام",
       "جيف هاردي",
@@ -12217,7 +12217,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "easy",
-    "federation": "WWE",
+    "federation": "AEW",
     "question": "من أصبح أول بطل AEW World Championship في All Out 2019؟",
     "options": [
       "جون موكسلي",
@@ -12230,7 +12230,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "medium",
-    "federation": "WWE",
+    "federation": "AEW",
     "question": "من واجه جون موكسلي على لقب AEW العالمية في عرض All Out 2020؟",
     "options": [
       "برايان كيج",
@@ -12243,7 +12243,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "federation": "WWE",
+    "federation": "AEW",
     "question": "من انتزع بطولة AEW العالمية من جون موكسلي في Winter Is Coming 2020؟",
     "options": [
       "هانغمان آدم بيج",
@@ -12256,7 +12256,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "easy",
-    "federation": "WWE",
+    "federation": "AEW",
     "question": "من انتزع بطولة AEW العالمية من كيني أوميغا في Full Gear 2021؟",
     "options": [
       "جون موكسلي",
@@ -12269,7 +12269,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "medium",
-    "federation": "WWE",
+    "federation": "AEW",
     "question": "من انتزع بطولة AEW العالمية من هانغمان آدم بيج في Double or Nothing 2022؟",
     "options": [
       "سي إم بانك",
@@ -12282,7 +12282,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "federation": "WWE",
+    "federation": "AEW",
     "question": "من انتزع بطولة AEW العالمية من جون موكسلي في Full Gear 2022؟",
     "options": [
       "كيني أوميغا",
@@ -12295,7 +12295,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "easy",
-    "federation": "WWE",
+    "federation": "AEW",
     "question": "من هزم إم جي إف ليفوز ببطولة AEW العالمية في Worlds End 2023؟",
     "options": [
       "ساموا جو",
@@ -12308,7 +12308,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "medium",
-    "federation": "WWE",
+    "federation": "AEW",
     "question": "من هزم ساموا جو ليفوز ببطولة AEW العالمية في Dynasty 2024؟",
     "options": [
       "داربي ألين",
@@ -12321,7 +12321,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "federation": "WWE",
+    "federation": "AEW",
     "question": "من هزم سويرف ستريكلاند في All In 2024 لينتزع بطولة AEW العالمية؟",
     "options": [
       "إم جي إف",
@@ -12334,7 +12334,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "easy",
-    "federation": "WWE",
+    "federation": "AEW",
     "question": "من واجه كريس جيريكو في أول مباراة بطولة عالمية لـAEW بعرض All Out 2019؟",
     "options": [
       "باك",
@@ -12347,7 +12347,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "medium",
-    "federation": "WWE",
+    "federation": "AEW",
     "question": "من فاز بأول بطولة TNT لاتحاد AEW في Double or Nothing 2020؟",
     "options": [
       "كودي رودز",
@@ -12386,7 +12386,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "medium",
-    "federation": "WCW",
+    "federation": "AEW",
     "question": "من كان شريك كيني أوميغا في فريق AEW الزوجي المتوج باللقب عام 2020؟",
     "options": [
       "مات جاكسون",
@@ -12400,7 +12400,7 @@ window.BSM_QUESTIONS = [
     "category": "wrestling",
     "difficulty": "hard",
     "federation": "WCW",
-    "question": "من يشكّل فريق Young Bucks مع مات جاكسون؟",
+    "question": "من كان النصف الآخر من فريق Young Bucks في مباراة All Out 2021 ضد لوتشا براذرز؟",
     "options": [
       "آدم كول",
       "كيني أوميغا",
@@ -12412,7 +12412,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "easy",
-    "federation": "WCW",
+    "federation": "AEW",
     "question": "من شكّل فريق FTR في AEW رفقة كاش ويلر؟",
     "options": [
       "مات جاكسون",
@@ -12451,7 +12451,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "easy",
-    "federation": "NWA",
+    "federation": "NJPW",
     "question": "من كان أول قائد لفريق Bullet Club في NJPW عام 2013؟",
     "options": [
       "كيني أوميغا",
@@ -12490,7 +12490,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "easy",
-    "federation": "ECW",
+    "federation": "NJPW",
     "question": "من اشتهر في NJPW بلقب The Rainmaker؟",
     "options": [
       "شينسكي ناكامورا",
@@ -12503,7 +12503,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "medium",
-    "federation": "ECW",
+    "federation": "NJPW",
     "question": "من اشتهر في NJPW بلقب The Ace؟",
     "options": [
       "تتسويا نايتو",
@@ -12516,7 +12516,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "federation": "ECW",
+    "federation": "NJPW",
     "question": "من تزعم فريق Los Ingobernables de Japon في NJPW؟",
     "options": [
       "شينسكي ناكامورا",
@@ -12607,7 +12607,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "easy",
-    "federation": "AEW",
+    "federation": "NJPW",
     "question": "من اشتهر في NJPW بلقب King of Strong Style؟",
     "options": [
       "تتسويا نايتو",
@@ -12672,7 +12672,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "federation": "AEW",
+    "federation": "WWE",
     "question": "من انتزع بطولة NXT من آدم كول في عرض Great American Bash 2020؟",
     "options": [
       "فين بالور",
@@ -12685,7 +12685,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "easy",
-    "federation": "AEW",
+    "federation": "WWE",
     "question": "من كان خصم جوني غارغانو في نزال NXT TakeOver: New Orleans على شرط الاستعادة للاتحاد؟",
     "options": [
       "توماسو تشامبا",
@@ -12698,7 +12698,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "medium",
-    "federation": "AEW",
+    "federation": "WWE",
     "question": "من كان أول بطل NXT على الإطلاق عام 2012؟",
     "options": [
       "فين بالور",
@@ -12711,7 +12711,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "federation": "AEW",
+    "federation": "WWE",
     "question": "من فاز بمواجهة NXT TakeOver: Brooklyn 2015 على بطولة NXT ضد كيفن أوينز؟",
     "options": [
       "سامي زين",
@@ -12724,7 +12724,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "easy",
-    "federation": "AEW",
+    "federation": "WWE",
     "question": "من احتفظ ببطولة NXT أمام فين بالور في TakeOver: The End عام 2016؟",
     "options": [
       "ساموا جو",
@@ -12737,7 +12737,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "medium",
-    "federation": "AEW",
+    "federation": "WWE",
     "question": "من فاز ببطولة NXT من بوبي رود في TakeOver: Brooklyn III عام 2017؟",
     "options": [
       "آدم كول",
@@ -12750,7 +12750,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "federation": "AEW",
+    "federation": "WWE",
     "question": "من احتفظ ببطولة NXT أمام جوني غارغانو في Brooklyn 4 عام 2018؟",
     "options": [
       "أندرادي",
@@ -12763,7 +12763,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "easy",
-    "federation": "TNA",
+    "federation": "WWE",
     "question": "من واجه سامي زين في NXT TakeOver: R Evolution 2014 على بطولة NXT؟",
     "options": [
       "كيفن أوينز",
@@ -12776,7 +12776,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "medium",
-    "federation": "TNA",
+    "federation": "WWE",
     "question": "من هزم سامي زين في NXT TakeOver: Rival 2015 ليأخذ اللقب؟",
     "options": [
       "فين بالور",
@@ -12789,7 +12789,7 @@ window.BSM_QUESTIONS = [
   {
     "category": "wrestling",
     "difficulty": "hard",
-    "federation": "TNA",
+    "federation": "WWE",
     "question": "من انتزع بطولة NXT من كيث لي في TakeOver XXX عام 2020؟",
     "options": [
       "داميان بريست",
